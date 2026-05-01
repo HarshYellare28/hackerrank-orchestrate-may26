@@ -31,7 +31,7 @@ The following information summarizes where you can access each Home tab feature:
 
   ![PrepareCodingQues.gif](https://assets.usepylon.com/0de3a1ce-684d-4589-ad00-0840216c2f36%2F1753267948229-PrepareCodingQues.gif?Expires=253370764800&Signature=KOSWVLoLYrx1-jcP5QNIUaK~LoulTJ-tot1skeVoiyF9r3QyFFC0ep8fq2cRfoiriJrmqUVEEsLEyO2RldBFLSdsdQAdNsy59zfGOdBLCxsoBw4EcmMHudUUEORHexFNkcPbO1l6vDrUNiJSG9XZo2mnHEcE1m2nps23YK4ZR9zpio2WPBjhQC8JDLpP8jBhXn4hadHfg6xuzM~CJiM6f2Harv80hIZxcZFnUSaZJbfbPmTg06wBTgvE8MH27FSMDj2~EsxXCgujlApr4ngLFrQLMfZuRGzccWIEGoJ-yjbVjZ7JtCb8DFz4FjsmfeRnk5wYPDD7UFgjdurDz8m8Wg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-- **Role certification tests**: Role-based certification tests are accessible through the **Certify** tab.
+- **Role certification code.tests**: Role-based certification code.tests are accessible through the **Certify** tab.
 
   ![image.png](https://assets.usepylon.com/0de3a1ce-684d-4589-ad00-0840216c2f36%2F1753267857396-image.png?Expires=253370764800&Signature=VpqqbmAwE23h7oIftQqV4J0zAkgnieHRN6j9qch0MXL3F~wwZQiTh3liW0IPtqKj6x4anrU4u20MUZ4yuyxpbiU-VFQS3GQm55ODTBrUyg1iV8SRp9mjOm16U2sQvdUnqSEWKEP4x6UQhHJ7k1CRl4VPwYB8dKuVSZd87~A05vsVzkU16DH3BQTBqVTrNMTTi6oQgj-nHzhaguW7XC-28jU7F0vVJ6PSz2Dh~aZWF0mppR6MUMMdxREc3kusr9vrpiJaMPN4yl0CFFDae9uzXcjc~9WHO5VRxHz3xqGOxabg3ilJXxPf86BllpvxXO0F1qadVPKRziyVDEOTlb6UeA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

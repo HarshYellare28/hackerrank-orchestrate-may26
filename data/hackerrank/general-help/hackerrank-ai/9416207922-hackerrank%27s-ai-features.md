@@ -72,7 +72,7 @@ The table below shows a comprehensive catalog of AI features grouped by product,
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" data-colwidth="137" style="width: 137px"><p>Screen</p></td>
-<td data-colspan="1" data-rowspan="1" data-colwidth="134" style="width: 134px"><p>[AI Assistant (IDE and Chat)](https://support.hackerrank.com/articles/1152916770-ai-assisted-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" data-colwidth="134" style="width: 134px"><p>[AI Assistant (IDE and Chat)](https://support.hackerrank.com/articles/1152916770-ai-assisted-code.tests)</p></td>
 <td data-colspan="1" data-rowspan="1" data-colwidth="170" style="width: 170px"><p>OpenAI</p>
 <p><br />
 </p></td>

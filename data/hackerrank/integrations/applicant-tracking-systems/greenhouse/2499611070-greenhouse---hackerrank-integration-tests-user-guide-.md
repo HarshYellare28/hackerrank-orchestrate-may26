@@ -1,8 +1,8 @@
 ---
 title: "Greenhouse - HackerRank Integration Test User Guide Prerequisites Adding HackerRank assessment stage in Greenhouse Sending HackerRank test invite to a candidate Sending bulk HackerRank test invites to candidates Viewing candidate test results Viewing updated scores in Greenhouse"
 title_slug: "greenhouse-hackerrank-integration-test-user-guide-prerequisites-adding-hackerrank-assessment-stage-in-greenhouse-sending-hackerrank-test-invite-to-a-candidate-sending-bulk-hackerrank-test-invites-to-candidates-viewing-candidate-test-results-viewing-updated-scores-in-greenhouse"
-source_url: "https://support.hackerrank.com/articles/2499611070-greenhouse---hackerrank-integration-tests-user-guide-"
-article_slug: "2499611070-greenhouse---hackerrank-integration-tests-user-guide-"
+source_url: "https://support.hackerrank.com/articles/2499611070-greenhouse---hackerrank-integration-code.tests-user-guide-"
+article_slug: "2499611070-greenhouse---hackerrank-integration-code.tests-user-guide-"
 last_updated_exact: "Mar 11, 2026, 3:53 PM"
 last_updated_relative: "Last updated 2 months ago"
 breadcrumbs:
@@ -61,7 +61,7 @@ To add **HackerRank Assessment** stage to a job interview plan in Greenhouse:
 
 **Note:** Before you send a test invite:
 
-- Create and publish the required HackerRank tests in your HackerRank for Work account.
+- Create and publish the required HackerRank code.tests in your HackerRank for Work account.
 
 - Add **HackerRank Assessment** stage to a job interview plan in Greenhouse. For more information, see [Adding HackerRank assessment stage in Greenhouse](https://support.hackerrank.com/articles/2499611070-greenhouse---hackerrank-integration-tests-user-guide-#adding-hackerrank-assessment-stage-in-greenhouse)**.**
 

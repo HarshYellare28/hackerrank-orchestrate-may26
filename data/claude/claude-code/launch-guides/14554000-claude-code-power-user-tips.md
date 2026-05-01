@@ -55,7 +55,7 @@ Then prompt naturally: *“Migrate all sync IO to async. Batch the changes and l
 
 #### /batch for large migrations
 
-The `/batch` command interviews you about a migration, then fans the work out to as many worktree agents as needed — dozens, hundreds, or more. Each agent works in isolation, tests its own changes, and creates a PR independently.
+The `/batch` command interviews you about a migration, then fans the work out to as many worktree agents as needed — dozens, hundreds, or more. Each agent works in isolation, code.tests its own changes, and creates a PR independently.
 
 ```
 &gt; /batch migrate src/ from Solid to React
@@ -318,7 +318,7 @@ Ask Claude to use the `bq` CLI to pull and analyze metrics on the fly—keep a B
 
 #### Bug fixing
 
-Enable the Slack MCP, paste a bug thread into Claude, and just say **“fix”**—zero context switching. Or say **“go fix the failing CI tests”** without micromanaging how. Point Claude at **docker logs** to troubleshoot distributed systems—it’s surprisingly capable at this.
+Enable the Slack MCP, paste a bug thread into Claude, and just say **“fix”**—zero context switching. Or say **“go fix the failing CI code.tests”** without micromanaging how. Point Claude at **docker logs** to troubleshoot distributed systems—it’s surprisingly capable at this.
 
 #### Plugins
 

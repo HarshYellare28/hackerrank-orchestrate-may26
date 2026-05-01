@@ -47,7 +47,7 @@ Assuming that you have already enabled Teamtailor - HackerRank Integration, we w
 
   ![image19.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046853509-?Expires=253370764800&Signature=Z-~GHO6~sBzIChBmJB-lplk1Vs~otGSeOKCQogwU3FTpCAD7-xeYL7~Qv14i8QvoopUYN1RkbFFED6vMkFD9OgPm2-jxCYPsLXV99NidyQYlh8S7UKNk216TisVD3I7mobwVfyu0wiWoRhCWeScbPOOOcLroWsN4I3IawaV85gN31771Y30hVWSNVT2FH-1zlv89FfMxhRmpSgelxudNwUmYRyNaUKAiPb5n4JNk7GGIUm-EpAqu45ciewRgv3PjUrf88NrfPyQjHU6CY~8mM4Frk5FOCAq~G3m6NvreJ7mjwcK5Tmxzwp7HPDlV2y68OBoPagH7Uv8DE5iWYrQJfA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The email linked with your HackerRank account and the email linked with the Teamtailor account should be the same to map the tests created by you.
+**Note:** The email linked with your HackerRank account and the email linked with the Teamtailor account should be the same to map the code.tests created by you.
 
 - When the candidate moves to the respective stage where you have set the trigger, they will receive the test invitation.
 
@@ -79,7 +79,7 @@ The email ID you have used with your Teamtailor account should be the same as th
 
 #### What type of license do I need in HackerRank to use the integration?
 
-- To invite candidates to take HackerRank tests via Teamtailor - you would need to have a Recruiter license in HackerRank.
+- To invite candidates to take HackerRank code.tests via Teamtailor - you would need to have a Recruiter license in HackerRank.
 
 - To review results in Teamtailor - you need to have appropriate permissions in Teamtailor.
 

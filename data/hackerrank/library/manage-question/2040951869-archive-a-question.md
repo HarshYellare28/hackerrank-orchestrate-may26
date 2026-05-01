@@ -66,7 +66,7 @@ To unarchive a question:
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776758436-image.png?Expires=253370764800&Signature=cF1vycVDNKugYfhcAFV47shAE6yjTv2O88GF6MfGHlkaelA-7DscQSTVL9nA5dttpbLgb9Idn3R5Kye0u09PEj3c~sR-S06J3~Bv9TfsXJbS5eJSCwvctqBscCoU5H85Bq87xtrL5HknzUggERm~K5e0VQwm2CJdt9cPm-r4RZ74RB~97PP9qIBDDsJ53Neee4ma9o-I9LoNoOO4WxImHp8Rqk3a-mF8du1mlHPOcIcWgzy8ADSSrpI~YXJekeHVOIpWg9yDQD4zUmbnff4cHhDU-XIrmhy16Pald7EYtrftHwefH7UxId2aJc2o7-BWKUdCzEGoOy82Vs5BDNL6mg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can unarchive multiple questions at once. You can unarchive multiple test questions at once. From the archived questions filter, select the checkboxes next to the tests and click **Restore**.
+**Note:** You can unarchive multiple questions at once. You can unarchive multiple test questions at once. From the archived questions filter, select the checkboxes next to the code.tests and click **Restore**.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776775123-image.png?Expires=253370764800&Signature=GemVdV5OUbskxEWJTvVXEW6AiFyYRHbRjGSQLJhGvJUzu6gptbBUzFBMbtAgiTylWK8vsxrRFqRd3WkHSqA-A7gtXAt7dmwdTHeya5Lkn2FtNz2CGW3z2RGwMLATv8yPtjbxLgir5ewV6mnjNsugVla5nMwTlWpha2hfoENqAlXjnA9GnPWwlSuqVgky8v2bmBhYU9QfqK~6rHmAK3jDABOSYEXt6fS-yLyj6t5c8r0Wg5w4KLideY2eiIkp2HV0P2ZZdziEpxgc~1vOpzykSPTf~XCLupDc1istku-F701L5g6hl7zd4-qt9qO1-fIx6fQjI4IVdt-Nq~~Gfs9UwQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

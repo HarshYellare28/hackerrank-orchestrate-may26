@@ -14,9 +14,9 @@ breadcrumbs:
 
 _Last updated: Mar 11, 2026, 3:41 PM (Last updated 2 months ago)_
 
-The updated sharing controls enable you to disable automated team-based sharing for tests and questions. By activating this feature, newly created tests and questions are shared only with their creators and company administrators. Owners can manually share these resources with specific teams or users as needed.
+The updated sharing controls enable you to disable automated team-based sharing for code.tests and questions. By activating this feature, newly created code.tests and questions are shared only with their creators and company administrators. Owners can manually share these resources with specific teams or users as needed.
 
-This feature provides enhanced control over access management. It allows creators to selectively share tests and questions with individuals or teams rather than relying on automatic team-based sharing, ensuring greater precision and flexibility in managing permissions.
+This feature provides enhanced control over access management. It allows creators to selectively share code.tests and questions with individuals or teams rather than relying on automatic team-based sharing, ensuring greater precision and flexibility in managing permissions.
 
 **Important**: Enabling this feature is irreversible. Use this option carefully to avoid unintended access changes.
 
@@ -50,7 +50,7 @@ For additional details, refer to:
 
     - **Check the box** to convert implicit access to explicit access and retain user permissions.
 
-    - **Leave the box unchecked** to remove implicit access. Users without explicit sharing will lose access to the tests and questions.
+    - **Leave the box unchecked** to remove implicit access. Users without explicit sharing will lose access to the code.tests and questions.
 
     - Carefully review the notice before proceeding.
 

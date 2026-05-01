@@ -98,7 +98,7 @@ The HackerRank platform supports two types of assessments. Both these types of a
 
 - **HackerRank Tests**
 
-  - Includes asynchronous coding tests, code review questions, and MCQs.
+  - Includes asynchronous coding code.tests, code review questions, and MCQs.
 
   - Includes Projects.
 
@@ -114,7 +114,7 @@ The HackerRank platform supports two types of assessments. Both these types of a
 
 ## Adding Assessments to a Requisition
 
-Once the integration is set up and your team has defined the assessments for a job, you should be able to add HackerRank tests and interviews to an ORC requisition.
+Once the integration is set up and your team has defined the assessments for a job, you should be able to add HackerRank code.tests and interviews to an ORC requisition.
 
 - Navigate to the **Job Requisitions** page under **Administer Workforce** \> **Hiring**. Click **+Add** in the top right to create a new requisition.
 
@@ -212,7 +212,7 @@ The recruiter requesting assessments from ORC needs a HackerRank license with th
 
 Once a candidate has completed their HackerRank test or interview, their results will be available on HackerRank and synced with ORC.
 
-The feedback available for HackerRank tests and interviews is different. Here is a screenshot of the candidate’s ORC profile before completing a HackerRank assessment.
+The feedback available for HackerRank code.tests and interviews is different. Here is a screenshot of the candidate’s ORC profile before completing a HackerRank assessment.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735340801992-35363875937811-fe26ed90-e9c4-45e2-8d42-438704775eb1?Expires=253370764800&amp;Signature=kySW8HjVuOIwNrQjxH8Xhizvbw-IeGqr30TiH6DDF61UKhvNKEdZVhbN~zY65H8yIphQbkx7l8oNPiRaut~sdtmziWsQhPT4WyjmlVWvj0M~HgbhlD9Hva0d3wmLrKq2BhaVY7y2oRBh5-jM8kx62bojyINYkxc3OVROBOz2R7upZrt7zlOYxDBhanIpDDAG~O7hIx1l6CI9Wc0Rav7xTgb9F-ekgsHmyMIanUTcvfTRJfHIgifhGj9qpdUcc4tFE2avWW9dkz4LasPnbNpix72mhz9kWtG-X7oo4XQEdjuXaLMUDlvucnXDezunQ5-f7r06cNSxmMTHwflQY0X20A__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
@@ -246,7 +246,7 @@ HackerRank updates the provided fields as follows:
 
 - **Band:** Upon completion, the band can be **Evaluated**, **Pass**, or **Fail**. By default, it will be set to **To Be Evaluated** upon assessment completion. If a cutoff score is set on the test level in HackerRank, the band will automatically update to **Pass** or **Fail**.
 
-- **Comments:** For HackerRank tests, we provide additional test results in the comment section. This includes the **Max Score**, attempt end time and **Question Details**.
+- **Comments:** For HackerRank code.tests, we provide additional test results in the comment section. This includes the **Max Score**, attempt end time and **Question Details**.
 
 - **View Results:** Upon test completion, this link will direct to the most recently completed HackerRank assessment report.
 

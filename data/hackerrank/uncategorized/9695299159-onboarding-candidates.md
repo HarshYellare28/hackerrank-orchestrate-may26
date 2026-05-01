@@ -17,7 +17,7 @@ It is a good practice to familiarize your Candidates with the HackerRank platfor
 
 ## Creating Tests
 
-You can create tests in HackerRank based on a specific role, or you can even choose to customize your tests to suit your company’s hiring requirements. In role-based tests, you can generate Tests by including skill-mapped questions from the HackerRank library for HackerRank-created roles. In customized tests, you can build a Custom Test to include questions that assess candidates for a specific job role and their experience and skill level. You can also include Questions from the HackerRank built-in Library or your company library.
+You can create code.tests in HackerRank based on a specific role, or you can even choose to customize your code.tests to suit your company’s hiring requirements. In role-based code.tests, you can generate Tests by including skill-mapped questions from the HackerRank library for HackerRank-created roles. In customized code.tests, you can build a Custom Test to include questions that assess candidates for a specific job role and their experience and skill level. You can also include Questions from the HackerRank built-in Library or your company library.
 
 Refer to the following articles to understand the Test creation process.
 
@@ -39,7 +39,7 @@ Refer to the following articles to understand the Test creation process.
 
 ## Inviting Candidates 
 
-Once you have created your tests, you can invite your candidates to take part in this assessment by sending them an email invitation containing the link to **Start Test. **
+Once you have created your code.tests, you can invite your candidates to take part in this assessment by sending them an email invitation containing the link to **Start Test. **
 
 Refer to the following articles to learn how to invite candidates.
 

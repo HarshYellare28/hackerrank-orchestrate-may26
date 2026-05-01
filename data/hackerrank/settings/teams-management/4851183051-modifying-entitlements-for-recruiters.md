@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Jan 28, 2026, 11:00 AM (Last updated 3 months ago)_
 
-You can modify recruiter entitlements to control access to tests, interviews, questions, and candidates.
+You can modify recruiter entitlements to control access to code.tests, interviews, questions, and candidates.
 
 # Prerequisite
 

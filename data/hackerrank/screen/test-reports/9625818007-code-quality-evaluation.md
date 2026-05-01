@@ -22,11 +22,11 @@ Code quality evaluation assesses how well the written code adheres to best pract
 
 - **Automated tools**: Static analysis tools automatically highlight code smells, formatting issues, or potential errors.
 
-- **Test cases and unit tests**: These validate the functional correctness of the code.
+- **Test cases and unit code.tests**: These validate the functional correctness of the code.
 
 - **Quality metrics**: Metrics include cyclomatic complexity, code coverage, duplication rates, and adherence to coding conventions.
 
-In HackerRank tests, correctness is evaluated through automated test cases and quality assurance checks for functional specifications. Code quality evaluation may also involve highlighting potential issues in specific areas. Adding comments on issues or metrics can enhance assessments by providing insights into maintainability, efficiency, and overall code quality.
+In HackerRank code.tests, correctness is evaluated through automated test cases and quality assurance checks for functional specifications. Code quality evaluation may also involve highlighting potential issues in specific areas. Adding comments on issues or metrics can enhance assessments by providing insights into maintainability, efficiency, and overall code quality.
 
 # Key benefits
 
@@ -62,7 +62,7 @@ HackerRank uses the time-debt method to create a grading system for code quality
 
 # Enabling code quality evaluation
 
-Turn on **Advanced Evaluation** to enable code quality evaluation for all tests. For more information, see [Enable Advanced Evaluation](https://support.hackerrank.com/articles/7098008997-advanced-evaluation#enable-advanced-evaluation-6).
+Turn on **Advanced Evaluation** to enable code quality evaluation for all code.tests. For more information, see [Enable Advanced Evaluation](https://support.hackerrank.com/articles/7098008997-advanced-evaluation#enable-advanced-evaluation-6).
 
 # Reviewing candidate results
 

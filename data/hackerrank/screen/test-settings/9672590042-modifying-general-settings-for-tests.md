@@ -1,8 +1,8 @@
 ---
 title: "Modify General Settings for Tests"
-title_slug: "modify-general-settings-for-tests"
-source_url: "https://support.hackerrank.com/articles/9672590042-modifying-general-settings-for-tests"
-article_slug: "9672590042-modifying-general-settings-for-tests"
+title_slug: "modify-general-settings-for-code.tests"
+source_url: "https://support.hackerrank.com/articles/9672590042-modifying-general-settings-for-code.tests"
+article_slug: "9672590042-modifying-general-settings-for-code.tests"
 last_updated_exact: "Jul 30, 2025, 9:49 AM"
 last_updated_relative: "Last updated 9 months ago"
 breadcrumbs:
@@ -40,11 +40,11 @@ To modify the general settings of a test:
 
     - **Job description link**: Add a link to the job description. This helps hiring stakeholders and reviewers contextualize the test.
 
-    - **Role association**: Select the role associated with the test (for example, Software Engineer). This helps categorize tests by job function.
+    - **Role association**: Select the role associated with the test (for example, Software Engineer). This helps categorize code.tests by job function.
 
     - **Work experience**: Tag the test to an experience level (for example, 0–2 years). This helps align the test with candidate seniority.
 
-    - **Test label**: Enter a custom label. This label appears in the test listing view and helps you identify tests easily.
+    - **Test label**: Enter a custom label. This label appears in the test listing view and helps you identify code.tests easily.
 
     - **Candidate-facing language**: Select the language in which the test interface appears to candidates. The available options are English and Canadian French. For more information on changing to Canadian French, see [📄 Assess Candidates in Canadian French Language](/articles/6201558176).
 

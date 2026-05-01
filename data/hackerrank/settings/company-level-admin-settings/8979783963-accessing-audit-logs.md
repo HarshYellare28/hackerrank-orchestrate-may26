@@ -42,7 +42,7 @@ HackerRank provides a comprehensive audit trail for all user events, allowing ad
 
     2.  **Delete** is when a specific object or attribute is deleted
 
-- **Object** - Indicates the source that is modified. For example, interviews, tests, questions, library, etc. 
+- **Object** - Indicates the source that is modified. For example, interviews, code.tests, questions, library, etc. 
 
 - **Object Id** - A unique ID allotted to each object. 
 

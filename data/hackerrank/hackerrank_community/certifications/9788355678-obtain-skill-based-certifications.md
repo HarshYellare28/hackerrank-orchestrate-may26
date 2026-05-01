@@ -45,7 +45,7 @@ To obtain a role-based or skill-based certification:
 
     - **Local Environment (Git + IDE)**: Work locally using Git and an IDE.
 
-    **Note:** This step is available only for the **Angular, React, and Java** certification tests.
+    **Note:** This step is available only for the **Angular, React, and Java** certification code.tests.
 
 12. Review the confirmation form and check all required declaration boxes to confirm your agreement.
 

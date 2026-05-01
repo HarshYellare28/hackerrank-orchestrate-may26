@@ -204,7 +204,7 @@ After writing your solution:
 
 2.  Review the test results in the preview panel on the right. If any test cases fail, the AI interviewer may prompt you to review specific parts of your code. It may also provide hints to help you troubleshoot.
 
-3.  Once all tests pass, click **Submit Code**. The AI interviewer may ask follow-up questions about your solution, your approach, or related problem-solving concepts to assess your understanding.
+3.  Once all code.tests pass, click **Submit Code**. The AI interviewer may ask follow-up questions about your solution, your approach, or related problem-solving concepts to assess your understanding.
 
 # Ending an interview
 

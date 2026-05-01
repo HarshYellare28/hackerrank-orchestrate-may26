@@ -1,6 +1,6 @@
 ---
-title: "Data Science Questions Creating a Data Science question Candidate experience Scoring a Data Science question in tests"
-title_slug: "data-science-questions-creating-a-data-science-question-candidate-experience-scoring-a-data-science-question-in-tests"
+title: "Data Science Questions Creating a Data Science question Candidate experience Scoring a Data Science question in code.tests"
+title_slug: "data-science-questions-creating-a-data-science-question-candidate-experience-scoring-a-data-science-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/5187107609-data-science-questions"
 article_slug: "5187107609-data-science-questions"
 last_updated_exact: "Apr 22, 2026, 4:49 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Projects Questions"
 ---
 
-# Data Science Questions Creating a Data Science question Candidate experience Scoring a Data Science question in tests
+# Data Science Questions Creating a Data Science question Candidate experience Scoring a Data Science question in code.tests
 
 _Last updated: Apr 22, 2026, 4:49 PM (Last updated 4 days ago)_
 
@@ -269,7 +269,7 @@ Candidates solve these challenges in an embedded VS Code IDE within HackerRank P
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776699940887-image.png?Expires=253370764800&Signature=JGmfuuC~3cb-vOrpEF1NfJnxfgoTWJ2K45Y3wJIUmgN17x~QxqdUxILJ0wFpsVeSqfYDO4oFVTLE8SLsrkWgjn2A9ZNQ22YHABcNRWFhGgkRE7v~rvJXwuhw58KnTkbc5ryttkWaN149r8BlAvrLEJ3NIvoJKwNvxjgimydePQtltainH3VtT7ldGrJhq9MNEwHjt4kzxjOUss333u5-uRzBZqiNvXPddjLB8fjI4gxE9hj-LSuIZKslojqI5biN2KbtJqyT1YmouHl~whRD9dulaKih4fOX-EHFSpjlHDXGrcAMfywYTCu8gKBtVgg2qF3~hjzgNFQf-MvklD04fA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Data Science question in tests
+# Scoring a Data Science question in code.tests
 
 You can evaluate a Data Science question using **Automatic** or **Manual** scoring.
 

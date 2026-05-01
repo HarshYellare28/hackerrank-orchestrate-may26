@@ -1,8 +1,8 @@
 ---
 title: "Modify Sections Settings for Tests"
-title_slug: "modify-sections-settings-for-tests"
-source_url: "https://support.hackerrank.com/articles/2528926257-modify-sections-settings-for-tests"
-article_slug: "2528926257-modify-sections-settings-for-tests"
+title_slug: "modify-sections-settings-for-code.tests"
+source_url: "https://support.hackerrank.com/articles/2528926257-modify-sections-settings-for-code.tests"
+article_slug: "2528926257-modify-sections-settings-for-code.tests"
 last_updated_exact: "Jul 30, 2025, 9:50 AM"
 last_updated_relative: "Last updated 9 months ago"
 breadcrumbs:

@@ -32,7 +32,7 @@ A great candidate experience begins before the test or interview starts. Share t
 
 - [Getting Started with Interviews](https://candidatesupport.hackerrank.com/collections/5664360688-before)
 
-**Note:** Share the [Attempting Tests Using the HackerRank Desktop App](https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-appp) article with candidates who take tests using the HackerRank Desktop App.
+**Note:** Share the [Attempting Tests Using the HackerRank Desktop App](https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-appp) article with candidates who take code.tests using the HackerRank Desktop App.
 
 These resources provide essential setup instructions to optimize performance, including:
 

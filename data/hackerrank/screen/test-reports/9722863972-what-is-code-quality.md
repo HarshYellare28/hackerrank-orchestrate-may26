@@ -30,7 +30,7 @@ The key attributes used to evaluate the code quality of the candidate are as fol
     *Examples*: Calling a garbage collector, not closing a socket, and so on.
 
   - Critical: The critical issues have operational or security risks. These issues might lead to unexpected behavior in production without impacting the integrity of the whole application.\
-    *Examples*: NullPointerException, badly caught exceptions, lack of unit tests, and so on.
+    *Examples*: NullPointerException, badly caught exceptions, lack of unit code.tests, and so on.
 
   - Major: These issues might have a substantial impact on productivity.\
     Examples: Too complex methods, package cycles, and so on.

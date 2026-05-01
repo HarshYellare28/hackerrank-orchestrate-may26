@@ -67,7 +67,7 @@ Your Recruitee account is now integrated with HackerRank.
 
 ![Recruitee last but one.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769700303053-Recruiteelastbutone.png?Expires=253370764800&Signature=H4Na1nGR4XbAe7nO-r9RWLZZ7sZw8MPvBaUtzUzBuX2lPwb0afXYSaL5EjiFhtGI2SLGSMO-6rbiUfJ9Uel2iLQhDnniEkN6IK~H8wenLLbrsojXbcfLikmgaaNkV-kXh1d6upUSus79QwPCl5W3-fVHEqcw0mmd4lRnltRuhbLzl8xiSHF7TUJe2NGquXT58J-LJbp4YSGS10H8IrGSzGZwNGOoVI73g-KG9Dy5m83GbKkOrobbBUCG0-tihLraSvl-6LFYjVu6lWDfRf7PRs1OzhxgBsMwcnb7yVYDOCvqPBBDQJJR9x2FZj2jYR-p~HlxRK4VEgsKHa7OWKT5GA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Manage** to control role-based access for viewing and sending tests, or to remove the integration.
+**Note:** Click **Manage** to control role-based access for viewing and sending code.tests, or to remove the integration.
 
 ![Recruitee last.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769700369302-Recruiteelast.png?Expires=253370764800&Signature=rWjMYFAIgoz7bsm8il~PVj6bwJhbG2bTktEX8tnODKWVc-9mQeS8hu0odLyKOeACce1EqwrlGQiuAVuClMkK7Lf7qT6M0USJU2hDNTN8aEK7gbdiIo-FBGFEpwK4ZuGKapJMAMReLCOTgMrUHoeJz3QBIw3hzKF5z9KXC2uZsY2A7JzT7m1qdF2xuN8CcbzPTwrueGfugP3NACrrG7dSpOPlGb0Mhmj-aA1M04YBurxGrtGi3xt7ZJ0w6oBiKZX-nc5UkRj8HhzQI3RrreEvag3CCiPl-K3huWutWAlXvbWcLq0So0mwf1hG2scn9ccDM-AwyMbLJBikqT0FHP1HcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

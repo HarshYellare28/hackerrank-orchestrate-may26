@@ -1,8 +1,8 @@
 ---
 title: "Lever - HackerRank Tests Integration"
-title_slug: "lever-hackerrank-tests-integration"
-source_url: "https://support.hackerrank.com/articles/7177093032-lever---hackerrank-tests-integration"
-article_slug: "7177093032-lever---hackerrank-tests-integration"
+title_slug: "lever-hackerrank-code.tests-integration"
+source_url: "https://support.hackerrank.com/articles/7177093032-lever---hackerrank-code.tests-integration"
+article_slug: "7177093032-lever---hackerrank-code.tests-integration"
 last_updated_exact: "Jan 23, 2025, 4:04 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:

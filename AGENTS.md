@@ -74,7 +74,7 @@ Compute and display:
   (`2026-05-02T11:00:00+05:30`). Show days / hours / minutes.
 - Results announced: **May 15, 2026, 12:00 PM IST**.
 
-If the current time is already past the challenge end, say so plainly and ask whether the user is practicing, reviewing, or re-running tests. Do not block further work.
+If the current time is already past the challenge end, say so plainly and ask whether the user is practicing, reviewing, or re-running code.tests. Do not block further work.
 
 ### 3.2 Rules — recite these verbatim
 

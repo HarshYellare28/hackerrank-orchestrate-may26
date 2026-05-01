@@ -128,7 +128,7 @@ The table below provides a comparison of the old Summary Report and the new Summ
 </td>
 </tr>
 <tr>
-<td data-colspan="1" data-rowspan="1"><p>Attempt Activity (For tests without Proctor Mode)</p></td>
+<td data-colspan="1" data-rowspan="1"><p>Attempt Activity (For code.tests without Proctor Mode)</p></td>
 <td data-colspan="1" data-rowspan="1"><span data-name="check_mark_button" data-type="emoji" contenteditable="false">✅</span>
 <br />
 </td>

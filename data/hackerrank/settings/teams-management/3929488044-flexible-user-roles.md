@@ -28,7 +28,7 @@ The flexible user roles offer the following features:
 
 # Entitlements
 
-Entitlements define the actions that users can perform within the platform. They control activities such as viewing, creating, updating, and deleting tests, interviews, and questions.
+Entitlements define the actions that users can perform within the platform. They control activities such as viewing, creating, updating, and deleting code.tests, interviews, and questions.
 
 **Note:** HackerRank offers four types of user roles. For more information about these roles and their default entitlements, see [Types of User Roles](https://support.hackerrank.com/articles/9603546665).
 

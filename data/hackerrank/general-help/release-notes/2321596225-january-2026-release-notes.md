@@ -34,7 +34,7 @@ When you create a variant of an existing test, you now see a clear overview that
 
 ### Add Time to Candidate Attempts
 
-You can now grant time accommodations to candidates taking variant-based tests. Time adjustments can be applied at the section level for each candidate.
+You can now grant time accommodations to candidates taking variant-based code.tests. Time adjustments can be applied at the section level for each candidate.
 
 For bulk updates, select multiple candidates from the same test variant. The relevant test sections will be displayed, allowing you to add time where applicable.
 
@@ -48,7 +48,7 @@ Creating test variant criteria is now more intuitive. The redesigned Add Variant
 
 ![create variant updated.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768922563543-createvariantupdated.gif?Expires=253370764800&Signature=lxwi7JOvF26uj26eZXbavyFEkPpHWU4SdKdJrgbTOi9iF9vvHBxUSgOX~tRsFm~~6lHnVooZsXDX2q8jwvWySqEVUPnz~d0CHQXzT2rfvgEOZ4-DwtIUN-rPECxcSqMmMKEnFW99TC9wmikY272l9aIMt7I~Cz1PMSRKmyaOeQJmCbQ36YDxliVRe-BbcAncjEa2YknZB8DJsIyfDkS8aB5M4W5CydNw7o5Q4TT3XrG9GJ3Tmd1u1TWquR0wdJMiRWZ6Rd6ZBiXoIfEEA2T~H0bOx8aE9FxuyZ-rhdch4NCXmcyFl65Jy7L8i04IrCW7yGWvAUiu76VHwdmj-VzkvA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-For more information, see [Adding extra time in variant-based tests](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests), [📄 Create Test Variants](/articles/7530103378).
+For more information, see [Adding extra time in variant-based code.tests](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests), [📄 Create Test Variants](/articles/7530103378).
 
 ## Improved Navigation in Detailed Reports
 
@@ -70,11 +70,11 @@ For more information, see [📄 Manage Email Templates](/articles/9684438314), [
 
 ## Leakage Indicator and Filter on Test Listing Page
 
-You can now identify tests with one or more leaked questions directly from the test listing page. An indicator appears next to affected tests, and you can hover over it to see the number of leaked questions. As part of this update, the Leaked tab under Library has been removed.
+You can now identify code.tests with one or more leaked questions directly from the test listing page. An indicator appears next to affected code.tests, and you can hover over it to see the number of leaked questions. As part of this update, the Leaked tab under Library has been removed.
 
-![leaked tests filters.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768979893969-leakedtestsfilters.gif?Expires=253370764800&Signature=QUjkDtrvzb-qquDWQcepv3hUERqs3FihiCI5iAAdpo71-K~N8k4YeQMPcFmtjL3JQ-5xU4JVRoqnbiPB6P9nAew1QGB3Zkslr6raeFAD7Ba8cWcF4t4TaQ8BwITFtwCbUkEp5bOEXPP0jV7Y5ZHXHHP7VMsiekGzDrMYcaqFWJ30LChrn2M3v0GF4pgM6VyJbx2vF0dkPRbRx-2ZKqMXM2jctJzRlUnq~~cGtc6TOXNqfmAn7KUrjgdskrnoHfNoM2RWcWyab8RAYbaCop32HcXRJC34NxYl6CLyWUoFSNl-yyepGvHVpage0~4bDW~lHEUc7nsHKmy3N9EXrUuy7A__&Key-Pair-Id=K3NV4LZ47N8M46)
+![leaked code.tests filters.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768979893969-leakedtestsfilters.gif?Expires=253370764800&Signature=QUjkDtrvzb-qquDWQcepv3hUERqs3FihiCI5iAAdpo71-K~N8k4YeQMPcFmtjL3JQ-5xU4JVRoqnbiPB6P9nAew1QGB3Zkslr6raeFAD7Ba8cWcF4t4TaQ8BwITFtwCbUkEp5bOEXPP0jV7Y5ZHXHHP7VMsiekGzDrMYcaqFWJ30LChrn2M3v0GF4pgM6VyJbx2vF0dkPRbRx-2ZKqMXM2jctJzRlUnq~~cGtc6TOXNqfmAn7KUrjgdskrnoHfNoM2RWcWyab8RAYbaCop32HcXRJC34NxYl6CLyWUoFSNl-yyepGvHVpage0~4bDW~lHEUc7nsHKmy3N9EXrUuy7A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-For more information, see [Viewing tests with leaked questions](https://support.hackerrank.com/articles/8820947031-managing-leaked-questions#viewing-tests-with-leaked-questions).
+For more information, see [Viewing code.tests with leaked questions](https://support.hackerrank.com/articles/8820947031-managing-leaked-questions#viewing-tests-with-leaked-questions).
 
 ## See Predefined Fields During Candidate Details Setup
 
@@ -98,7 +98,7 @@ The upgraded Summary Report gives you a more complete view of each attempt, with
 
 - For new attempts, links to Detailed Reports in CSV exports now open up to four times faster.
 
-- You can now evaluate how candidates leverage AI in solving real-world challenges with a new AI Fluency grade. This is shown in the ‘Performance Summary’ section of the Summary Report for tests taken with the AI Assistant.
+- You can now evaluate how candidates leverage AI in solving real-world challenges with a new AI Fluency grade. This is shown in the ‘Performance Summary’ section of the Summary Report for code.tests taken with the AI Assistant.
 
   You can also view more details on question-level AI fluency in the ‘Candidate Evaluation’ tab of the Detailed Report.
 
@@ -122,7 +122,7 @@ For more information, see [📄 View Candidate Test Summary Report](/articles/81
 
 ## Updated Test Access Permissions
 
-- Starring a test is now independent of your user role, so you can mark important tests regardless of your permissions.
+- Starring a test is now independent of your user role, so you can mark important code.tests regardless of your permissions.
 
   ![Updated test access permissions - star test.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768923915810-Updatedtestaccesspermissions-startest.gif?Expires=253370764800&Signature=OrBGm8U9lXTv~f2gVjMlXkER5c6rOHT0kSYC5T6SfDW2TZyFUve~bI08VHMDXsW~O7YC8QSR5MCgitmwJDZK5mX-rtTfSqj7EVnY-blZYir3ivqsMQ5yNGiJCt3P6gGGNSFIBiR3JkgxTVYYEQtKrk-IylvM-Maku-JetLfIrdHWyvpE6qVgnDDhrMs~6eZSsNnfh1~Rf9pARUEu21hK8VsJRdBM6TEV65ZnLIM1awG3ndGXqzRrU2VkxxIbY9mGIE5gxqX7GkdTo7yrQYWIL9M~ToiCBWNrqlFAtAp6OedMt8O46aOnlctwDRFbPGbLHxCQjNjD4VdILV2edjO9EA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -337,7 +337,7 @@ Every test that includes a Code Repo question now includes a paired sample proje
 
 ## AI-Assisted IDE Enhancements (AI Add-on)
 
-You’ll see an improved AI Assistant experience across tests and interviews, with several key enhancements:
+You’ll see an improved AI Assistant experience across code.tests and interviews, with several key enhancements:
 
 - Faster load times so you can start using the assistant sooner.
 
@@ -359,7 +359,7 @@ For more information, see [📄 AI-Assisted Tests](/articles/1152916770), [📄 
 
 ## Object Detection in Webcam Feed (AI Add-on)
 
-During tests with Proctor Mode enabled, the system automatically detects and flags suspicious objects in a candidate’s webcam feed, including devices like mobile phones and tablets. This helps you identify potential interactions with unauthorized objects and review them alongside other integrity signals.
+During code.tests with Proctor Mode enabled, the system automatically detects and flags suspicious objects in a candidate’s webcam feed, including devices like mobile phones and tablets. This helps you identify potential interactions with unauthorized objects and review them alongside other integrity signals.
 
 *This feature will roll out in February as part of a phased release.*
 
@@ -565,11 +565,11 @@ Due to increased integrity risks, the Offline (Local IDE) experience is no longe
 
 What this means for you:
 
-- Existing tests that use only Offline flow will continue to function as-is
+- Existing code.tests that use only Offline flow will continue to function as-is
 
 - Tests with Offline flow enabled cannot be cloned
 
-- All other new and existing tests will require candidates to use the HackerRank IDE
+- All other new and existing code.tests will require candidates to use the HackerRank IDE
 
 ## Interview
 

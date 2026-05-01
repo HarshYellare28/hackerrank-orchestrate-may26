@@ -62,7 +62,7 @@ The recommended learning resources cover the concepts needed to attain the profi
 
 ### Practice Assessment
 
-- To test your skills, you can use the Practice Assessments. These untimed tests provide a safe environment to hone your coding skills without consequences. Only you can access the results of these assessments. 
+- To test your skills, you can use the Practice Assessments. These untimed code.tests provide a safe environment to hone your coding skills without consequences. Only you can access the results of these assessments. 
 
 - These assessments are unlimited; you can keep practicing until you can take one.
 

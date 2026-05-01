@@ -138,7 +138,7 @@ You can use read-only files to mark certain files like test cases read-only. The
 version: 1.0configuration:has_webserver: true
   readonly_paths:
     - app/test.js
-    - app/tests/*scoring:
+    - app/code.tests/*scoring:
     command: "npm test"
     files:
       - results/unit.xmlide_config:

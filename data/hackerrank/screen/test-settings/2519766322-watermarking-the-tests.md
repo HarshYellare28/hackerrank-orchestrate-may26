@@ -1,8 +1,8 @@
 ---
 title: "Watermarking the Tests"
-title_slug: "watermarking-the-tests"
-source_url: "https://support.hackerrank.com/articles/2519766322-watermarking-the-tests"
-article_slug: "2519766322-watermarking-the-tests"
+title_slug: "watermarking-the-code.tests"
+source_url: "https://support.hackerrank.com/articles/2519766322-watermarking-the-code.tests"
+article_slug: "2519766322-watermarking-the-code.tests"
 last_updated_exact: "Dec 13, 2024, 4:59 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:

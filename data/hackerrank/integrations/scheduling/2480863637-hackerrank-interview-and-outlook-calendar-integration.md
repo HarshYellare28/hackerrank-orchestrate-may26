@@ -87,7 +87,7 @@ You will be able to view the details of this interview in your HackerRank accoun
 
 7.  **How do you pull questions from a candidate's HackerRank Test inside the Interview session?\**
     When you log into the Interview session as an interviewer, you will see an “Import” option on the left that includes questions from the HackerRank test the candidate took.\
-    If you do not see the questions from candidates' tests, even if they have taken a test:\
+    If you do not see the questions from candidates' code.tests, even if they have taken a test:\
     1. Check if the candidate has used the same email to log in to the Interview as they used for the test.\
     2. If the candidate logs in to the session after the Interviewer, you can refresh the page, and you will be able to pull in the questions.
 

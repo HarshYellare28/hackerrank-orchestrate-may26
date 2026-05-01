@@ -16,7 +16,7 @@ _Last updated: Sep 3, 2025, 11:09 AM (Last updated 8 months ago)_
 
 You can delete a test when you no longer need it. Deleting a test permanently removes it from your account along with all associated candidate reports. The questions used in the test remain in your Library.
 
-**Tip:** If you want to retain the test and its reports but hide it from the active test list, consider archiving the test instead. You can restore archived tests at any time. For more information, see [📄 Archive a Test](/articles/8415416322).
+**Tip:** If you want to retain the test and its reports but hide it from the active test list, consider archiving the test instead. You can restore archived code.tests at any time. For more information, see [📄 Archive a Test](/articles/8415416322).
 
 # Prerequisites
 

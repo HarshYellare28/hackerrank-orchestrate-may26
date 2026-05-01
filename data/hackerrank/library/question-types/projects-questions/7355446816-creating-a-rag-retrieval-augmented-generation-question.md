@@ -1,6 +1,6 @@
 ---
-title: "Generative AI Questions Creating a Generative AI question Candidate experience Scoring a Generative AI question in tests"
-title_slug: "generative-ai-questions-creating-a-generative-ai-question-candidate-experience-scoring-a-generative-ai-question-in-tests"
+title: "Generative AI Questions Creating a Generative AI question Candidate experience Scoring a Generative AI question in code.tests"
+title_slug: "generative-ai-questions-creating-a-generative-ai-question-candidate-experience-scoring-a-generative-ai-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/7355446816-creating-a-rag-retrieval-augmented-generation-question"
 article_slug: "7355446816-creating-a-rag-retrieval-augmented-generation-question"
 last_updated_exact: "Mar 26, 2026, 5:08 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Projects Questions"
 ---
 
-# Generative AI Questions Creating a Generative AI question Candidate experience Scoring a Generative AI question in tests
+# Generative AI Questions Creating a Generative AI question Candidate experience Scoring a Generative AI question in code.tests
 
 _Last updated: Mar 26, 2026, 5:08 PM (Last updated 1 month ago)_
 
@@ -71,7 +71,7 @@ The Generative AI question creation workflow opens with the following three step
 
     - **Use Sample Project:** Select a sample project to build your question.
 
-      **Note:** Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+      **Note:** Do not use sample projects in code.tests as they are not designed to evaluate candidate skills.
 
 2.  Configure debugger support after selecting a project. The project root folder stores all files at the root level, which simplifies setup. When you enable the debugger, it automatically appears in the candidate’s environment, removing the need for manual configuration.
 
@@ -178,7 +178,7 @@ The Generative AI question creation workflow opens with the following three step
 
       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618043281-image.png?Expires=253370764800&Signature=DnZruUiqt5OwQujQwCgJYVbnkmZEShCQ2riixseYbODMcaeLCOj5rhaTkh~OhwTxZyKk7n3eVk4cZd1n8AJV3kXHOhQm629fECF89IFhw-Dwa-n8rfcemoIsZJtauUsJ2P-YF8Vc5hmqJJZAwxdWb~-R2YXBwd9YeQfrTGOVolDUl~2q-R4Fw3PBTCVg1lZAFdMG0UPG3VlO3aRfVv87Qus9KDtP-GTqXDt~FW~S8cRBHRbxT6kcTdw8GKr-LVuThUF6tkfiww9jCHslsSaNgkrmvwp6vv3qJiXLvn5OVSETlMxSiKb3JkYgDTj7KUrcSJMS5iY6iXZc-jFXFx1FmA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-      For more information about scoring, see [Scoring a Generative AI Question in tests](https://support.hackerrank.com/articles/7355446816-creating-a-rag-retrieval-augmented-generation-question#scoring-a-generative-ai-question-in-tests).
+      For more information about scoring, see [Scoring a Generative AI Question in code.tests](https://support.hackerrank.com/articles/7355446816-creating-a-rag-retrieval-augmented-generation-question#scoring-a-generative-ai-question-in-tests).
 
 2.  Click **Validate** and then click **Ok** once validation is complete.
 
@@ -237,7 +237,7 @@ When a question loads, the IDE automatically starts the installation process. Th
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618306646-image.png?Expires=253370764800&Signature=dzBHgohxHLt8oWcCYysIWe2brDfEU6ui-J6~~nfbgqQs2NokCZGf5g3tRvtNOatdTkPox0X1R-RjQO9m9P9bkQNc0Y2zqK60PGUZkSjLXKEcoyGl3fwyOgidmsNhkJetCGoWO-ylbQlRYEVYs9zHuMz39bvPpNuTwiamrMSnNKDriJwUF5c61Tyw98RnjsyiZSEYM6pMBwNsdt4PjglJ5~7NweqQMpSr8bpsgE6h7SW3aTO5mh6rDK0zgyZDjSMHVSWqRHNHq0ls3a0YPgXW0M9zTmtnmv~95OKBGTV5hhCmeXsNHpZeOV3pR1Em7YbdVmJ~6cKwA-2Gms~oOhE6NA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Generative AI question in tests
+# Scoring a Generative AI question in code.tests
 
 Generative AI questions support both automatic and manual scoring to evaluate candidate performance in realistic development environments.
 
@@ -264,7 +264,7 @@ For instance, if a question has five test cases and a total score of 50, each te
 Example:
 
 ```
-<?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" tests="8" errors="0" failures="0" time="0.29"><properties>
+<?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" code.tests="8" errors="0" failures="0" time="0.29"><properties>
     <property name="browser.fullName" value="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)"/></properties><testcase name="CountryList should exist" time="0" classname="unit.CountryList"/><testcase name="Check Rendered List check number of rows that are rendered" time="0.017" classname="unit.Check Rendered List"/><testcase name="Main should exist" time="0.001" classname="unit.Main"/><testcase name="Check Functions check if the filter works" time="0.093" classname="unit.Check Functions"/><testcase name="Check Functions check empty search" time="0.061" classname="unit.Check Functions"/><testcase name="Search should exist" time="0.001" classname="unit.Search"/><testcase name="Check Search check if search bar works (case-sensitive)" time="0.071" classname="unit.Check Search"/><testcase name="Check Search check if search bar works (case-insensitive)" time="0.046" classname="unit.Check Search"/><system-err/></testsuite>
 ```
 
@@ -279,7 +279,7 @@ xUnit-based scoring applies to .NET projects that use [xUnit.net](http://xUnit.n
 Example:
 
 ```
-<?xml version="1.0" encoding="utf-8"?><assemblies timestamp="01/25/2018 18:32:09"><assembly name="/home/ubuntu/fullstack/project/tests/bin/Debug/netcoreapp2.0/tests.dll" run-date="2018-01-25" run-time="18:32:09" total="4" passed="2" failed="2" skipped="0" time="0.011" errors="0">
+<?xml version="1.0" encoding="utf-8"?><assemblies timestamp="01/25/2018 18:32:09"><assembly name="/home/ubuntu/fullstack/project/code.tests/bin/Debug/netcoreapp2.0/code.tests.dll" run-date="2018-01-25" run-time="18:32:09" total="4" passed="2" failed="2" skipped="0" time="0.011" errors="0">
     <errors />
     <collection total="2" passed="1" failed="1" skipped="0" name="Test collection for Tests.UnitTest1" time="0.011">
       <test name="Tests.UnitTest1.Test1" type="Tests.UnitTest1" method="Test1" time="0.0110000" result="Pass">

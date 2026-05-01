@@ -1,6 +1,6 @@
 ---
-title: "Subjective Questions Creating a subjective question Candidate experience Scoring subjective questions in tests"
-title_slug: "subjective-questions-creating-a-subjective-question-candidate-experience-scoring-subjective-questions-in-tests"
+title: "Subjective Questions Creating a subjective question Candidate experience Scoring subjective questions in code.tests"
+title_slug: "subjective-questions-creating-a-subjective-question-candidate-experience-scoring-subjective-questions-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/2296520412-subjective-questions"
 article_slug: "2296520412-subjective-questions"
 last_updated_exact: "Mar 26, 2026, 5:46 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "General Questions"
 ---
 
-# Subjective Questions Creating a subjective question Candidate experience Scoring subjective questions in tests
+# Subjective Questions Creating a subjective question Candidate experience Scoring subjective questions in code.tests
 
 _Last updated: Mar 26, 2026, 5:46 PM (Last updated 1 month ago)_
 
@@ -71,6 +71,6 @@ The question appears on the left side, and the candidate can enter the answer in
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772515606343-image.png?Expires=253370764800&Signature=Bnhx1JEeWuacY5MzE0peityEKIgq0CmsnDUZZ1oOaWyDVZMzosr9BQK9NS3qG9ktn7RTqEzAx4O3DKV3H86Q1Cmh4Z8V0pn~Ldd6jsftQzEJ2spNdzrWDhHmNu6s9UvskyZ-RVW85ssHrTwx~MsxdiAmoZ0czG~Ima6uRihFO80bUQKHvGVUGY7Gp8UgkjNUPFhiL-9~hwkNsMyMQRI2eo4LkPneDIjbtYNFfYwzr2NStXH-A1p~Xox~mqqVtkYcb6dq68vB-YDuPg1SP4rxqiWbHX9sbWJndnV4r6gOgC4mUlW0WByb7AcHW5Z~9ktVF0fshRzeeOaFxdj8GTJ~AA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring subjective questions in tests
+# Scoring subjective questions in code.tests
 
 Subjective questions require manual scoring. You can review the candidate’s answer in the candidate report and assign a score. For more information, see [📄 Manual Scoring for General Question Types](/articles/2056253220).

@@ -21,7 +21,7 @@ _Last updated: Jan 23, 2025, 12:50 AM (Last updated 1 year ago)_
 
 **Steps**
 
-- You can add individual Azure questions to your tests:
+- You can add individual Azure questions to your code.tests:
 
   - Click on **Library** from the home page
 
@@ -69,6 +69,6 @@ _Last updated: Jan 23, 2025, 12:50 AM (Last updated 1 year ago)_
 
 - The [tab proctoring feature](https://support.hackerrank.com/articles/1079706165-proctoring-hackerrank-tests#tab-proctoring-17) and functionality to [add time to a candidate’s test](https://support.hackerrank.com/articles/3193432392-adding-time-to-a-candidate's-test) [](https://support.hackerrank.com/articles/3193432392-adding-time-to-a-candidate's-test) are not supported when an Azure question is present in the test.
 
-- You can use the [hands-on cloud questions](https://www.hackerrank.com/work/library/hackerrank?copyscrape=true&hide_ai_solvable=true&type=cloud) available in the HackerRank Library while creating tests, as the ability to create custom Azure questions is not currently available.
+- You can use the [hands-on cloud questions](https://www.hackerrank.com/work/library/hackerrank?copyscrape=true&hide_ai_solvable=true&type=cloud) available in the HackerRank Library while creating code.tests, as the ability to create custom Azure questions is not currently available.
 
 \

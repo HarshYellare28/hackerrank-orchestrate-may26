@@ -39,31 +39,31 @@ The table below lists the evaluation method for each question type and provides 
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>Coding</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 22px"><p>Automatic Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Coding question](https://support.hackerrank.com/articles/2474669643-coding-question#scoring-a-coding-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Coding question](https://support.hackerrank.com/articles/2474669643-coding-question#scoring-a-coding-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 44px"><p>HTML/CSS/JavaScript</p>
 <p><br />
 </p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 44px"><p>Manual Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring an HTML/CSS/JavaScript question](https://support.hackerrank.com/articles/7771245202-html%2Fcss%2Fjavascript-questions#scoring-an-html-css-javascript-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring an HTML/CSS/JavaScript question](https://support.hackerrank.com/articles/7771245202-html%2Fcss%2Fjavascript-questions#scoring-an-html-css-javascript-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 44px"><p>Database</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 44px"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Database question](https://support.hackerrank.com/articles/8826242281-database-engineer-questions#scoring-a-database-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Database question](https://support.hackerrank.com/articles/8826242281-database-engineer-questions#scoring-a-database-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>Approximate Solution</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 22px"><p>Automatic Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring an Approximate Solution questions](https://support.hackerrank.com/articles/8117531949-approximate-solution-type-question#scoring-an-approximate-solution-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring an Approximate Solution questions](https://support.hackerrank.com/articles/8117531949-approximate-solution-type-question#scoring-an-approximate-solution-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1"><p>Generative AI</p></td>
 <td data-colspan="1" data-rowspan="1"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1"><p>[Scoring a Generative AI question](https://support.hackerrank.com/articles/7355446816-creating-a-rag-retrieval-augmented-generation-question#scoring-a-generative-ai-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1"><p>[Scoring a Generative AI question](https://support.hackerrank.com/articles/7355446816-creating-a-rag-retrieval-augmented-generation-question#scoring-a-generative-ai-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1"><p>Mobile Developer</p>
@@ -71,20 +71,20 @@ The table below lists the evaluation method for each question type and provides 
 </p></td>
 <td data-colspan="1" data-rowspan="1"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1"><p>[Scoring a Mobile Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests)</p>
+<td data-colspan="1" data-rowspan="1"><p>[Scoring a Mobile Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-code.tests)</p>
 <p><br />
 </p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>Data Science</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 22px"><p>Automatic or Manual Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Data Science question](https://support.hackerrank.com/articles/5187107609-data-science-questions#scoring-a-data-science-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Data Science question](https://support.hackerrank.com/articles/5187107609-data-science-questions#scoring-a-data-science-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 44px"><p>Front-End</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 44px"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Front-end Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests)</p>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Front-end Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-code.tests)</p>
 <p><br />
 </p></td>
 </tr>
@@ -92,38 +92,38 @@ The table below lists the evaluation method for each question type and provides 
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 44px"><p>Back-End</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 44px"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Back-end Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Back-end Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 44px"><p>Full Stack</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 44px"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Full-stack Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests)</p>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 44px"><p>[Scoring a Full-stack Developer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-code.tests)</p>
 <p><br />
 </p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>DevOps</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 22px"><p>Automatic Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a DevOps question](https://support.hackerrank.com/articles/5929074504-devops-questions#scoring-a-devops-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a DevOps question](https://support.hackerrank.com/articles/5929074504-devops-questions#scoring-a-devops-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1"><p>Code Review</p></td>
 <td data-colspan="1" data-rowspan="1"><p>Automatic or Manual Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1"><p>[Scoring a Code Review question](https://support.hackerrank.com/articles/4262355406-code-review-questions#scoring-a-code-review-question-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1"><p>[Scoring a Code Review question](https://support.hackerrank.com/articles/4262355406-code-review-questions#scoring-a-code-review-question-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1"><p>QA Engineer</p></td>
 <td data-colspan="1" data-rowspan="1"><p>Automatic Evaluation<br />
 (Manual Review recommended)</p></td>
-<td data-colspan="1" data-rowspan="1"><p>[Scoring a QA Engineer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests)</p>
+<td data-colspan="1" data-rowspan="1"><p>[Scoring a QA Engineer question](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-code.tests)</p>
 <p><br />
 </p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>Multiple Choice</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 219px; height: 22px"><p>Automatic evaluation</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Multiple Choice question](https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#scoring-multiple-choice-questions-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 284px; height: 22px"><p>[Scoring a Multiple Choice question](https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#scoring-multiple-choice-questions-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>Subjective</p></td>
@@ -143,7 +143,7 @@ The table below lists the evaluation method for each question type and provides 
 <tr>
 <td data-colspan="1" data-rowspan="1"><p>Sentence Completion</p></td>
 <td data-colspan="1" data-rowspan="1"><p>Automatic Evaluation</p></td>
-<td data-colspan="1" data-rowspan="1"><p>[Scoring a Sentence Completion question](https://support.hackerrank.com/articles/5866154232-sentence-completion-questions#scoring-sentence-completion-questions-in-tests)</p></td>
+<td data-colspan="1" data-rowspan="1"><p>[Scoring a Sentence Completion question](https://support.hackerrank.com/articles/5866154232-sentence-completion-questions#scoring-sentence-completion-questions-in-code.tests)</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 153px; height: 22px"><p>File Upload</p></td>

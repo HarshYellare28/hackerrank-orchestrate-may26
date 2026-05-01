@@ -1,6 +1,6 @@
 ---
-title: "Multiple Choice Questions Creating a Multiple Choice question Candidate experience Scoring Multiple Choice questions in tests"
-title_slug: "multiple-choice-questions-creating-a-multiple-choice-question-candidate-experience-scoring-multiple-choice-questions-in-tests"
+title: "Multiple Choice Questions Creating a Multiple Choice question Candidate experience Scoring Multiple Choice questions in code.tests"
+title_slug: "multiple-choice-questions-creating-a-multiple-choice-question-candidate-experience-scoring-multiple-choice-questions-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/2513748038-multiple-choice-questions"
 article_slug: "2513748038-multiple-choice-questions"
 last_updated_exact: "Mar 26, 2026, 7:23 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "General Questions"
 ---
 
-# Multiple Choice Questions Creating a Multiple Choice question Candidate experience Scoring Multiple Choice questions in tests
+# Multiple Choice Questions Creating a Multiple Choice question Candidate experience Scoring Multiple Choice questions in code.tests
 
 _Last updated: Mar 26, 2026, 7:23 PM (Last updated 1 month ago)_
 
@@ -154,7 +154,7 @@ The question appears on the left side. The candidate can attempt the question an
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491793816-image.png?Expires=253370764800&Signature=OUb57TgybOIHwEUWcCu2EEiffWLFiA7J6sWxjRN9~riKNRujTUpsqK5-x9DtxMcI8cI6NlG93atBTNF-Mim0JXJ7FrAzNucoOxsUqsRJKsbV-UqGJ~fZ3TdK0rqfNyyHzdOKZUXi6UVr37Z~F-j4t3TNQslf8yZUnLzsbg-d8sOQuQOtF-zvWia17IzKrOsyhEglmVDOlp76FSGKgG2tGc17JTV8VnxgUl4UB5fVffB1PvilWhog~uKQ0FsRXoimV9O-OtUsjznc~tlUW2P3Jw1cFxLT~8bKCVcEG1s0Tapj3udAdealiceKby84gYD-~CB~0Fhm4p-2mJZ9~wbNqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring Multiple Choice questions in tests
+# Scoring Multiple Choice questions in code.tests
 
 HackerRank automatically evaluates MCQs. You can configure scoring at:
 

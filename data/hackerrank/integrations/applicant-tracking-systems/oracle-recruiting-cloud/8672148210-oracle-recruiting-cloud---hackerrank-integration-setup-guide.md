@@ -203,10 +203,10 @@ Recruiting Administrator role (ORA_PER_RECRUITING_ADMINISTRATOR_JOB) on ORC
 
     - Once you click on OK, ORC sends us this User Name and initiates the first API call made from ORC to HackerRank.
 
-    - At this stage, ORC asks HackerRank for a list of all tests and interviews accessible to your company. We respond with 5 Interviews and up to 494 of your most recent Tests. (That makes it a total of 499 since ORC does not accept more than 499 packages for an integration).\
-      If you are able to see the list of tests shown in Screening Packages, then the integration was successful.
+    - At this stage, ORC asks HackerRank for a list of all code.tests and interviews accessible to your company. We respond with 5 Interviews and up to 494 of your most recent Tests. (That makes it a total of 499 since ORC does not accept more than 499 packages for an integration).\
+      If you are able to see the list of code.tests shown in Screening Packages, then the integration was successful.
 
-    - If you are unable to see the tests or if ORC returns an invalid User Name error, check if you entered the “ORC_HACKERRANK_USER” as is without spaces or quotes.
+    - If you are unable to see the code.tests or if ORC returns an invalid User Name error, check if you entered the “ORC_HACKERRANK_USER” as is without spaces or quotes.
 
     - This is an example of what you will see if this step was successful:
 
@@ -216,7 +216,7 @@ Recruiting Administrator role (ORA_PER_RECRUITING_ADMINISTRATOR_JOB) on ORC
 
 14. Assign Additional User Accounts in Oracle Recruiting:
 
-    - HackerRank supports adding more than one user account on Oracle. In the previous step, you added "ORC_HACKERRANK_USER" which is a user account that pulls in all the available HackerRank tests from your HackerRank account.
+    - HackerRank supports adding more than one user account on Oracle. In the previous step, you added "ORC_HACKERRANK_USER" which is a user account that pulls in all the available HackerRank code.tests from your HackerRank account.
 
     - HackerRank, now, supports adding individual users as user accounts on Oracle Recruiting. You can follow the same steps in Oracle by clicking on **+Assign User Account** and entering the users' email IDs.
 
@@ -224,7 +224,7 @@ Recruiting Administrator role (ORA_PER_RECRUITING_ADMINISTRATOR_JOB) on ORC
 
     - Note that these email IDs need to match with a valid HackerRank license.
 
-    - By adding individual accounts, only the tests that the provided email ID has access to will be pulled into Oracle. Thus making it easier for users to select a test that is most relevant to them and avoiding scrolling through a list of tests for roles and regions that they are not a part of.\
+    - By adding individual accounts, only the code.tests that the provided email ID has access to will be pulled into Oracle. Thus making it easier for users to select a test that is most relevant to them and avoiding scrolling through a list of code.tests for roles and regions that they are not a part of.\
       This feature supports recruiters across teams and geographies to use the HackerRank - Oracle Recruiting integration effectively.
 
     - All the added user accounts will show up on the integration settings page in HackerRank.

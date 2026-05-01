@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Jun 5, 2025, 5:20 PM (Last updated 11 months ago)_
 
-If the cutoff score is changed after the test report is processed, the ATS state of a candidate's test attempt will not change. The change in cutoff score will come into effect only for tests attempted after the change is made.
+If the cutoff score is changed after the test report is processed, the ATS state of a candidate's test attempt will not change. The change in cutoff score will come into effect only for code.tests attempted after the change is made.
 
 For example, let's say that the current cutoff score is 50. Candidate A has scored 60 on the test and has been marked as "Qualified". If you change the cutoff score now to 70, then this will not affect the status of candidate A. Candidate A will still be marked as "Qualified". However, if candidate B now attempts the test and gets a score of 60, they will be marked as "Failed".
 

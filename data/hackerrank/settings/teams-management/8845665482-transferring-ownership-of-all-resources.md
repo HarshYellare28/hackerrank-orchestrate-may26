@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Mar 12, 2026, 2:44 PM (Last updated 1 month ago)_
 
-HackerRank allows you to transfer ownership of all resources, such as tests and questions, from one user to another. Transferring ownership ensures that no critical content is lost during user transitions.
+HackerRank allows you to transfer ownership of all resources, such as code.tests and questions, from one user to another. Transferring ownership ensures that no critical content is lost during user transitions.
 
 # Prerequisite
 

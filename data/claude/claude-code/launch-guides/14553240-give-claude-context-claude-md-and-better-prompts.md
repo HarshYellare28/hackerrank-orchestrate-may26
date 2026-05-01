@@ -52,7 +52,7 @@ Aim for a file that is short and signal-dense — under roughly 200 lines. Every
 - **Commands** — how to build, test, lint, and run locally. Claude will execute these, so accuracy matters.
 - **Conventions** — naming, error handling, file layout, and "we use X, not Y" decisions.
 - **Architecture in three sentences** — what the major pieces are and how they communicate.
-- **Hard constraints** — for example, "never write to the production database from tests," "all API routes need auth middleware," or "do not edit `generated/`."
+- **Hard constraints** — for example, "never write to the production database from code.tests," "all API routes need auth middleware," or "do not edit `generated/`."
 - **Known gotchas** — the issues every new engineer trips on.
 
 **Not worth including:**
@@ -105,7 +105,7 @@ Claude can search the codebase on its own, but if you already know the relevant 
 
 #### 5. Say what "done" looks like
 
-Examples include "tests pass," "matches the style of the other handlers," or "no new dependencies." Stating acceptance criteria up front is more efficient than several rounds of revision.
+Examples include "code.tests pass," "matches the style of the other handlers," or "no new dependencies." Stating acceptance criteria up front is more efficient than several rounds of revision.
 
 #### 6. One task per conversation; `/clear` between them
 

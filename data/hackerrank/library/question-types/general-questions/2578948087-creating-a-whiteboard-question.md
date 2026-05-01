@@ -1,6 +1,6 @@
 ---
-title: "Whiteboard Questions Creating a whiteboard question Candidate experience Scoring a Whiteboard Question in tests"
-title_slug: "whiteboard-questions-creating-a-whiteboard-question-candidate-experience-scoring-a-whiteboard-question-in-tests"
+title: "Whiteboard Questions Creating a whiteboard question Candidate experience Scoring a Whiteboard Question in code.tests"
+title_slug: "whiteboard-questions-creating-a-whiteboard-question-candidate-experience-scoring-a-whiteboard-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/2578948087-creating-a-whiteboard-question"
 article_slug: "2578948087-creating-a-whiteboard-question"
 last_updated_exact: "Mar 26, 2026, 5:51 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "General Questions"
 ---
 
-# Whiteboard Questions Creating a whiteboard question Candidate experience Scoring a Whiteboard Question in tests
+# Whiteboard Questions Creating a whiteboard question Candidate experience Scoring a Whiteboard Question in code.tests
 
 _Last updated: Mar 26, 2026, 5:51 PM (Last updated 1 month ago)_
 
@@ -115,6 +115,6 @@ The candidate can use the whiteboard to solve the question using the components 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676856233-image.png?Expires=253370764800&Signature=gPQHfkcKhlh-ITwZFM7YHL22Pu77utRWtCzgArf202L4A9t4LvFSV8lRd8qnTz-NqUAFJfWvAhppybbR~5gMFHF2IiefVwMpIJc3ooVTWoB00GFGMori~UXO~3kHCvGlxrLakj46b~UnWvj90ssCmSOKfCaHOaILNPv~A0W0-fk0Fsif6Ks1ed0HPj9biUV0pZtYg4iMcFJ-DYWvRsKdGD3lAIDB6nzvCXhd72bgjWhPFBPwW3X7Adhi6514w2SkNNJllvYcEWrS5Yvh92~Ngn4ZqpZUmN6SMptFip960n9viFWY2MlkWtFmSb7FPaURG2xGW6MhmVI7m5wsC2JO3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Whiteboard Question in tests
+# Scoring a Whiteboard Question in code.tests
 
 Whiteboard questions require manual scoring. For more information on manual scoring, see [📄 Manual Scoring for General Questions](/articles/2056253220).

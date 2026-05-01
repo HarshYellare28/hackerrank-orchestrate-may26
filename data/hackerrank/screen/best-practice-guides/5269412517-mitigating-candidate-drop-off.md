@@ -82,7 +82,7 @@ Here are some best practices to mitigate the candidate drop-off at various stage
 
 - If drop-off continues to be an issue, consider disabling any photo/webcam proctoring, if in use.
 
-## **Best practices to follow to mitigate test drop-off and abandonment of tests?**
+## **Best practices to follow to mitigate test drop-off and abandonment of code.tests?**
 
 ### **Before the test goes live: **
 

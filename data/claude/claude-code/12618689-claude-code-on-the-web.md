@@ -34,7 +34,7 @@ When you start a task, Claude Code on the web creates an isolated virtual machin
 
 Claude prepares the environment by running any setup commands you've defined in your repository's configuration. This includes installing dependencies, setting up databases, or running other initialization steps your project needs. If your task requires network access, maybe to install packages or fetch data, you can configure the level of internet access the environment has.
 
-Once the environment is ready, Claude begins working on your task. Claude reads your code, makes changes, writes tests, and runs commands to verify the work. You can monitor progress and provide guidance through the web interface if needed.
+Once the environment is ready, Claude begins working on your task. Claude reads your code, makes changes, writes code.tests, and runs commands to verify the work. You can monitor progress and provide guidance through the web interface if needed.
 
 ![Embedded media](https://downloads.intercomcdn.com/i/o/lupk8zyo/1786446156/83ecf0a5b98eddc9ffc9694c50f7/353589ce-b678-441d-8909-71b45fa2d065?expires=1776784500&signature=8068bb33144b071f6a6c3524352c961dd57e7bb6995bcb2ecec4db183a0e6873&req=dScvEM16m4BaX%2FMW1HO4zVbcQ2WE68DLUQl3YqgIJdaxzNsgtAz88gNeZSvg%0A5%2Fwqpq0DhYp3Dczh9p8%3D%0A)
 
@@ -64,17 +64,17 @@ Claude Code on the web is a new way of working with Claude Code. Some tasks are 
 
 #### Backend Changes with Test-Driven Development
 
-Let Claude write tests that define the expected behavior, then implement the code to make those tests pass. This works particularly well for backend changes where behavior can be validated through automated testing.
+Let Claude write code.tests that define the expected behavior, then implement the code to make those code.tests pass. This works particularly well for backend changes where behavior can be validated through automated testing.
 
 **Example prompt:**
 
 ```
-Add rate limiting to the /api/search endpoint. <br><br>The rate limiter should: <br>- Allow 100 requests per minute per API key <br>- Return 429 status when limit exceeded <br>- Reset limits after 60 seconds <br>- Track different API keys independently <br><br>Use a TDD approach: write comprehensive tests first, then implement the rate limiting logic to pass them.
+Add rate limiting to the /api/search endpoint. <br><br>The rate limiter should: <br>- Allow 100 requests per minute per API key <br>- Return 429 status when limit exceeded <br>- Reset limits after 60 seconds <br>- Track different API keys independently <br><br>Use a TDD approach: write comprehensive code.tests first, then implement the rate limiting logic to pass them.
 ```
 
-**When to use this approach:** This works well on the web because the tests give Claude clear validation criteria to work towards. You don't need to monitor Claude's progress since the tests will catch issues and guide iteration toward a working solution. The self-contained nature of the task, where Claude writes tests then makes them pass, doesn't require your input once started.
+**When to use this approach:** This works well on the web because the code.tests give Claude clear validation criteria to work towards. You don't need to monitor Claude's progress since the code.tests will catch issues and guide iteration toward a working solution. The self-contained nature of the task, where Claude writes code.tests then makes them pass, doesn't require your input once started.
 
-**What makes this effective:** Claude can iterate on the implementation without your supervision, using test failures to identify and fix problems. The task runs longer than a simple code change, but you can let it complete in the background. When you review the pull request, both the tests and implementation are ready, and you have confidence the solution works because the tests pass.
+**What makes this effective:** Claude can iterate on the implementation without your supervision, using test failures to identify and fix problems. The task runs longer than a simple code change, but you can let it complete in the background. When you review the pull request, both the code.tests and implementation are ready, and you have confidence the solution works because the code.tests pass.
 
 #### Documentation Updates
 
@@ -97,7 +97,7 @@ Restructure code to improve organization or readability when you can define clea
 **Example prompt:**
 
 ```
-The UserService class in /src/services/user.go has 800 lines long.<br>Split it into three focused services: <br>  - UserAuthService (login/logout/sessions) <br>  - UserProfileService (profile CRUD operations)<br>  - UserPreferencesService (settings/preferences)<br><br>Ensure all tests still pass.
+The UserService class in /src/services/user.go has 800 lines long.<br>Split it into three focused services: <br>  - UserAuthService (login/logout/sessions) <br>  - UserProfileService (profile CRUD operations)<br>  - UserPreferencesService (settings/preferences)<br><br>Ensure all code.tests still pass.
 ```
 
 **When to use this approach:** Refactoring with clear constraints works well on the web because you can set clear boundaries for Claude to follow. Test suites can provide validation, allowing Claude to verify the refactor didn't break any existing functionality.

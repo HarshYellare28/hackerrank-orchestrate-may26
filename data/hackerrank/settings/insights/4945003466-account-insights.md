@@ -40,7 +40,7 @@ The Test Usage dashboard gives you deeper insights into the various activities r
 
 A team-wise classification of the trends is also displayed to help you analyze which of your company's recruitment teams are being efficient and effective with conducting Tests and the Candidates’ responses to them.
 
-The Test Usage dashboard offers a number of tiles that show the overall candidate’s experience in the tests. You can view the following charts under the Test Usage dashboard:
+The Test Usage dashboard offers a number of tiles that show the overall candidate’s experience in the code.tests. You can view the following charts under the Test Usage dashboard:
 
 - Total Test invites and its Trend
 

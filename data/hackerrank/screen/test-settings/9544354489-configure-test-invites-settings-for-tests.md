@@ -1,8 +1,8 @@
 ---
 title: "Configure Test Invites Settings for Tests"
-title_slug: "configure-test-invites-settings-for-tests"
-source_url: "https://support.hackerrank.com/articles/9544354489-configure-test-invites-settings-for-tests"
-article_slug: "9544354489-configure-test-invites-settings-for-tests"
+title_slug: "configure-test-invites-settings-for-code.tests"
+source_url: "https://support.hackerrank.com/articles/9544354489-configure-test-invites-settings-for-code.tests"
+article_slug: "9544354489-configure-test-invites-settings-for-code.tests"
 last_updated_exact: "Jul 30, 2025, 9:53 AM"
 last_updated_relative: "Last updated 9 months ago"
 breadcrumbs:

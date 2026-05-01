@@ -32,17 +32,17 @@ You can continue to add candidates using existing import options, such as CSV up
 
 ### Global Candidates Page
 
-The global Candidates page is being deprecated. You can continue to search for candidates using the search bar or view candidates within specific tests from the Candidates tab.
+The global Candidates page is being deprecated. You can continue to search for candidates using the search bar or view candidates within specific code.tests from the Candidates tab.
 
 ### Candidate Prep Portal
 
 The Candidate Prep Portal is no longer available as part of the standardization of the candidate experience on the candidate site.
 
-Candidates now access pre-test information and start tests directly from the candidate site in a single, consistent flow before the assessment.
+Candidates now access pre-test information and start code.tests directly from the candidate site in a single, consistent flow before the assessment.
 
 ### Local IDE/Offline Test Flow
 
-The Local IDE (Offline) experience is no longer supported due to integrity concerns. Candidates are now required to complete assessments using the HackerRank IDE for both new and existing tests.
+The Local IDE (Offline) experience is no longer supported due to integrity concerns. Candidates are now required to complete assessments using the HackerRank IDE for both new and existing code.tests.
 
 ## Interviews
 
@@ -82,11 +82,11 @@ Due to increased integrity risks, the Offline (Local IDE) experience is no longe
 
 What this means for you:
 
-- Existing tests that use only Offline flow will continue to function as-is
+- Existing code.tests that use only Offline flow will continue to function as-is
 
 - Tests with Offline flow enabled cannot be cloned
 
-- All other new and existing tests will require candidates to use the HackerRank IDE
+- All other new and existing code.tests will require candidates to use the HackerRank IDE
 
 ## Interview
 

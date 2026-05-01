@@ -30,7 +30,7 @@ We encounter three types of code plagiarism: 
 
 ### Standard plagiarism detection
 
-[Standard plagiarism detection](https://support.hackerrank.com/articles/2106056073-plagiarism-detection-using-moss-(measure-of-software-similarity)) is enabled by default for all tests. It uses [Moss](https://theory.stanford.edu/~aiken/moss/) (Measure of Software Similarity) to compare a candidate’s code against others in our database. This method effectively identifies plagiarism from external sources or copied test cases (as mentioned above under types of code plagiarism). However, it may result in false positives, depending on factors such as code length and similarity threshold.
+[Standard plagiarism detection](https://support.hackerrank.com/articles/2106056073-plagiarism-detection-using-moss-(measure-of-software-similarity)) is enabled by default for all code.tests. It uses [Moss](https://theory.stanford.edu/~aiken/moss/) (Measure of Software Similarity) to compare a candidate’s code against others in our database. This method effectively identifies plagiarism from external sources or copied test cases (as mentioned above under types of code plagiarism). However, it may result in false positives, depending on factors such as code length and similarity threshold.
 
 ### Advanced AI plagiarism detection
 

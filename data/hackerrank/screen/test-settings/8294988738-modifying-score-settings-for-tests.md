@@ -1,8 +1,8 @@
 ---
 title: "Modify Evaluation Settings for Tests"
-title_slug: "modify-evaluation-settings-for-tests"
-source_url: "https://support.hackerrank.com/articles/8294988738-modifying-score-settings-for-tests"
-article_slug: "8294988738-modifying-score-settings-for-tests"
+title_slug: "modify-evaluation-settings-for-code.tests"
+source_url: "https://support.hackerrank.com/articles/8294988738-modifying-score-settings-for-code.tests"
+article_slug: "8294988738-modifying-score-settings-for-code.tests"
 last_updated_exact: "Jul 30, 2025, 9:50 AM"
 last_updated_relative: "Last updated 9 months ago"
 breadcrumbs:

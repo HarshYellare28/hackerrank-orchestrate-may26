@@ -15,7 +15,7 @@ breadcrumbs:
 
 _Last updated: Nov 14, 2025, 7:52 PM (Last updated 5 months ago)_
 
-HackerRank integrates with **Greenhouse** to streamline the scheduling of remote tests and interviews. This integration enhances the interviewing experience directly from the Greenhouse platform. Two integration versions are currently available.
+HackerRank integrates with **Greenhouse** to streamline the scheduling of remote code.tests and interviews. This integration enhances the interviewing experience directly from the Greenhouse platform. Two integration versions are currently available.
 
 - **Enhanced Integration**:\
   To improve efficiency and provide access to the latest features, we have rebuilt the Greenhouse integration. This enhanced version is available to all new users. To set up your integration, see [📄 Greenhouse - HackerRank Integration Guide](/articles/1406188460).

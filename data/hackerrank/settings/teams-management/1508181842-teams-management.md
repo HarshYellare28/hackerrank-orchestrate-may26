@@ -78,7 +78,7 @@ Admins can add new users using the **Add New User** button with the following op
 
 **Transfer Ownership**
 
-- Transfer resources like tests from one user to another.
+- Transfer resources like code.tests from one user to another.
 
 - Click the **three-dot icon** next to the user’s name, select **Remove from Teams**, and confirm the new owner.
 

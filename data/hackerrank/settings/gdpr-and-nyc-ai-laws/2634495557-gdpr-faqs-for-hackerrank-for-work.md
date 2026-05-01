@@ -102,7 +102,7 @@ HackerRank maintains an audit trail of all user events. You can retrieve the aud
 
 **Does HackerRank allow a candidate who took a HackerRank test, to edit or delete their personal data or test attempt?**
 
-HackerRank for Work is a recruiting platform where recruiters conduct tests and coding challenges to hire developers. Companies or recruiters directly own the tests and HackerRank does not have any control over the same. For deletion or update of personal data or test attempts, the candidate needs to contact the company that administered the test directly.
+HackerRank for Work is a recruiting platform where recruiters conduct code.tests and coding challenges to hire developers. Companies or recruiters directly own the code.tests and HackerRank does not have any control over the same. For deletion or update of personal data or test attempts, the candidate needs to contact the company that administered the test directly.
 
 **Can a candidate who took a HackerRank test download their test data?**
 

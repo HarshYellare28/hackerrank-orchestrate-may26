@@ -1,8 +1,8 @@
 ---
 title: "IBM Kenexa BrassRing - HackerRank Tests Integration"
-title_slug: "ibm-kenexa-brassring-hackerrank-tests-integration"
-source_url: "https://support.hackerrank.com/articles/7795424803-ibm-kenexa-brassring---hackerrank-tests-integration"
-article_slug: "7795424803-ibm-kenexa-brassring---hackerrank-tests-integration"
+title_slug: "ibm-kenexa-brassring-hackerrank-code.tests-integration"
+source_url: "https://support.hackerrank.com/articles/7795424803-ibm-kenexa-brassring---hackerrank-code.tests-integration"
+article_slug: "7795424803-ibm-kenexa-brassring---hackerrank-code.tests-integration"
 last_updated_exact: "Dec 28, 2024, 4:09 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:
@@ -60,7 +60,7 @@ The integration involves a 3-step process:
 
 ### Configure the List of HackerRank Tests in BrassRing
 
-The lists of tests need to be set up on the BrassRing side as options in a HACKERRANK_TEST_ID field. 
+The lists of code.tests need to be set up on the BrassRing side as options in a HACKERRANK_TEST_ID field. 
 
 ![integ_brassring.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047113161-?Expires=253370764800&Signature=FNiV8TwIRlf2qVIsIsgHkF8NGXHB6bVwvTJoTdZCbd2EjxOP5idgWgrBWzZVZ~TmSJZL2vsYTtf17BZuosVLLNaqjNBrlzPgy7pcTX6GBBEXe7yZUeHhuOp3psZxbFkBtEIJHc7rqGuWmI1gbNQ2RNGy8EhO15xfxPrEJRzd0rPbAMz3MiOsQ-n~ICH6XjIgMzWBGFvm0Q0b1AheHRq7wYl1MUxWGMqCTvRDt~P8QvTjQY2sUeUOLcySEC90hIs5cExaM9yb5iSkEu0eap6eiHDrGOySnkIkhs8WIMqdnxBc7mQwMI0HyABzR-GALGGUuKLMXUwyOXdiH4L-Pg5djA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -68,7 +68,7 @@ When building out and testing the integration for the first time, you can get th
 
 When the integration is ready, your HackerRank Solutions Engineer can do a one time bulk export of all Test Names and Test IDs to be entered into BrassRing.
 
-Any time new tests are created in HackerRank that need to be used in BrassRing, you will need to add them in manually. 
+Any time new code.tests are created in HackerRank that need to be used in BrassRing, you will need to add them in manually. 
 
 ### Configure the Candidate Export 
 

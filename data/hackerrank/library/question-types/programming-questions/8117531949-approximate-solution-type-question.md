@@ -1,6 +1,6 @@
 ---
-title: "Approximate Solution Type Questions Creating an approximate solution question Scoring an approximate solution question in tests"
-title_slug: "approximate-solution-type-questions-creating-an-approximate-solution-question-scoring-an-approximate-solution-question-in-tests"
+title: "Approximate Solution Type Questions Creating an approximate solution question Scoring an approximate solution question in code.tests"
+title_slug: "approximate-solution-type-questions-creating-an-approximate-solution-question-scoring-an-approximate-solution-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/8117531949-approximate-solution-type-question"
 article_slug: "8117531949-approximate-solution-type-question"
 last_updated_exact: "Mar 27, 2026, 4:02 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Programming Questions"
 ---
 
-# Approximate Solution Type Questions Creating an approximate solution question Scoring an approximate solution question in tests
+# Approximate Solution Type Questions Creating an approximate solution question Scoring an approximate solution question in code.tests
 
 _Last updated: Mar 27, 2026, 4:02 PM (Last updated 1 month ago)_
 
@@ -204,7 +204,7 @@ Use the custom checker to define scoring logic.
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Scoring an approximate solution question in tests
+# Scoring an approximate solution question in code.tests
 
 Approximate Solution questions use automatic scoring.
 

@@ -1,6 +1,6 @@
 ---
-title: "Front-end, Back-end, Full-stack, Mobile, and QA Engineer Questions Key benefits Creating front-end, back-end, full-stack, mobile, and QA engineer questions Candidate experience Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests"
-title_slug: "front-end-back-end-full-stack-mobile-and-qa-engineer-questions-key-benefits-creating-front-end-back-end-full-stack-mobile-and-qa-engineer-questions-candidate-experience-scoring-front-end-back-end-full-stack-mobile-and-qa-engineer-questions-in-tests"
+title: "Front-end, Back-end, Full-stack, Mobile, and QA Engineer Questions Key benefits Creating front-end, back-end, full-stack, mobile, and QA engineer questions Candidate experience Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in code.tests"
+title_slug: "front-end-back-end-full-stack-mobile-and-qa-engineer-questions-key-benefits-creating-front-end-back-end-full-stack-mobile-and-qa-engineer-questions-candidate-experience-scoring-front-end-back-end-full-stack-mobile-and-qa-engineer-questions-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions"
 article_slug: "1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions"
 last_updated_exact: "Mar 30, 2026, 3:15 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Projects Questions"
 ---
 
-# Front-end, Back-end, Full-stack, Mobile, and QA Engineer Questions Key benefits Creating front-end, back-end, full-stack, mobile, and QA engineer questions Candidate experience Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests
+# Front-end, Back-end, Full-stack, Mobile, and QA Engineer Questions Key benefits Creating front-end, back-end, full-stack, mobile, and QA engineer questions Candidate experience Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in code.tests
 
 _Last updated: Mar 30, 2026, 3:15 PM (Last updated 4 weeks ago)_
 
@@ -49,7 +49,7 @@ HackerRank provides the following benefits for front-end, back-end, full-stack, 
 
   - Measures adaptability to predefined environments.
 
-  - Evaluates the ability to write and execute tests.
+  - Evaluates the ability to write and execute code.tests.
 
   - Reflects candidates’ ability to work in collaborative, multi-tech environments.
 
@@ -99,7 +99,7 @@ The question creation workflow opens with the following three steps.
 
 - **Use a sample project:** Select a sample project to build your question.
 
-  **Note: **Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+  **Note: **Do not use sample projects in code.tests as they are not designed to evaluate candidate skills.
 
 1.  Configure debugger support after selecting a project. The project root folder stores all files at the root level, which simplifies setup. When you enable the debugger, it automatically appears in the candidate’s environment, removing the need for manual configuration.
 
@@ -161,7 +161,7 @@ The question creation workflow opens with the following three steps.
 
       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248696794-image.png?Expires=253370764800&Signature=nJ03MuCdiJzgfmjUKX4TKhYNmekN8v966tbdKIcW9QKfBFx7H-Ig7w70bvU~SiL81pWMRUrXSDmErhMgScABVo1jriTPrBq3J2PwOJx8Lg-IlEeHMyLRngQ30kPThiGliZI4uCd0NVLrMTokaXNHexd5dZNTPXK7Dl1~2P3PmxsO8IaxAUeNSqCU7TpplAiMLTVgNa-CI8nURvgcHakd09DKITNlSRldtFndp4irkZVJtpohlKkJTYSZMWfvT4z02SJYuBUoGI95Ecu2jrYaBtRcDo5ouu0ECl4C5uMd5OS6IowJ46m6eZYgWt3PjzjzFi19WEXlHhpuXp6cDbN79g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-      For more information about scoring, see [Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests).
+      For more information about scoring, see [Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in code.tests](https://support.hackerrank.com/articles/1570281449-creating-front-end%2C-back-end-full-stack-and-mobile-questions#scoring-front-end-back-end-full-stack-and-mobile-and-qa-engineer-questions-in-tests).
 
 2.  Click **Validate** and then click **Ok** once validation is complete.
 
@@ -220,7 +220,7 @@ When a question loads, the IDE automatically starts the installation process. Th
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772689454105-image.png?Expires=253370764800&Signature=b~DCLNo6LTNiTSqWCsbGqZ1SPSzVQ9os4kKriM6c5StBzytUD0-Zfb98RojTHwtfT8gSj29R~Y5bPCxrJ091tQGqDI7nJwqMkDng4LIT3mRxmhqxeoISuonQG03yo3heJCOdh9s9fmjDGBvEK4D8Hdlzlbi06hQtrShhLNLE9uJ3dl3700zwRtlAZhW1QCzEvyy3T2mbg1n1jAj4dTNkQzNewAQbDXHWKemvVMbfq-OkoJQtaY3AW2WxwqD0IC~Q0L97KC06-QWvaALFJdxmdK9MLKJRAAphmAVXIzOe2o-iCVOjMW6zKbV0JVMNuDB-LnL5s8oYb1QgSv6GOWO2ew__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests
+# Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in code.tests
 
 HackerRank project questions support automated, manual, and custom scoring methods to evaluate candidate performance in realistic development environments. 
 
@@ -247,7 +247,7 @@ For instance, if a question has five test cases and a total score of 50, each te
 *Example*:
 
 ```
-<?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" tests="8" errors="0" failures="0" time="0.29"><properties>
+<?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" code.tests="8" errors="0" failures="0" time="0.29"><properties>
     <property name="browser.fullName" value="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)"/></properties><testcase name="CountryList should exist" time="0" classname="unit.CountryList"/><testcase name="Check Rendered List check number of rows that are rendered" time="0.017" classname="unit.Check Rendered List"/><testcase name="Main should exist" time="0.001" classname="unit.Main"/><testcase name="Check Functions check if the filter works" time="0.093" classname="unit.Check Functions"/><testcase name="Check Functions check empty search" time="0.061" classname="unit.Check Functions"/><testcase name="Search should exist" time="0.001" classname="unit.Search"/><testcase name="Check Search check if search bar works (case-sensitive)" time="0.071" classname="unit.Check Search"/><testcase name="Check Search check if search bar works (case-insensitive)" time="0.046" classname="unit.Check Search"/><system-err/></testsuite>
 ```
 
@@ -262,7 +262,7 @@ xUnit-based scoring applies to .NET projects that use [xUnit.net](http://xUnit.n
 *Example*:
 
 ```
-<?xml version="1.0" encoding="utf-8"?><assemblies timestamp="01/25/2018 18:32:09"><assembly name="/home/ubuntu/fullstack/project/tests/bin/Debug/netcoreapp2.0/tests.dll" run-date="2018-01-25" run-time="18:32:09" total="4" passed="2" failed="2" skipped="0" time="0.011" errors="0">
+<?xml version="1.0" encoding="utf-8"?><assemblies timestamp="01/25/2018 18:32:09"><assembly name="/home/ubuntu/fullstack/project/code.tests/bin/Debug/netcoreapp2.0/code.tests.dll" run-date="2018-01-25" run-time="18:32:09" total="4" passed="2" failed="2" skipped="0" time="0.011" errors="0">
     <errors />
     <collection total="2" passed="1" failed="1" skipped="0" name="Test collection for Tests.UnitTest1" time="0.011">
       <test name="Tests.UnitTest1.Test1" type="Tests.UnitTest1" method="Test1" time="0.0110000" result="Pass">

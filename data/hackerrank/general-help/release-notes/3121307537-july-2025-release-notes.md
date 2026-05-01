@@ -74,7 +74,7 @@ The AI Add-on package includes advanced features that help you assess next-gen s
 
 ## **AI-Assisted Tests** 
 
-Upgrade your tests with an AI-assisted IDE that offers candidates contextual help like syntax tips, templates, and platform guidance without giving away full solutions. It mirrors how developers work today, while keeping assessments fair.
+Upgrade your code.tests with an AI-assisted IDE that offers candidates contextual help like syntax tips, templates, and platform guidance without giving away full solutions. It mirrors how developers work today, while keeping assessments fair.
 
 Get a complete view of each candidate’s approach with advanced evaluation, which includes signals like code quality, optimality, and AI usage summaries, along with full chat transcripts.
 

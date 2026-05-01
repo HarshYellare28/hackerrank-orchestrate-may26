@@ -16,7 +16,7 @@ breadcrumbs:
 _Last updated: Feb 16, 2026, 1:06 PM (Last updated 2 months ago)_
 
 HackerRank integrates with Greenhouse to streamline the candidate screening process for recruiters.\
-This guide explains how to integrate Greenhouse with HackerRank for Work, allowing you to send tests, schedule interviews, and view results seamlessly.
+This guide explains how to integrate Greenhouse with HackerRank for Work, allowing you to send code.tests, schedule interviews, and view results seamlessly.
 
 # Prerequisites
 
@@ -283,7 +283,7 @@ You do not have admin access to your HackerRank account. Only admins can access 
 
 Verify that you entered the correct Greenhouse User ID and Harvest API Token in HackerRank.
 
-**Why am I the only user who can’t send tests through Greenhouse?**
+**Why am I the only user who can’t send code.tests through Greenhouse?**
 
  Check the following:
 

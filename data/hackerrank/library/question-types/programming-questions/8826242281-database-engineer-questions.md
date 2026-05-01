@@ -1,6 +1,6 @@
 ---
-title: "Database Questions Creating a database question Candidate experience Scoring a database question in tests"
-title_slug: "database-questions-creating-a-database-question-candidate-experience-scoring-a-database-question-in-tests"
+title: "Database Questions Creating a database question Candidate experience Scoring a database question in code.tests"
+title_slug: "database-questions-creating-a-database-question-candidate-experience-scoring-a-database-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/8826242281-database-engineer-questions"
 article_slug: "8826242281-database-engineer-questions"
 last_updated_exact: "Mar 26, 2026, 6:05 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Programming Questions"
 ---
 
-# Database Questions Creating a database question Candidate experience Scoring a database question in tests
+# Database Questions Creating a database question Candidate experience Scoring a database question in code.tests
 
 _Last updated: Mar 26, 2026, 6:05 PM (Last updated 1 month ago)_
 
@@ -158,7 +158,7 @@ The candidate can view the question on the left-hand side and enter the query on
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680393034-image.png?Expires=253370764800&Signature=XlC9H90FLREiDhOE~StyCLWDfUcBcKZgkI9qScUE9d2F4NAvxsuEx1IuaSgcx3hqVHYgKudKNdbeNnOI9YLuoILqE0GRedEw3m3HGC6di87sDU2VPLXvjHaxwSVlXRHZaWenk-S5uWOJdAax2vP0gh~9pBlXF12eA3ZOf1cJ447e4nYQlJFs1xCBgk96OQLUOSTxreY6Pdn79YqJpjZFPP8AgbVzdN5aNkzi22MYJd-yJjn7Cle8kllpABSG0AsxYgZOBqc1IS1pPUKDzA37HTwMAd2K-Gf4r1OxP6sQ5AdbuR2MV68TzDuw8jSOxNZFk~Jh4n3FWNJd0VIJLiHe4w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a database question in tests
+# Scoring a database question in code.tests
 
 HackerRank scores Database questions automatically by comparing the candidate’s query result with the expected output.
 

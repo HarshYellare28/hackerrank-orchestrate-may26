@@ -1,6 +1,6 @@
 ---
-title: "File Upload Questions Creating a file upload question Candidate experience Scoring file upload questions in tests"
-title_slug: "file-upload-questions-creating-a-file-upload-question-candidate-experience-scoring-file-upload-questions-in-tests"
+title: "File Upload Questions Creating a file upload question Candidate experience Scoring file upload questions in code.tests"
+title_slug: "file-upload-questions-creating-a-file-upload-question-candidate-experience-scoring-file-upload-questions-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/3284451474-file-upload-question"
 article_slug: "3284451474-file-upload-question"
 last_updated_exact: "Mar 26, 2026, 5:51 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "General Questions"
 ---
 
-# File Upload Questions Creating a file upload question Candidate experience Scoring file upload questions in tests
+# File Upload Questions Creating a file upload question Candidate experience Scoring file upload questions in code.tests
 
 _Last updated: Mar 26, 2026, 5:51 PM (Last updated 1 month ago)_
 
@@ -75,6 +75,6 @@ Candidates select **Add file** to upload their submission. The file size must no
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769675647102-image.png?Expires=253370764800&Signature=mDmoigNLEFCkYYtx47HM1IgF0y8Id73cj1kNbYHKwkOYPC4pBkgS5MSA7uW0JYn~hhnX~jhIawvyBJNpzdfLYVFnI9GEaHWpsGIVK2N0PFEDXqB10HiSsEUTQd-FnoVmjrKOoOfWIybYANA6B0Daz4QHS6MTYeD4eB5C149Y1jFb1YE9IdZDxz9PIEp7vsb7P1NZ~6slRdDqKmgcISMEtbwFv84iwI~lze3p4K84MrBTuDjx07PgpPtRA7lH6xPRdGffQXEgmK6eoHZAh1hsS78dSMmHRSRadaXqsrqnprY16PKDmxJJP8HRyRyMafMWb6XliOSOw9HVjx6tk0V1Aw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring file upload questions in tests
+# Scoring file upload questions in code.tests
 
 File Upload questions require manual scoring. For more information, see [📄 Manual Scoring for General Questions](/articles/2056253220).

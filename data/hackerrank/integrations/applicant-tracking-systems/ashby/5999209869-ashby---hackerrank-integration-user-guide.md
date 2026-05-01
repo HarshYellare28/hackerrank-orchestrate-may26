@@ -39,7 +39,7 @@ Once the integration with HackerRank for Work is configured, you can send test i
 
 - Click **Activity**. The **Add Activity** pane opens on the right.
 
-- Click **HackerRank** in the integrations and then select the **Assessment Type** that you have created in HackerRank. Note that the tests you have created in HackerRank for the Ashby users are displayed in the drop-down.
+- Click **HackerRank** in the integrations and then select the **Assessment Type** that you have created in HackerRank. Note that the code.tests you have created in HackerRank for the Ashby users are displayed in the drop-down.
 
   ![hr_activity.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046491465-?Expires=253370764800&Signature=a1LvDLVr1GInN7QGU55hemTkFwwHS3l-SIZiSf~lmoiozEmFDZaqHHYPOmMNBvVOTSIDf59nRlhJ8Ja6UM5R0ZD6x7sxgIUbBaU3XabBXfGPrBv1gdqF8iFLgceeceSphyc1KokW4xUVLAbivUnkSst7PuHaWuNFD7UFcMV4pODlZR1NVLKO~hEtLJcsaXBCokqDsR5vkk0k-pAlrEuZB2~6UHPFw1gCwpZRk03vBhR4jz1nH2W8Bq8orAA3aAodbqhsWwcR6K6rQBIUNH9PP9HMkEczFzpXDYkTchuPXhTzjHmx-w9eHcLCSC8~gS57KrluNQlD-B4mzPAXbWWp6w__&Key-Pair-Id=K3NV4LZ47N8M46)
 

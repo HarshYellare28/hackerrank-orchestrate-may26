@@ -38,9 +38,9 @@ Accessing **Advanced Settings**:
 
 2\. **Default Template for Test Invites**: Add a default template for test invites. This template will be used for all invites you sent.
 
-3\. **Default Invite Expiration Time:** Set the default invite expiration time for all your tests (applies to invites sent via the website or API key).
+3\. **Default Invite Expiration Time:** Set the default invite expiration time for all your code.tests (applies to invites sent via the website or API key).
 
-5\. **Default Test Reminder Time: ** Check the box to set a default reminder time for all candidates across all your tests. Only one reminder email will be sent per candidate.
+5\. **Default Test Reminder Time: ** Check the box to set a default reminder time for all candidates across all your code.tests. Only one reminder email will be sent per candidate.
 
 6\. **Default Test Reminder Time**: Checking this box will unlock three options
 

@@ -18,7 +18,7 @@ Would you like to schedule time with a Solutions Engineer(SE) to address your qu
 
 **HackerRank’s Solution Engineering team** is available to help you with standard items such as:
 
-- How to assemble tests and best practices
+- How to assemble code.tests and best practices
 
 - How to search and navigate through the HackerRank library
 

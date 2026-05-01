@@ -44,9 +44,9 @@ For more information, see [📄 Configure Onboarding Settings for Tests](/articl
 
 ## New Candidate Report
 
-Earlier this year, we introduced a revamped reporting experience for tests that used Proctor Mode, bringing clearer performance summaries, integrity insights, and faster candidate navigation into a single, streamlined view. This upgrade made it easier to review results quickly and make confident, data-driven decisions.
+Earlier this year, we introduced a revamped reporting experience for code.tests that used Proctor Mode, bringing clearer performance summaries, integrity insights, and faster candidate navigation into a single, streamlined view. This upgrade made it easier to review results quickly and make confident, data-driven decisions.
 
-Now, we’re extending this reports experience to all tests, not just those with Proctor Mode enabled. You’ll see the same intuitive interface and insights across your entire assessment library. It’s fully backward compatible, so even your older tests will benefit from the improved reporting experience.
+Now, we’re extending this reports experience to all code.tests, not just those with Proctor Mode enabled. You’ll see the same intuitive interface and insights across your entire assessment library. It’s fully backward compatible, so even your older code.tests will benefit from the improved reporting experience.
 
 ![Flexible Video Layout (1).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759476932104-FlexibleVideoLayout%25281%2529.gif?Expires=253370764800&Signature=MWH43Mv-UjmmZdfgkrGlZvL0YAQxHFhncNbZRJzk54b6Q-1xXubikE2atSAV61~Efc2mmBfxtwCgksHZnVw4v87nwjj~zjUrlwEmecM5nYMlY5YDHnfDiAOe4NEbJ1Z21sjB15wYqQ5oo91dLHQHIZb7mij5xNJvyNLtMWFKbj~4dG48U3sxYoLLDSd7aYg5qjmernfHXNEgetAocThaAHRgycDeK~NJlX52huMSwK8P8dWtdhVBUhy3kP9tTY8gXHZhBoHSHjus22buIXWO~QwAEI83gjP6rQBpsLLBl0eOOwIpSg6Je1Y0XDPIshrs0TmRBTzFwBoKCi73wctybg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -98,7 +98,7 @@ For more information, see [Add a code repository section to a test](https://supp
 
 AI-assisted IDE in Tests gives candidates intelligent, AI-first coding support to boost productivity while giving you visibility into how they use AI in real-world tasks. With chat, candidates can get code explanations, clarify questions, and receive syntax help without full solutions, while AI autocomplete provides inline and multi-line completions to accelerate development.
 
-- **Practice before the assessment:** Guarded assistance is available in sample tests, giving candidates the same experience they’ll see in real assessments.
+- **Practice before the assessment:** Guarded assistance is available in sample code.tests, giving candidates the same experience they’ll see in real assessments.
 
 - **Clear onboarding:** The candidate onboarding flow now clearly communicates when a test includes an AI assistant and explains its capabilities upfront. It outlines what the Guarded Assistant can and cannot do, so candidates understand its role and boundaries from the very start.
 
@@ -176,7 +176,7 @@ Previously hard-to-understand questions have been rewritten to be clearer, more 
 
 In April 2025, we introduced a new candidate site to create a smoother, more modern test-taking experience. Developers love the refreshed design, cleaner UI, and simpler onboarding flow.\
 \
-This modern experience now extends beyond coding, database, and multiple-choice to include Code Repo, File Upload, Subjective, DevOps, and Cloud questions, bringing the same streamlined interface to a wider range of tests. 
+This modern experience now extends beyond coding, database, and multiple-choice to include Code Repo, File Upload, Subjective, DevOps, and Cloud questions, bringing the same streamlined interface to a wider range of code.tests. 
 
 ![Question Types.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311536344-QuestionTypes.gif?Expires=253370764800&Signature=A6cNlt8FhjjruYL704WPexkOhPZEICesdgIlBZpWkW1BFezMnKp76TK9PQ5g9GZCtpOsrlMfQ20iIj3-v~ZosvariHIsA77QRWB0-Zgps~2zaXn4y4fJl8eFcfh0VeWgKCFm0gGrH5gQVMshv0lKoYYfJM116ICvi17zgPuzlvu7GCuHScWM6hfS41BcziV5bF3~aLtBy452qr1pgf7ht0aAxjT-ZOzKzmoZokgTC78yfrXFDxxB8txFY0tQp~nvE-URO5H787TrtBotmbU6vbQQFIoCg1WDajGykIXJ1Kj8dBkmwlkZt66WMovlB-A-uNQHI30gfuSRy7zoN5b4lg__&Key-Pair-Id=K3NV4LZ47N8M46)![DevOps.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311485912-DevOps.gif?Expires=253370764800&Signature=Nu-ZiVpmq2ivVHvTHkrc57SBYOYLuLDtp3ry3jScpOx7MFgPLDFJiLDWyT43Q6plxbQVZlK344JIn26eRxYiiXWRHCE1CkoQVsYW5yEJlYT1zMMtZe-26lSYw8b7PcG62P~Bnms4RhsJfHoVxf0xgK0C~atUfzaHIy9wPtRwZMv6R4A9uHkLEHhayfHZwdvxp9CxZJJqr8XPmVze64mFvMoXYDAkxqjPo0wepEXkMvlvZ53PVNaxf~87gU9gdp4dRXUOA-EeFgaav9ZBmoMDXPT7y-mzjNFRKyXBPhU1kMrEgYzjo61zwg28goSNGOd9m4SdLHT3XzwWu1YO5Ocztg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -466,7 +466,7 @@ The Software Engineer Prep Kit helps you get interview-ready with curated challe
 
 - **Practice Challenges:** Build your skills with curated, role-specific problems spanning arrays, strings, graphs, dynamic programming, and more, designed to reflect real interview scenarios across roles. Get step-by-step support from the built-in AI Tutor as you practice solving real-world coding challenges.
 
-- **Mock Test:** Simulate actual hiring assessments with timed, auto-graded tests. Track your performance with personalized reports after every attempt.
+- **Mock Test:** Simulate actual hiring assessments with timed, auto-graded code.tests. Track your performance with personalized reports after every attempt.
 
 - **Mock Interview**: Experience realistic, AI-powered interviews that challenge your thinking with follow-up questions and detailed feedback, just like a real interviewer would.
 

@@ -17,7 +17,7 @@ _Last updated: Apr 22, 2026, 10:10 AM (Last updated 4 days ago)_
 
 ## Overview
 
-HackerRank integration with SmartRecruiters helps you manage your HackerRank tests and interviews inside the SmartRecruiters platform. This article will act as a user guide to help you understand how to use HackerRank's integration with SmartRecruiters effectively.
+HackerRank integration with SmartRecruiters helps you manage your HackerRank code.tests and interviews inside the SmartRecruiters platform. This article will act as a user guide to help you understand how to use HackerRank's integration with SmartRecruiters effectively.
 
 **Prerequisite**
 
@@ -47,7 +47,7 @@ HackerRank Tests Integration with SmartRecruiters
 
 <!-- -->
 
-- Inside the candidate's profile page, click on Browse under the Assessments tab. You will see a popup where the tests created by you in your HackerRank for Work user account will be visible. Select the test title you desire by ticking the checkbox beside it and clicking on **Continue. **
+- Inside the candidate's profile page, click on Browse under the Assessments tab. You will see a popup where the code.tests created by you in your HackerRank for Work user account will be visible. Select the test title you desire by ticking the checkbox beside it and clicking on **Continue. **
 
   ![mceclip2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047000587-?Expires=253370764800&Signature=KB0uDTyf67wlALXJog3YF9QMMy4M-B4bN764mwMB-WBtrQebdcbECo~fh3tt8phuubiAdf1OjKxhEgAcyUq8YIT7nVI2p4Ozp1X6WjtxCO7j2KpBURnM6oYKkUFhPMU6L08d6anJOHuIugXvdc6ievQlGluts7XJTOLoxe7F1QdZux4eOcGsszewd9t2LIXyyPI3Of~1Uia9C1beu9o543lPN5AosWuY5WohmQHVSoYz61yoYI0fVJynqu6-FkQK9ZpBQjq732SGIXJ8i330ZDcnUlCmL4O3a4Z6jgS3LRIATLyCcTt06yuGn2MpmgOE~NZ2dfislMD6~KzUPbryNQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

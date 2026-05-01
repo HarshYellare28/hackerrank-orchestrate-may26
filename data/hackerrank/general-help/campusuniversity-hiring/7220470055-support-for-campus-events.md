@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Jun 30, 2025, 5:27 PM (Last updated 10 months ago)_
 
-HackerRank is committed to helping you lead a successful campus event. To do this, our support team needs a few details at least two days in advance to ensure we have enough time to scale our systems depending on the number of candidates you invite and the type of questions on your tests. 
+HackerRank is committed to helping you lead a successful campus event. To do this, our support team needs a few details at least two days in advance to ensure we have enough time to scale our systems depending on the number of candidates you invite and the type of questions on your code.tests. 
 
 Here is the information we need: 
 

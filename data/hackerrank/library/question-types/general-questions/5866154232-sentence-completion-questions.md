@@ -1,6 +1,6 @@
 ---
-title: "Sentence Completion Questions Creating a sentence completion question Candidate experience Scoring sentence completion questions in tests"
-title_slug: "sentence-completion-questions-creating-a-sentence-completion-question-candidate-experience-scoring-sentence-completion-questions-in-tests"
+title: "Sentence Completion Questions Creating a sentence completion question Candidate experience Scoring sentence completion questions in code.tests"
+title_slug: "sentence-completion-questions-creating-a-sentence-completion-question-candidate-experience-scoring-sentence-completion-questions-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/5866154232-sentence-completion-questions"
 article_slug: "5866154232-sentence-completion-questions"
 last_updated_exact: "Apr 22, 2026, 10:14 AM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "General Questions"
 ---
 
-# Sentence Completion Questions Creating a sentence completion question Candidate experience Scoring sentence completion questions in tests
+# Sentence Completion Questions Creating a sentence completion question Candidate experience Scoring sentence completion questions in code.tests
 
 _Last updated: Apr 22, 2026, 10:14 AM (Last updated 4 days ago)_
 
@@ -153,7 +153,7 @@ Candidates can click each blank and type their answer directly into the field.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767605047648-image.png?Expires=253370764800&Signature=BttC89zkOh7Kh8ez0WJSkiYTwTpdlkp4x~WM2yriEl6wm1mCwcGI~HRT5A2odZSzDTRfeZAVgERdKhlnMlJk6x34PmJJknSHKMPDP7fYJzaZ7ELVIc1wvIaSTjeUfC23CSO~HSfOv1bkbZ33xgfKOWaN9pZWVjz~YKYvkExMBth9i4SlnxIQrRGPjeOv~NgOHkGv5UBrNqHcCWfR8a35rPfQAI1A46S5rsC2NpG16egD9zm9wnmCN9q4D3hfsScn6mv~92W5O-AH2xgrLNDzjXTSChSoikYYuOVfnvpiSAsIwHpkKuSySGnlLD9K~0A1Ju-Ss3a38EW~vgGFs0HndQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring sentence completion questions in tests
+# Scoring sentence completion questions in code.tests
 
 HackerRank automatically scores sentence completion questions. Answers are not case-sensitive. For example, if the correct answer is HTML, the system accepts HTML, Html, html, or HTml.
 

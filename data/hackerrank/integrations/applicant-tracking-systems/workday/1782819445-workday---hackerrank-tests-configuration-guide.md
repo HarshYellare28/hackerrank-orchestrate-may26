@@ -1,8 +1,8 @@
 ---
 title: "Workday - HackerRank Tests Configuration Guide"
-title_slug: "workday-hackerrank-tests-configuration-guide"
-source_url: "https://support.hackerrank.com/articles/1782819445-workday---hackerrank-tests-configuration-guide"
-article_slug: "1782819445-workday---hackerrank-tests-configuration-guide"
+title_slug: "workday-hackerrank-code.tests-configuration-guide"
+source_url: "https://support.hackerrank.com/articles/1782819445-workday---hackerrank-code.tests-configuration-guide"
+article_slug: "1782819445-workday---hackerrank-code.tests-configuration-guide"
 last_updated_exact: "Mar 26, 2025, 11:41 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:
@@ -185,7 +185,7 @@ This is what the table should look like when you are done. Note the order, which
 
 ### Setup HackerRank Assessment in Workday
 
-HackerRank customers can create their own custom tests, and the identifiers for these tests are unique for each customer. Therefore, any test names and test IDs must be added to Workday on a per-customer basis. This process is not something that can be automated, so it requires an implementer to add tests manually to Workday.
+HackerRank customers can create their own custom code.tests, and the identifiers for these code.tests are unique for each customer. Therefore, any test names and test IDs must be added to Workday on a per-customer basis. This process is not something that can be automated, so it requires an implementer to add code.tests manually to Workday.
 
 **Steps:**
 
@@ -215,9 +215,9 @@ HackerRank customers can create their own custom tests, and the identifiers for 
 
 Note: When building out and testing the integration for the first time, you can get the Name and Test ID from the HackerRank Test page and the page URL, as described above.
 
-When the integration is ready, you can log into your HackerRank for Work account and do a one-time bulk export of all the tests that need to be entered into Workday.
+When the integration is ready, you can log into your HackerRank for Work account and do a one-time bulk export of all the code.tests that need to be entered into Workday.
 
-Follow the below steps in your HackerRank account to bulk export the available tests.
+Follow the below steps in your HackerRank account to bulk export the available code.tests.
 
 - Click on the **Settings** button from the top left menu
 
@@ -225,11 +225,11 @@ Follow the below steps in your HackerRank account to bulk export the available t
 
 - Under Workday, click on the **Configure** button.
 
-- Under the CodeScreen Integration setup section, click on download all published tests.
+- Under the CodeScreen Integration setup section, click on download all published code.tests.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146235-?Expires=253370764800&amp;Signature=QczVpKFM6i0RAcGqyzpNyWS1EYT~vHjzCZuz5F0dcZXyi5CXQqr1FRM1LHj5k8r06LnK-BfdWjUj-m3DSTvd3tGlJxyljFEYbhgD3Vi6s9DONJ46TFhInrnhuc7AZl~x98hHMo25XSUXhJqdsrQtQ1U0-aVf6hG0hfK8aKakjD1uJKGpvuxiek83NV439pR9lVA3~Nn~-a6JFqg3BIhWMqrNki9ddwdtlB7jFkwlIVf-EgyS58rI0Zv7Tsk5ODdl-muREUzvndsnnhP9AfoabRMJunsamhSXIzE6MJPsaTCAkR3i2VSbhOyg8m6C0HyUxvDVRbrW~~A1rw5NH29luQ__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
-Note: You need to add all new tests that are created in HackerRank and need to be used in Workday manually. 
+Note: You need to add all new code.tests that are created in HackerRank and need to be used in Workday manually. 
 
 ## Business Process Configuration
 
@@ -239,7 +239,7 @@ Make sure you configure the Job Application business process to include assessme
 
 ## Configure Default Tests (Optional setup)
 
-Follow the below steps to configure default tests in Workday.
+Follow the below steps to configure default code.tests in Workday.
 
 **Steps**:
 
@@ -255,7 +255,7 @@ Follow the below steps to configure default tests in Workday.
 
 ![A screenshot of a cell phone Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146519-?Expires=253370764800&Signature=SKYerdxo0LA2jWaP6~5L0P~tlK-2mOTw300WU5FUGTqATUsBH~drh4ENjL140pQDkE6l0C~OU1~aQ62Gj8mFl3QGpliBPZbhPEAshtl4s-n9g1cLueaHQtDsvp3GBRbilMITJIhuvIH5jaeTnU0sDGpHv3yjUSExnwEbD6Hde1J18DM7dzRarhml6B~PPAy1s2--W~Qg0xEdp1CSigbhR0J~R1HS9C4qu1d-Wzrj5N1arvk36j2p7JdeRYuLy8HWB4aT7vwWm-OC0Q6nR27h~JuhgrI7QHQtAdQMDxKwAcq5ARoqbdKrrUdYaOfvzj4SEIS5BfQ0LDTgXYXKc8~brA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-- When assigning an assessment to the candidate, the default test will show up by default in the list of assessment tests. The recruiter can change this before sending the test if the default is not right for the candidate.
+- When assigning an assessment to the candidate, the default test will show up by default in the list of assessment code.tests. The recruiter can change this before sending the test if the default is not right for the candidate.
 
   ![A screenshot of a cell phone Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146786-?Expires=253370764800&Signature=PM0s49QTQ~yv4mvjWLlEBb0B6xJW7ThyjEc0zxxqrDwVvlpCQ8PrQ~enRm7GiKIrNyq6s8Sy3qpoNj3bC~rIS9wYAHoWwb7lVEDCtGGIbLHckFCUqX-SB1MRuE-WcyzMQOXhLr7fgH0nLK8hBYCQFkAIvAthbn7JGMfe42UCNGAoQWn4I25GXpx2INXl20g2Lt0bHqBx6vXlH-c5R1BwAhKFLBBgi4VeeYg-qU6MZYByJY4rsZ2lDNK3~2QVmTGxpkHpsHpvNL8tKVIq5SmNQ7Dfpgmicrvfa19dnK-5W3OUQT0HV9rmMo~YzzrefveYLY84uwujMyEas9H25d1rdA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

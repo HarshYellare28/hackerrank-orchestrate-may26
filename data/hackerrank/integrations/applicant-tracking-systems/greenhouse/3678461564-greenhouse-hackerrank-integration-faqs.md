@@ -1,6 +1,6 @@
 ---
 title: "Greenhouse-HackerRank Integration FAQs API Token and Access Tests and Interviews Common Troubleshooting"
-title_slug: "greenhouse-hackerrank-integration-faqs-api-token-and-access-tests-and-interviews-common-troubleshooting"
+title_slug: "greenhouse-hackerrank-integration-faqs-api-token-and-access-code.tests-and-interviews-common-troubleshooting"
 source_url: "https://support.hackerrank.com/articles/3678461564-greenhouse-hackerrank-integration-faqs"
 article_slug: "3678461564-greenhouse-hackerrank-integration-faqs"
 last_updated_exact: "Aug 1, 2025, 2:57 PM"

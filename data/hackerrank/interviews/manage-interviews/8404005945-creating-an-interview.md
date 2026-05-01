@@ -94,7 +94,7 @@ To schedule an interview:
 
       - Add **Interview** **Tags** and select **Interview Roles**.
 
-        **Note:** If you schedule the interview for a candidate who has already taken tests, the Role field will auto-populate with the role for which the candidate attempted the tests.
+        **Note:** If you schedule the interview for a candidate who has already taken code.tests, the Role field will auto-populate with the role for which the candidate attempted the code.tests.
 
       - Enable the **Show candidate timeline to the interviewer** toggle to allow interviewers to access the candidate's report from previous x  interviews
 

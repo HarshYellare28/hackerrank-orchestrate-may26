@@ -22,7 +22,7 @@ Question leakage is a significant concern during university recruiting season. T
 
 ### **Leaked Question Alert Emails**
 
-You can now subscribe to instant leakage alerts for your tests that use HackerRank library questions, allowing for quick management of exposed questions. Additionally, if an automatic replacement fails, a curated list of reliable replacement questions will be provided for leakage-protected sections, preserving the integrity of your tests.
+You can now subscribe to instant leakage alerts for your code.tests that use HackerRank library questions, allowing for quick management of exposed questions. Additionally, if an automatic replacement fails, a curated list of reliable replacement questions will be provided for leakage-protected sections, preserving the integrity of your code.tests.
 
 ![Leakedd.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046061982-?Expires=253370764800&Signature=FWy8APw8KbiMvA6Fd3F-jXnCs96ajIEJrK8~Dp64EvDYD-yLJHV13VIppJh1X4GYX2zEAPdHe1-uJEmNq5rc4cn3TZRFhix2kbV-bpok00UDEm43FJohVBD-Wm9xc3rF4VTGRFEI5lJWciy7opzDQjnRjPAyv0WmgQ0M2oZZXVf5wp9KMBDM3BACVBaZCInTCy~LHk8fGyT3PjnDkGPIZnX2naA6~r5BAixUL~r8EYcsq14dCnLZSjfdIlp516mYZmy3V6SqpacrCtq2GqOvMU3a0xO9lVZ2CqEX7oxX8UWfSEDJKom6hP6YLMIHokX2E6Lk491ZcKVGy79tFR7oDw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -46,7 +46,7 @@ MCQ sections within[📄 HackerRank Certified Assessments](/articles/1649328687)
 
 ### **Setting Custom Scores for MCQs**
 
-We have fully migrated to the new MCQ scoring model which provides you with greater flexibility and control while scoring your tests! Now, you can set custom scores for your MCQ questions, ensuring consistency as the test-level score will override all individual MCQ scores within that test.
+We have fully migrated to the new MCQ scoring model which provides you with greater flexibility and control while scoring your code.tests! Now, you can set custom scores for your MCQ questions, ensuring consistency as the test-level score will override all individual MCQ scores within that test.
 
 **Note:** This update applies to users who signed up before 2020. Accounts created after 2020 will already have access to this experience.  
 
@@ -56,7 +56,7 @@ Learn more here[📄 Scoring a Multiple Choice Question](/articles/4247041184)
 
 ### **Ability to Shuffle Sections Without Section Time Limits**
 
-You can now shuffle sections without the need of adding a section time limit. This improvement means you have greater flexibility in structuring your tests, ensuring a fair assessment experience without the constraint of time limits.
+You can now shuffle sections without the need of adding a section time limit. This improvement means you have greater flexibility in structuring your code.tests, ensuring a fair assessment experience without the constraint of time limits.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046063593-?Expires=253370764800&amp;Signature=O3tsT3Z7-mc4zidse-g8iNvqwum0aQxAvdAuRcuguuUnfUD09K~QAxG~rs4PW~LKsDUeHiQsfpJlStkrXVSy0tsmj2Jg070Vmr9vyVVj~rhc0Gr-WufbGVPT98J0x~PBvP0Cl5mKlPiItVkEsgSwUFMf-R18hIjZ5BNuM9QWeDE0nNLo~9I7i~XC0wFlT9~10rcOEcFuXSR2k753d7hk36x6DOeuDtduiJCLsgx0-vazIPtwWaJgmpZtSjVdmEOs4uJ8Mwvk~z7v0hlGPgZ0qp-b6MI5qf3tdfOhDgORSOS6F35mj0CKNtUmg-OfCtnyJgLDO-IPH61lUUQkYlqjkQ__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
@@ -86,7 +86,7 @@ We have significantly optimized and migrated our export processes to a new infra
 
 ### **Test List export**
 
-You will now see an export button within the test tab which allows you to export the list of tests, including all information about the test beyond what is available on the user interface.
+You will now see an export button within the test tab which allows you to export the list of code.tests, including all information about the test beyond what is available on the user interface.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046064614-?Expires=253370764800&amp;Signature=b7tLlghGkPPS4YF8exB~JEeB3oy~GsK5ZV4krkrVbpAOdP7fDolfcJFbTMx53q9jSq0Kph57dC5QASakE6~ykcWb8Z0uTjL5gLKr-W31RjY6zCg~Vbb3ksUgPeSEnh10Q~n3jlg7NScUqM1SwUOfZAx6KdUCGf5ZF664djZeaY4QH~PtCdz52OjgJ37i7HGBU6yZQXHydua23UrcbKlGFwBu1SVdu~w09M0GWZXujt6LoHtTsK9dDqvY8x-nffujspxu3BbpEXE1ujkzv3wp48hs1O~LHOataRCaiSTft2In0uSP8VZFGScZHBr13bPbCao33EPE45-KYkzcz4e8WA__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 

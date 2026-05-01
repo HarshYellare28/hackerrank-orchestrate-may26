@@ -1,6 +1,6 @@
 ---
 title: "Recruitee - HackerRank Integration Overview Tests features"
-title_slug: "recruitee-hackerrank-integration-overview-tests-features"
+title_slug: "recruitee-hackerrank-integration-overview-code.tests-features"
 source_url: "https://support.hackerrank.com/articles/6130823390-recruitee---hackerrank-integration-guide"
 article_slug: "6130823390-recruitee---hackerrank-integration-guide"
 last_updated_exact: "Jan 30, 2026, 11:23 AM"

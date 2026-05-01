@@ -30,7 +30,7 @@ With Proctor Mode, you can:
 
 # Enable Proctor Mode
 
-To use Proctor Mode in tests, you must enable it at both the **Company** level and the **Test** level.
+To use Proctor Mode in code.tests, you must enable it at both the **Company** level and the **Test** level.
 
 To enable Proctor Mode:
 
@@ -68,7 +68,7 @@ To enable Proctor Mode:
 
 Proctor Mode compatibility includes the following:
 
-- **Availability:** Proctor Mode is available only for tests created after the July 2025 release. You cannot enable Proctor Mode for tests created before this release. If you used Proctor Mode during the limited availability phase, those tests continue to support it.
+- **Availability:** Proctor Mode is available only for code.tests created after the July 2025 release. You cannot enable Proctor Mode for code.tests created before this release. If you used Proctor Mode during the limited availability phase, those code.tests continue to support it.
 
 - **Supported question types:** Proctor Mode supports only the following question types: Coding, Approximate, Multiple Choice (MCQ), Database, Sentence Completion, Subjective, File Upload, Code Repo, Code Review, and Projects (excluding DevOps and Data Science).
 
@@ -176,13 +176,13 @@ The **Session Replay** provides a timeline-based, video-style view of the test s
 
 **Tests with candidate personal information**
 
-When a test includes candidate personal information (such as webcam images), Proctor Mode evaluates the same three areas as **tests without candidate personal information** and also analyzes webcam images for potential violations, such as the candidate’s face missing for an extended period, multiple faces visible, or secondary faces detected.
+When a test includes candidate personal information (such as webcam images), Proctor Mode evaluates the same three areas as **code.tests without candidate personal information** and also analyzes webcam images for potential violations, such as the candidate’s face missing for an extended period, multiple faces visible, or secondary faces detected.
 
 The **Integrity Summary** provides a consolidated view of all detected integrity signals for a candidate, including issues detected in webcam analysis. It lets you preview issues and drill down into supporting evidence within the same section.
 
 ![test with webcam.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769513895832-testwithwebcam.gif?Expires=253370764800&Signature=g3q2F4hY1hCPs3AsFh3hhnjbgMtYKQ2ZR3iY~IggdmOUEXZFQdIW3XMGuf1iIPQQy4eg5e25Lgr6oomfWvZQVRzeqokkpOvqG3hX5oMsL3pogSr76Li-BdgMFk7U3dH4h7ZJX~fGH0VB5EkCm5v-7~FYC2OGNkvHmBaPY3LRX1HkkqmyI0UQCcNZHzTdFiyfA9dOh8vj0f0Dzz5qtB7avvbzNGn2DqT5tmk1AUtCOXnyQTZJRw~uzM7N~T8~olWqjPGk4LLTmrr1kSOX~Oaq97L1ewPEt0aP7JK4SDax00Bi7G7s8jS5-oModdwbjfJk~bJqBHYEF8QlGC0bhxbiHw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-The **Session Replay** for these tests includes all the features available for **tests without candidate personal information**, along with the following additional capabilities:
+The **Session Replay** for these code.tests includes all the features available for **code.tests without candidate personal information**, along with the following additional capabilities:
 
 - Captures webcam images every five seconds.
 

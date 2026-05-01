@@ -1,8 +1,8 @@
 ---
 title: "Configure Onboarding Settings for Tests Prerequisites Configuring onboarding settings"
-title_slug: "configure-onboarding-settings-for-tests-prerequisites-configuring-onboarding-settings"
-source_url: "https://support.hackerrank.com/articles/5956879724-configure-onboarding-settings-for-tests"
-article_slug: "5956879724-configure-onboarding-settings-for-tests"
+title_slug: "configure-onboarding-settings-for-code.tests-prerequisites-configuring-onboarding-settings"
+source_url: "https://support.hackerrank.com/articles/5956879724-configure-onboarding-settings-for-code.tests"
+article_slug: "5956879724-configure-onboarding-settings-for-code.tests"
 last_updated_exact: "Apr 22, 2026, 10:20 AM"
 last_updated_relative: "Last updated 4 days ago"
 breadcrumbs:

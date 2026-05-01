@@ -15,7 +15,7 @@ breadcrumbs:
 
 _Last updated: Mar 19, 2025, 11:36 AM (Last updated 1 year ago)_
 
-HackerRank integrates with [Avature](https://www.avature.net/avature-integrations/) for screening tests, allowing users to send tests from Avature and view results directly in the candidate's Avature profile, resulting in an efficient screening experience.
+HackerRank integrates with [Avature](https://www.avature.net/avature-integrations/) for screening code.tests, allowing users to send code.tests from Avature and view results directly in the candidate's Avature profile, resulting in an efficient screening experience.
 
  
 

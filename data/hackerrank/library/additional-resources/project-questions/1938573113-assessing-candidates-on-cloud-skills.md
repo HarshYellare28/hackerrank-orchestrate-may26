@@ -21,11 +21,11 @@ _Last updated: Jan 23, 2025, 12:51 AM (Last updated 1 year ago)_
 
 **Steps:**
 
-- You can create [certified assessments](https://support.hackerrank.com/collections/4259349293-certified-assessments) or [role-specific tests](https://support.hackerrank.com/articles/7429771072-creating-a-test-based-on-a-specific-role) to asses Cloud skills. 
+- You can create [certified assessments](https://support.hackerrank.com/collections/4259349293-certified-assessments) or [role-specific code.tests](https://support.hackerrank.com/articles/7429771072-creating-a-test-based-on-a-specific-role) to asses Cloud skills. 
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734986402219-33249254320147-a20c08a3-4690-4271-936a-8a5e581a4785?Expires=253370764800&amp;Signature=haWJ1PcHyCFLEMbUlqkqcJThK8ZxbQxL7sITQ1zKGbr1m-j9azO-w~jEcDal1L8J8Hw-wusmhq2n-WRSHeitUdWswp1xuZYK5Qc4Dm6IxMI0syf4bpbOVu8hrF0Bg3kYEHzwNSSZsjY8YBfY765N4mkGh5XxEziCYQO8V1zgWKBdInp3RXefEq7nLTiuaRfpZeee6aVa-kTpLnmENR6IurAYN-kZ5FUWdCE9OoxgmVWdU9ZMC0VQiNWDywLre4lWogZjHPwvt0nHkZknXs4E-U5rKTADp2hFBwb-HN7cMhrtD-R6mdTA74gmg17XmLyo4djYwiYuGJEG81rxZUOY8w__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
-- You can also add individual Cloud questions to your tests:
+- You can also add individual Cloud questions to your code.tests:
 
   - Click on Library from the home page
 
@@ -51,6 +51,6 @@ The candidate's work in the console is automatically scored, and the results are
 
 - The tab proctoring feature and functionality to add time to a candidate’s test are not supported when an AWS question is present in the test.
 
-- You can use the hands-on cloud questions available in the HackerRank Library while creating tests as the ability to create custom AWS questions is not available at this point.
+- You can use the hands-on cloud questions available in the HackerRank Library while creating code.tests as the ability to create custom AWS questions is not available at this point.
 
 If you have specific use cases related to AWS skills that you’d like to discuss with our team, please contact us at [support@hackerrank.com](mailto:support@hackerrank.com).

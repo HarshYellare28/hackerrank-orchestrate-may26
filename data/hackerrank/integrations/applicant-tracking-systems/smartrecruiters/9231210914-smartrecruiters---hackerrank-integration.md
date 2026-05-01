@@ -41,7 +41,7 @@ Below is a list of features that the SmartRecruiters Integration offer:
 <td data-colspan="1" data-rowspan="1" data-background-color="green" style="background-color: #D1FAE5"><p><strong>SmartRecruiters</strong></p></td>
 </tr>
 <tr>
-<td data-colspan="1" data-rowspan="1" data-colwidth="313" style="width: 313px"><p>View the full list of HackerRank tests </p></td>
+<td data-colspan="1" data-rowspan="1" data-colwidth="313" style="width: 313px"><p>View the full list of HackerRank code.tests </p></td>
 <td data-colspan="1" data-rowspan="1"><span data-name="check_mark_button" data-type="emoji" contenteditable="false">✅</span>
 <br />
 </td>

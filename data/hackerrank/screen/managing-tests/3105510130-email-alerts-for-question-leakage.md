@@ -20,7 +20,7 @@ Email alerts for question leakage help you quickly identify and respond to leake
 
 Email alerts provide the following benefits:
 
-- **Managed alerts:** Receive notifications only for the tests you subscribe to, and set the email frequency to daily or weekly.
+- **Managed alerts:** Receive notifications only for the code.tests you subscribe to, and set the email frequency to daily or weekly.
 
 - **Easy leakage management:** Use the direct link in each email alert to open the affected test and replace the leaked question immediately.
 
@@ -28,11 +28,11 @@ Email alerts provide the following benefits:
 
 You can enable email alerts for leaked questions at the company level, user level, or test level.
 
-## Enabling email alerts for all company tests
+## Enabling email alerts for all company code.tests
 
 **Note:** You must have admin access to configure company-level settings. 
 
-To enable email alerts for all company tests:
+To enable email alerts for all company code.tests:
 
 1.  Log in to your **HackerRank for Work** account using your credentials.
 
@@ -60,11 +60,11 @@ To enable email alerts for all company tests:
 
 All test owners and editors will receive an email notification when a question is leaked.
 
-## Enabling email alerts for your tests
+## Enabling email alerts for your code.tests
 
-You can enable email alerts for all the tests you have created. 
+You can enable email alerts for all the code.tests you have created. 
 
-To enable email alerts for all your tests:
+To enable email alerts for all your code.tests:
 
 1.  Click your profile icon in the upper-right corner.
 
@@ -74,7 +74,7 @@ To enable email alerts for all your tests:
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Ffdf8e7c7-9b10-407b-8f8f-3d9c89eeac1a-1759991118585-image.png-bec716a2-ec13-4606-bccb-6d8695dafe58?Expires=253370764800&Signature=ofM37U-lriOHcdVBy9PXCBLISPMDmT-uSSzd5Kt4s6-l52nB2CmL1EruKdMihMf3j1JJcAe8-rDtwWAHFOHcSfFqSY4Cb8eZ77rqzDnO6xVYVKMz7qUOP0oqFFBZzxL-jA0hCAFHxIm8LtezC-5GldHMk-3t7u0taNKFKaptnd01xu5ThxextHhpKsfyb~lU1rx2xrjrCnQuXtXDWd8Z-SuFGgoGschgk58Pw~gR6fDnl5yWgSP80mUheWx1blK05muhGYeDuv0b8HynFXN4ct2wTipudmi7fK09C4MdTpGpcpKq67A3EKmA1F~fojZy7OjFNNUYi~rEjzL7v-jVnA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-4.  Toggle **Turn on leakage alerting for all my tests by default** to enable email alerts and select **daily** or **weekly** to receive alerts.
+4.  Toggle **Turn on leakage alerting for all my code.tests by default** to enable email alerts and select **daily** or **weekly** to receive alerts.
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fc5e99012-ab26-4664-8062-d52317370109-1759991061116-image.png-2f73a93a-bcd0-450c-abfe-e0f8b141dedb?Expires=253370764800&Signature=lR4tIJj88EujQJKeHu00ym8rW7~2H3RzD2lEtBgK1IYOXc88LW6T60x1GE0et4jf37QeMENEj2v39Amz8OGSA-K1dvd8RT6I57CzSyTbihLACLINIwywlVSozBR6kur-Ad7y~yxYIOEAvBVz1a6xhfBsF8BdwlBjo7iXCztRJ5XlNm0Kc~1~jAylorYzpEfQKoC-gK1-cGzcAuBNEucc1xPZ8~xqZO9BRj~hBJqX8sVWENhwcedngCLKh9yPht8z4P8i-AX0w5F-MnAMphRbONBMq9i-I-VhKHH4OJo5KfMl~0uccR6d8pUNVAahCLK4QmqUQvvWYq8DHtv8jXPD-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -110,7 +110,7 @@ To enable email alerts for a specific test:
 
 After you enable alerts, test editors receive an email that includes:
 
-- A list of tests with leaked questions.
+- A list of code.tests with leaked questions.
 
 - Direct calls to action (CTAs) to manage each affected test.
 
@@ -120,7 +120,7 @@ After you enable alerts, test editors receive an email that includes:
 
 - Questions that were leakage-protected, but the automatic replacement failed (marked with a shield icon).
 
-If the email contains more than three tests, download the attached spreadsheet to see all leaked questions across the tests you are monitoring.
+If the email contains more than three code.tests, download the attached spreadsheet to see all leaked questions across the code.tests you are monitoring.
 
 ![leakedquestionemail.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762239984055-leakedquestionemail.png?Expires=253370764800&Signature=kHTu00-zgYU0tUd80wLBbO00RXmp6Nl4KvWG3nCXhW23Kfh~6nc7mKjmFb-dU~vh-nYpPgV6t5nExTUE7bR7LxMkte3~YDQL1TymHMqQKbvBOFsO~bPSEE2CMjZZUIxJ3k~9mO6zcUlp3x1J3b3Tutsr2Dgi3ietblhEAqfVw6Erqk-hDUScZuDQJVuj1ckWDNwWJqahLXnweZhJIG~2JiftsoUDjzcuGBgwFaYi2OtS2p-e0GDLBvtRrzV5-ld3vHSTRlN-YPGSticGGa5B1XBKhGY3dg7EgEnPBy4GY79P9nVp0JOgKaBRz9b1RyPPn9m5XDd~BeeqDS3kM~~HFQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

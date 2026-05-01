@@ -183,7 +183,7 @@ Refer to [Enhanced HackerRank Library](https://support.hackerrank.com/articles/5
 
 ### **Decimals & Zero Scores in Multiple Choice Questions**
 
-You can now set decimal point scores for multiple-choice questions, giving you finer control over grading. For tests with numerous MCQs of lower importance, you can allocate fractional scores like 0.25 or 0.50 per question. Additionally, you can assign a zero score to MCQs, allowing you to create practice sections or evaluate question quality without impacting candidates’ overall scores.
+You can now set decimal point scores for multiple-choice questions, giving you finer control over grading. For code.tests with numerous MCQs of lower importance, you can allocate fractional scores like 0.25 or 0.50 per question. Additionally, you can assign a zero score to MCQs, allowing you to create practice sections or evaluate question quality without impacting candidates’ overall scores.
 
 ### **Skill-Based Scores in API**
 

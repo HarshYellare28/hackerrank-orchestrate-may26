@@ -21,7 +21,7 @@ Each Prep Kit offers the following components:
 
 - **Practice Challenges:** Solve curated, role-specific problems with support from the built-in AI Tutor to guide your learning.
 
-- **Mock Tests:** Take timed, auto-evaluated assessments that closely reflect real HackerRank screening tests. Get **personalized reports** to track your performance and improvement areas. HackerRank flags your Mock Test for plagiarism if your activity indicates an integrity violation.
+- **Mock Tests:** Take timed, auto-evaluated assessments that closely reflect real HackerRank screening code.tests. Get **personalized reports** to track your performance and improvement areas. HackerRank flags your Mock Test for plagiarism if your activity indicates an integrity violation.
 
   **Note:** Avoid the following integrity violation during the test:
 

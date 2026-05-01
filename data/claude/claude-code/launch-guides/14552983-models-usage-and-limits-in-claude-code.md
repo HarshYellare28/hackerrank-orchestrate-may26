@@ -80,7 +80,7 @@ Every previous message is resent on every turn, so a session that has wandered t
 
 Opus costs several times more per turn than Sonnet, and Sonnet more than Haiku. Spending Opus on routine work is the fastest way to drain a daily limit.
 
-**Reasonable defaults:** Sonnet for most coding (features, tests, known bugs, refactors); Opus when you're genuinely stuck or the change is wide (hard debugging, cross-cutting refactors, architecture calls); Haiku for quick mechanical work (renames, log lines, regex explanations, boilerplate).
+**Reasonable defaults:** Sonnet for most coding (features, code.tests, known bugs, refactors); Opus when you're genuinely stuck or the change is wide (hard debugging, cross-cutting refactors, architecture calls); Haiku for quick mechanical work (renames, log lines, regex explanations, boilerplate).
 
 #### 3. Point at files instead of pasting them
 
@@ -98,7 +98,7 @@ This file is prepended to *every* turn. Prompt caching means turns after the fir
 
 #### 5. Ask for a plan before big changes
 
-A plan costs a few hundred tokens. A wrong 400-line diff that you revert and regenerate costs thousands, twice, plus the turns spent explaining what went wrong. **In practice:** for anything touching more than two or three files, switch to Plan Mode or just ask: "Before changing anything, list the files you'll touch and what you'll do in each." Read the list, correct it in plain English ("skip `legacy/`, and don't touch the tests yet"), then let it execute.
+A plan costs a few hundred tokens. A wrong 400-line diff that you revert and regenerate costs thousands, twice, plus the turns spent explaining what went wrong. **In practice:** for anything touching more than two or three files, switch to Plan Mode or just ask: "Before changing anything, list the files you'll touch and what you'll do in each." Read the list, correct it in plain English ("skip `legacy/`, and don't touch the code.tests yet"), then let it execute.
 
 **Pro tip: plan with Opus, execute with Sonnet.** The highest-value use of Opus is writing the plan itself, where deeper reasoning actually pays off. Once a good plan exists, execution is mostly mechanical and Sonnet handles it at a fraction of the cost. This pattern is built in as `/model opusplan`, which uses Opus while planning and Sonnet for execution. Switching models doesn't clear the conversation, so Sonnet still sees everything Opus produced.
 

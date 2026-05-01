@@ -1,8 +1,8 @@
 ---
 title: "Modify Question Settings for Tests Prerequisites Modifying question settings"
-title_slug: "modify-question-settings-for-tests-prerequisites-modifying-question-settings"
-source_url: "https://support.hackerrank.com/articles/5424328799-modifying-question-settings-for-tests"
-article_slug: "5424328799-modifying-question-settings-for-tests"
+title_slug: "modify-question-settings-for-code.tests-prerequisites-modifying-question-settings"
+source_url: "https://support.hackerrank.com/articles/5424328799-modifying-question-settings-for-code.tests"
+article_slug: "5424328799-modifying-question-settings-for-code.tests"
 last_updated_exact: "Mar 6, 2026, 6:51 PM"
 last_updated_relative: "Last updated 2 months ago"
 breadcrumbs:

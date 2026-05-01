@@ -68,7 +68,7 @@ Centralized test settings now allow you to set defaults for the following:
 
 - Confirmation email content  
 
-You now have the ability to enforce these default values across all tests in your account.
+You now have the ability to enforce these default values across all code.tests in your account.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046091703-?Expires=253370764800&amp;Signature=bHXm7fAAWptJpgrOtHVNt0iHp7CpqGkMiFHbwX-Svcfag8Dd6deicJZZZR7l5M7TwAProMvrmmUvD0KqLmLcwgZmH2tzb4gIxs5xOxQQ4E7WCAl9u5Gaih23MDS10NUpYTRF-Cjke8lPFnec4RmQZQ6mUghVjkeplf91~QPdA61GK9OwYbOmUBYtr0YD5ofYdsjN9g5don2iHKdhyUNByizrHuwxflLbQA7sS1Pc9terF0hqWlaeaczT5SKmGsYbVIJwN0KKWHoTwP9bEJgvpxJLyNW1N9Ox78pParJN3dd2-henj60SmrW9avHqyRp2vyP8LbfWdj2OZ1-396ocmw__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 

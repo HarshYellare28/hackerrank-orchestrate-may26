@@ -34,7 +34,7 @@ HackerRank's Role Certifications use technical assessments to evaluate a develop
 
 ## Additional insights
 
-- HackerRank assessments are developed based on HackerRank’s research and audited for bias to create tests that are valid and fair. If you choose to use custom assessments and want to achieve similar validity evidence, work with your HackerRank I/O Psychologist to create an action plan (additional fees may apply).
+- HackerRank assessments are developed based on HackerRank’s research and audited for bias to create code.tests that are valid and fair. If you choose to use custom assessments and want to achieve similar validity evidence, work with your HackerRank I/O Psychologist to create an action plan (additional fees may apply).
 
 - Set Clear Internal Standards: 
 

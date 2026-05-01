@@ -215,7 +215,7 @@ In interviews, the AI Assistant operates in **unguarded mode**, which means:
 
 This unguarded setup is intentional and reflects the live, collaborative nature of interviews. The goal is to understand how candidates interact with AI tools in real time.
 
-**How does the AI Assistant in interviews differ from the AI Assistant in tests?**
+**How does the AI Assistant in interviews differ from the AI Assistant in code.tests?**
 
 In **HackerRank Tests**, the AI Assistant operates in **guarded mode**. It provides limited support, such as syntax assistance, platform guidance, and conceptual help. It does not reveal full solutions.
 

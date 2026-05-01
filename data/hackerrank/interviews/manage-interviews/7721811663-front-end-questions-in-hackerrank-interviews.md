@@ -96,7 +96,7 @@ Experience the new containerless VS Code IDE results in a faster loading and sta
 
   - You can run the test cases by clicking the **Test** tab. Click the **Run Tests** option. The output is displayed.
 
-    ![tests.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046361609-?Expires=253370764800&Signature=Fb96Vi5ZjF6X6tsuylIzylBbFs~YTznrHTkIh4-evYtdCuisQrIMVUwJNyjpf6uNHbU9s1tw61~aDtEMxlC-KFSt32toMdhISLeELnH8VCXIjYVyc9TjMWL8Wjjqqg6KL6O4KNvFBXUXUCG0nO-daTdkJ2PRoZnOd--y3NrRXLxtTaQHWNOWvJxagMDlegKKLyJvFNZsXiVRPW7-JNmAKExq0Ez7kkXKv3g1LEMgM0GTV1aKuaWLXDTDNJAigHGqdrqiJ2voUtg7cctHxdIF3OzdBOd334BFS1Cg8CSeUquaIv3OH3l~pPYIZZ1bQ6aVa-C4UF7pNqUBXS-uL-eKPA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![code.tests.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046361609-?Expires=253370764800&Signature=Fb96Vi5ZjF6X6tsuylIzylBbFs~YTznrHTkIh4-evYtdCuisQrIMVUwJNyjpf6uNHbU9s1tw61~aDtEMxlC-KFSt32toMdhISLeELnH8VCXIjYVyc9TjMWL8Wjjqqg6KL6O4KNvFBXUXUCG0nO-daTdkJ2PRoZnOd--y3NrRXLxtTaQHWNOWvJxagMDlegKKLyJvFNZsXiVRPW7-JNmAKExq0Ez7kkXKv3g1LEMgM0GTV1aKuaWLXDTDNJAigHGqdrqiJ2voUtg7cctHxdIF3OzdBOd334BFS1Cg8CSeUquaIv3OH3l~pPYIZZ1bQ6aVa-C4UF7pNqUBXS-uL-eKPA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 - **Built-in Dev Tools  **
 

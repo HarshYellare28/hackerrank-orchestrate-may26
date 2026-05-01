@@ -16,7 +16,7 @@ _Last updated: Feb 7, 2025, 3:16 PM (Last updated 1 year ago)_
 
 ## What is a Certified Assessment? 
 
-HackerRank Certified Assessments are pre-built role-specific tests created after long-term research and analysis of the questions that match the industry standards for the given role and assure a quality outcome from the screening process. 
+HackerRank Certified Assessments are pre-built role-specific code.tests created after long-term research and analysis of the questions that match the industry standards for the given role and assure a quality outcome from the screening process. 
 
 These Certified Assessments follow industry norms and design a universal test for a specific role. Any company that wants to hire for that role can use this single test to assess its candidates. This provides an unbiased interview experience for both the companies and the candidates.
 
@@ -26,7 +26,7 @@ These Certified Assessments follow industry norms and design a universal test fo
 
 - **Unbiased Assessments:** HackerRank uses a third-party content bias checker that helps to provide an unbiased assessment experience.  
 
-- **Leakage Protected Skill Bundles:** You will not be required to keep a tab on your tests to check if a question is leaked. HackerRank automatically detects and removes the leaked questions and replaces them with new questions. The leak detection process runs daily, and questions are flagged immediately once detected during the daily run.
+- **Leakage Protected Skill Bundles:** You will not be required to keep a tab on your code.tests to check if a question is leaked. HackerRank automatically detects and removes the leaked questions and replaces them with new questions. The leak detection process runs daily, and questions are flagged immediately once detected during the daily run.
 
 - **Robust Plagiarism Detection:** HackerRank provides the market's most powerful plagiarism detection software to detect malpractice. 
 
@@ -86,7 +86,7 @@ You can rearrange the order of skill bundles within a test. To reorder the skill
 
 **Note**:
 
-- Automatic question replacements work for all the published tests, even if locked. 
+- Automatic question replacements work for all the published code.tests, even if locked. 
 
 ## Customizing The Skills 
 

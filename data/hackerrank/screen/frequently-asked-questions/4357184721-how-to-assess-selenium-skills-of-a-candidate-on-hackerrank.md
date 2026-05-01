@@ -18,7 +18,7 @@ _Last updated: Dec 13, 2024, 5:47 AM (Last updated 1 year ago)_
 
 HackerRank now enables Selenium skills that can be leveraged to assess QA Engineers and Back-End Developers. Please see here before we proceed to learn how to create and score questions on the HackerRank library. 
 
-Selenium is an open-source Web UI automation testing framework that supports automation across different browsers, platforms, and programming languages and provides a domain-specific language, Selenese, to write tests in C#, Groovy, Java, Perl, PHP, Python, Ruby, and Scala, among others. 
+Selenium is an open-source Web UI automation testing framework that supports automation across different browsers, platforms, and programming languages and provides a domain-specific language, Selenese, to write code.tests in C#, Groovy, Java, Perl, PHP, Python, Ruby, and Scala, among others. 
 
 ## Selenium Projects tasks in the HackerRank Library
 

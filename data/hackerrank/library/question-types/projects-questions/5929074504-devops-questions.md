@@ -1,6 +1,6 @@
 ---
-title: "DevOps Questions Key benefits Creating a DevOps question Candidate experience Scoring a DevOps question in tests"
-title_slug: "devops-questions-key-benefits-creating-a-devops-question-candidate-experience-scoring-a-devops-question-in-tests"
+title: "DevOps Questions Key benefits Creating a DevOps question Candidate experience Scoring a DevOps question in code.tests"
+title_slug: "devops-questions-key-benefits-creating-a-devops-question-candidate-experience-scoring-a-devops-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/5929074504-devops-questions"
 article_slug: "5929074504-devops-questions"
 last_updated_exact: "Mar 26, 2026, 5:23 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Projects Questions"
 ---
 
-# DevOps Questions Key benefits Creating a DevOps question Candidate experience Scoring a DevOps question in tests
+# DevOps Questions Key benefits Creating a DevOps question Candidate experience Scoring a DevOps question in code.tests
 
 _Last updated: Mar 26, 2026, 5:23 PM (Last updated 1 month ago)_
 
@@ -91,7 +91,7 @@ This step configures the environment and scripts required for the question.
 
         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231045731-image.png?Expires=253370764800&Signature=hIcwCVCQwIYWHgwm3p0m3XwttX5ztGzWKX-0DIFoJaSvEgL6NXDkf7qqfb8yAdANbKf4esCcpEq8Y~abBjbWrLDR5EhlnCKPisqu6zWu6WmGmP1cJZvvcEVygZJwdO6agQObrIxMCdpcNuz0yuIw6GIIC0tTb5FidnGjrkQUc3ZG2RLh~KMbsWrIcwU3qKeLwohYH0Mev2rfHPavr-5eIjm4dLySkcMvuQuY1wZM5vOpu8uYL1dhL916GKiKSInggiPuHusJjOve3oyjJM4pR9oB54kqDRxyfd6tHRaFHfHsNL1pqa7tMbr~a5GVMAp6eQoLXxr4CbgXG8skGnC~Xw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-    2.  Configure the **Scoring Script** to evaluate the candidate’s performance after they submit their solution. You can use this script to define custom scoring logic and award partial credit as needed. The **Scoring Script** timeout limit is twenty minutes. For more information, see [Scoring a DevOps Question in tests](https://support.hackerrank.com/articles/5929074504-devops-questions#scoring-a-devops-question-in-tests).
+    2.  Configure the **Scoring Script** to evaluate the candidate’s performance after they submit their solution. You can use this script to define custom scoring logic and award partial credit as needed. The **Scoring Script** timeout limit is twenty minutes. For more information, see [Scoring a DevOps Question in code.tests](https://support.hackerrank.com/articles/5929074504-devops-questions#scoring-a-devops-question-in-tests).
 
         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231010089-image.png?Expires=253370764800&Signature=ZFzZ-xyscBEeCKoPlHHvprWniIVWz1XOUmWbb6gM6Dj6Y-1MugchqcNvCEzxDy94H4cgcpwoNVxgpUdA7rCvqQ-IM9EL~K3xu3lHE8AL0cokyZLFvm0~av38VnfhavYdzhfNijH-KwXSBT4xYgXgk2OmlfZjMaHgqiNa9tXVGbWhizs9MMwnvsOU4Y1o064ot2inQekvn0mNNMwl0iFF7RVkq7g9XvzYkBnqz5gwqZxqBMOkypwtZlxppaXH0mZLETUnM1AxYQfo13rkphgUr7h7e7NHCGRToJzxADZ4kb~LEtmjI795xXypi2dDRtQ4S2WBv7zWNNIufhV0gNegkA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -161,7 +161,7 @@ Candidates can use the terminal to perform the tasks described in the question.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231528456-image.png?Expires=253370764800&Signature=cPgCCdEEuiTiACHm0~pRaL8BCXvUVAIj~~mLuEqOkHuY6CwB3SVwGSJMWiHxkbyFV5f3~ooJ29hWP5pqy8t5LZTY4btwcOto~bMG-ApGPJVPUtON99B7KE14m7sE11Xx~HLVeU~NAK1fp097b5eOi1b~g122socaTLguh9vDkSc50KZn6ySSDl~8WZLUjiu~6Ss77p2il54lH5r9hIecUf2zMQqqW~EZxpzS~i6-bPDcB9IRBpkAhFrbmV6BQb~NRRgqaTbQwYTl37RhnblxGCg4iT2~22GbL0hHCpzuLP-rF4tqBPrry7KJJ0arBYttw-rOY-QEgus0nUIVTlHKMw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a DevOps question in tests
+# Scoring a DevOps question in code.tests
 
 DevOps questions use automatic evaluation. The platform runs a Bash scoring script to validate tasks and assign scores.
 

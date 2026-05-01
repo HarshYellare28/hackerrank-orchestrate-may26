@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Feb 23, 2026, 12:38 PM (Last updated 2 months ago)_
 
-You can create teams in HackerRank to match your company structure. Members of a team can view all tests, interviews, and other resources created within that team.
+You can create teams in HackerRank to match your company structure. Members of a team can view all code.tests, interviews, and other resources created within that team.
 
 # Prerequisite
 

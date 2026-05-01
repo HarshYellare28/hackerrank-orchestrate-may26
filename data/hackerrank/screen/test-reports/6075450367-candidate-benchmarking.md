@@ -18,9 +18,9 @@ Candidate Performance Benchmark helps you understand how candidates perform comp
 
 **Note:**
 
-- Benchmark applies only to tests that include questions with at least 500 attempts during last calendar year.
+- Benchmark applies only to code.tests that include questions with at least 500 attempts during last calendar year.
 
-- Benchmark is not available for tests that used AI assistance in the the last calendar year.
+- Benchmark is not available for code.tests that used AI assistance in the the last calendar year.
 
 Benchmark supports both Library and Custom questions. It is updated periodically (yearly) to maintain stability while incorporating new results.
 

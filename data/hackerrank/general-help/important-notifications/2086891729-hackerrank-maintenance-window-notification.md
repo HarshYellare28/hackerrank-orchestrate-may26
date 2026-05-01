@@ -32,7 +32,7 @@ The HackerRank platform will undergo a scheduled database upgrade during our reg
 
 # Required actions
 
-Ensure that no candidate tests, interview sessions, or other platform activities are scheduled during the maintenance window.
+Ensure that no candidate code.tests, interview sessions, or other platform activities are scheduled during the maintenance window.
 
 If you already have activities scheduled during this time, reschedule them outside the maintenance window to prevent disruption.
 

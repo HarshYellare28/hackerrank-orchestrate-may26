@@ -16,7 +16,7 @@ _Last updated: May 12, 2025, 11:29 AM (Last updated 12 months ago)_
 
 ## Overview
 
-Question quality is important for making HackerRank tests more effective. The Quality Review page helps you to analyze the Coding Question based on the following four parameters:  
+Question quality is important for making HackerRank code.tests more effective. The Quality Review page helps you to analyze the Coding Question based on the following four parameters:  
 
 - The overall number of test cases included
 
@@ -26,7 +26,7 @@ Question quality is important for making HackerRank tests more effective. The Qu
 
 - Whether the question has descriptive tags
 
-It would be best if you aimed to meet all 'high-quality' conditions on your Questions before using them in HackerRank tests and interviews. 
+It would be best if you aimed to meet all 'high-quality' conditions on your Questions before using them in HackerRank code.tests and interviews. 
 
 You can view the question quality under the **Quality Review** tab, which displays [📄 Creating a Coding Question](/articles/6372874906). After you have added the problem statement, test cases, and code stubs to a Question, the last step involves reviewing the question quality and making any recommended changes to improve the question.
 

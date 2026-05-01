@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Dec 13, 2024, 5:05 AM (Last updated 1 year ago)_
 
-HackerRank Insights, powered by Highcharts, provides powerful analytics to evaluate candidate performance across tests. The interactive graphs enable you to explore trends in scores, assess question difficulty, and monitor overall test completion rates.
+HackerRank Insights, powered by Highcharts, provides powerful analytics to evaluate candidate performance across code.tests. The interactive graphs enable you to explore trends in scores, assess question difficulty, and monitor overall test completion rates.
 
 #### Key Features:
 

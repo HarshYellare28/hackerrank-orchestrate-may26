@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Sep 25, 2025, 12:19 PM (Last updated 7 months ago)_
 
-Archiving a test helps you manage your test library by moving unused tests out of the **Active Tests** tab. An archived test is no longer available for inviting candidates or publishing. You can restore an archived test at any time.
+Archiving a test helps you manage your test library by moving unused code.tests out of the **Active Tests** tab. An archived test is no longer available for inviting candidates or publishing. You can restore an archived test at any time.
 
 # Prerequisites
 
@@ -72,13 +72,13 @@ Once restored:
 
   ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779297694-image.png?Expires=253370764800&Signature=chI53M~f2nf--yclx-xOWZP2rgJfr4m2WvW1RyQbuvf9F-Abx1~BUUaralXkfryTFyJ9r681m2FF47TI-lw9O5zzJlnOsSBe0yKEIgy0LxBXk9q0z1V9TbHCTAB57zsNPg~C3Sf71ieUypDgbezlsVgf9dgqOFOi4hl~AZiMeTYlahUOUIM5XEn6-nqmty0IvDNgQzZq~g8Q14c0YHIv6f5VaRpCXv4N-h6iopHHWa4T3i-7lpa-h7aUYSol9OQl7~qUtwdJVrbCvL3DuxAv0zqC2SS4NTQ9DMGAd2wubfRS-RhA9NTsipGB9hkxj3sDOehq5DDsPNr3lmTMDYuHcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-- You can archive or restore multiple tests at once.
+- You can archive or restore multiple code.tests at once.
 
-  - In the **Active Tests** tab, select the checkboxes next to the tests you want to archive, and click **Archive**.
+  - In the **Active Tests** tab, select the checkboxes next to the code.tests you want to archive, and click **Archive**.
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779333339-image.png?Expires=253370764800&Signature=MakYlnuR9~Lpy80n~DMu~WX5WMjBKZ8Oegz286~RjcR~sgHzxR3-lbnQcTWoKP5OYTOQb96Hh5YHl1Lj96evT33P5sgxhmaPMH7aCExpAX90HKHjF9-7KeSlzu4JQuBKtBhof-PdwKV~l9XmcOUjBrQM9T3ALBBZYcfSA0GXiJulMrqeV8v1SKaC4mWw9p~sxiL7QtVo3jBAhZ6RsMvlKyljl2MhUIs9GIIUv5gjkvDZe1C0e59RtDyesALZCuh~IfRvL9BVKsvYCWBUHoYXYz-JKlTgYEGYPoFyOciqnA7COaYmNUCmR2YNWWQ9dVwfTNHl9GFYYFuJDLWK622~Vg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-  - In the **Archived Tests** tab, select the checkboxes next to the tests you want to restore, and click **Restore**.
+  - In the **Archived Tests** tab, select the checkboxes next to the code.tests you want to restore, and click **Restore**.
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779477590-image.png?Expires=253370764800&Signature=FX1ACDi0ojK6GvsjT5G0Eq1apX75buigDcEPu6XwoLu~6TM0AjgpoIHT5g0EldYIyL50YXNROtvewi30E0DuY5kDnxdoJqeiZpxhvxmLvW5sDCXUmRLva2Sujy2jqcczfndNdayD5tBC~sOeskqN13ievswYoRZuylqY-GgSkm9VHDzisMtMdyJWquSXE~2OFaYAMPjdWixjIKBmN5thmbWQoRk5uXhjCUYLLj5GR1FapIghqwLuEwccTHLLO6zYsPPwCbRet04O653vCTPo9EIyGoVdQlG0bTcvDct94yysh-dhYPIqqXn-Jzsf~fH4c~cKOlKMwR9rr778ketIBg__&Key-Pair-Id=K3NV4LZ47N8M46)
 

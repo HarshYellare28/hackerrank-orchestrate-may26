@@ -48,7 +48,7 @@ For more information, see [Using HackerRank IDE](https://candidatesupport.hacker
 
 ### **QA Skills: Cucumber and Cypress **
 
-You can now assess QA and test automation skills in Cucumber for Behavior-driven development(BDD) testing and Cypress for front-end automation. Candidates can write and run tests directly in the platform, with support for scenario-level execution and automatic scoring.
+You can now assess QA and test automation skills in Cucumber for Behavior-driven development(BDD) testing and Cypress for front-end automation. Candidates can write and run code.tests directly in the platform, with support for scenario-level execution and automatic scoring.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe9144134-bb43-4489-8ed6-bb4865169b1f-AD_4nXev_RgwtTVkeaTFfJoUXUrgCMktasRyHEiPSRE9cNrd4xdBfYxNZ7_f0vXP_UcCzaPj3_G-kHH_y9ikoglMLrrpBRJkuk-Dw1VcX_NawcBmP4nMOEA2gnmHCjQwGW_G-YpM9UEuQQ-4cc57721-d91c-4ae1-a7dc-1cb17a52482d?Expires=253370764800&amp;Signature=nLPsPrvZkW0yrFodTJyMJrQpJ~IQ8Z0uDc5Kor6AgbSXewilbv-Qr0I4vQsXcK3QA-nghEnQ0uPQAyq3TnnskIRPX8AsRhz0mmh7sAmxtin-rerQiNGaxS64pr-gwRBpqvaaGu3u1X0q1S5mC78oVLqopajIYpVH4xcolWvTQgQClKYnoPlcH3PJU1651cN7kDZwFzWnQ-S2ncsk~oik1yQGlLl5cwoyJtoz2m4Vsy4xa2OCt4Wq1m6RghX9MsZGtFoxOlvV6CIeYjtubYRcLRboo-9hf5nY55IBo49OmeUuGzJUB0CSrI7jCUdJ4qjf00A64962ST6mgIOZ2Z-qww__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
@@ -88,7 +88,7 @@ The HackerRank Library is regularly updated with new challenges, enabling you to
 
 Clear, well-structured questions help you fairly and accurately evaluate candidates’ skills and potential. The HackerRank library continues to evolve to support better comprehension and more effective skill assessment.
 
-**Project questions:** Project questions now go through weekly sanity checks that simulate the full candidate experience - from logging in and launching the IDE to building the project, running tests, and verifying previews. 
+**Project questions:** Project questions now go through weekly sanity checks that simulate the full candidate experience - from logging in and launching the IDE to building the project, running code.tests, and verifying previews. 
 
 Over 880 full-stack, frontend, backend, and mobile questions have been reviewed and improved, including optimizations that reduce package installation times and minimize timeout issues. These checks ensure reliable performance and quality for a smooth candidate experience.
 
@@ -118,7 +118,7 @@ In response to candidate feedback, the candidate test-taking experience has been
 
 - **Improved test execution**: Candidates can now run a single test case instead of executing all at once, making it easier to debug and iterate and saving valuable time during assessments.
 
-These enhancements aim to reduce friction and improve focus without adding complexity. The updated experience will be rolled out in phases starting April 23, with full availability expected by the end of May. It will be available for all tests that include Coding, MCQ, and Database questions, or any combination of these. Tests with other question types will continue on the existing test-taking platform.
+These enhancements aim to reduce friction and improve focus without adding complexity. The updated experience will be rolled out in phases starting April 23, with full availability expected by the end of May. It will be available for all code.tests that include Coding, MCQ, and Database questions, or any combination of these. Tests with other question types will continue on the existing test-taking platform.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F172c3be3-944d-4992-9eee-2e455299f82f-AD_4nXeGb3-hqkQehcG8_P7a77SE7-eS8mjXRcwc7AX5XJhWqvTZgugwBFXvNnyHg1RFYWFwAMNH0Wr6XmAv1oj2y5yoJeK_xXoWcotuIbibwLAm6JWVtaxd-z-CfHd9GcjIN09L95vaGw-f9aaf695-e442-4527-9183-d97f4c03538a?Expires=253370764800&amp;Signature=nII74buMjk7CgriopCpJKb-cyZjLVWiP~0IHh4Zd2XHMJUSnU0WhRwxUlzq3DoYaxFunrYso-4cnL2xCrU3D7UKELsBmO~mIfxnjRRdn-4UF~W-9Ra-wGgKpS8c4mqs~0ytrBX2ijJZe~cqFIZhl2rtLgjiPISuHXuA7XsV0YIHjNC1LGxuDI3gsLLCypIB~AS-weEFkk7Y2UkI9LtSUTKfAKDzcbh4wN-dVnB6z9blA3cGrD04iN4X7tY-SMBGKqZfFbnQHKQZxFVuZ0phDtWlonVeO2Y4oSOsWQ1RcCsH1bVvijp1mi8KBckgZxua5TT-K13BeU2BKt39SdQH4-g__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" /><img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fd4ad9ff8-62c7-4e45-9af8-65778288b18b-AD_4nXdjoAjnM8jL0U9ya4qsXjv7mDPe47UtjTyZ6s_jmF11745pmTOaN9xBF7Fm1lBKd8wy6hT0sBRLQohcSoUgQyvBRX1ttfvulA-pVKNr7uPg4vCUFtb_FP_nKER05cN9CC_dtbdW-b7a103f2-0d6e-4b18-bd2e-5f0fc2b611c3?Expires=253370764800&amp;Signature=PRD4k49viYEGE4Ow-Ohudfbu~9A7BX23rW4s2OMLCl03qCMkACXfo8QBu8mHj8TAi63N86A1GxBAwcOMema9G77ckSfOGTwXNiPvX6rbxWhlslLe3nTFW-MFBq684tH2vOTRAOJiDi4S6HOPd1g01KhZ~E778GpRuywmALNFCKuUN1zf8d34YG6f6CdHZW-xhklkl36ZlONPpA0ExEydyFes8iIw57ZApAS2rehetKQMTRB87mKh74CPwD2W-zlM98M7SVRwgtiGwRPKgxr1Pa4DGPhkbAcnO0~V1NNx~bLYUQe5VOY0tr47px8LCxb4BUrc2sWgEx9SBKmUsaCsog__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 
@@ -130,7 +130,7 @@ Java Project questions now run on the most popular Red Hat-powered Java LSP, del
 
 ### **Platform Upgrades**
 
-Updated programming languages, and diagnostic tools like LSPs help candidates navigate tests and interviews with greater efficiency. This upgrade includes the following improvements, ensuring your assessment environment reflects the latest industry standards:
+Updated programming languages, and diagnostic tools like LSPs help candidates navigate code.tests and interviews with greater efficiency. This upgrade includes the following improvements, ensuring your assessment environment reflects the latest industry standards:
 
 - **Data Science R (4.4.2):** For data science questions, the R language environment has been updated to version 4.4.2 to support the latest packages and libraries.
 
@@ -273,7 +273,7 @@ Company admins can now further fine-tune access using new entitlements that cont
 
 - **Clone Test:** Allow recruiters to duplicate a base test for consistency across assessments.
 
-- **Delete Test:** Prevent recruiters and other roles from deleting tests.
+- **Delete Test:** Prevent recruiters and other roles from deleting code.tests.
 
 - **Delete Candidate:** Control who can delete candidate data from the system.
 
@@ -381,7 +381,7 @@ You can now build your candidate pipeline in Engage using three sources:
 
 #### Rediscover Past Candidates from HackerRank
 
-The new Cohorts tab lets you rediscover candidates from tests created or attempted in the last 90 days. These cohorts are auto-generated and easy to filter by skills, experience level, and match %. Candidates who have scored \<75% , candidates with suspicious activity and those in a campaign are excluded by default (you will see an ‘In Campaign’ badge against candidate names if they are already part of a campaign).
+The new Cohorts tab lets you rediscover candidates from code.tests created or attempted in the last 90 days. These cohorts are auto-generated and easy to filter by skills, experience level, and match %. Candidates who have scored \<75% , candidates with suspicious activity and those in a campaign are excluded by default (you will see an ‘In Campaign’ badge against candidate names if they are already part of a campaign).
 
 Once you’ve selected candidates, click ‘Create Campaign’ and select a relevant campaign to re-engage them. Once the campaign is created, all your past candidates will appear in the Candidates tab with the source marked as ‘HackerRank Test’.
 

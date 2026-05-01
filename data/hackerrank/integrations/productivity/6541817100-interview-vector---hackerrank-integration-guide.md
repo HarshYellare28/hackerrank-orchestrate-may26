@@ -18,7 +18,7 @@ _Last updated: Dec 24, 2024, 6:37 AM (Last updated 1 year ago)_
 
 HackerRank integrates with Interview Vector to facilitate a seamless screening experience for users.
 
-You can include HackerRank tests as part of your assessment process through Interview Vector. Users can send HackerRank Test invites and review test scores and reports within Interview Vector. Test result report shows up inside the candidate's Interview Vector profile.
+You can include HackerRank code.tests as part of your assessment process through Interview Vector. Users can send HackerRank Test invites and review test scores and reports within Interview Vector. Test result report shows up inside the candidate's Interview Vector profile.
 
 ## Tests Features
 

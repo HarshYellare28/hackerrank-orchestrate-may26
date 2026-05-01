@@ -1,6 +1,6 @@
 ---
-title: "Manage Leaked Questions Detecting leaked questions Reporting leaked questions Viewing leaked questions in library Viewing tests with leaked questions Handling leaked questions Leak mitigation and takedown actions"
-title_slug: "manage-leaked-questions-detecting-leaked-questions-reporting-leaked-questions-viewing-leaked-questions-in-library-viewing-tests-with-leaked-questions-handling-leaked-questions-leak-mitigation-and-takedown-actions"
+title: "Manage Leaked Questions Detecting leaked questions Reporting leaked questions Viewing leaked questions in library Viewing code.tests with leaked questions Handling leaked questions Leak mitigation and takedown actions"
+title_slug: "manage-leaked-questions-detecting-leaked-questions-reporting-leaked-questions-viewing-leaked-questions-in-library-viewing-code.tests-with-leaked-questions-handling-leaked-questions-leak-mitigation-and-takedown-actions"
 source_url: "https://support.hackerrank.com/articles/8820947031-managing-leaked-questions"
 article_slug: "8820947031-managing-leaked-questions"
 last_updated_exact: "Apr 22, 2026, 11:39 AM"
@@ -10,7 +10,7 @@ breadcrumbs:
   - "Managing Tests"
 ---
 
-# Manage Leaked Questions Detecting leaked questions Reporting leaked questions Viewing leaked questions in library Viewing tests with leaked questions Handling leaked questions Leak mitigation and takedown actions
+# Manage Leaked Questions Detecting leaked questions Reporting leaked questions Viewing leaked questions in library Viewing code.tests with leaked questions Handling leaked questions Leak mitigation and takedown actions
 
 _Last updated: Apr 22, 2026, 11:39 AM (Last updated 4 days ago)_
 
@@ -18,7 +18,7 @@ A question is considered leaked if it appears in publicly accessible search resu
 
 # Detecting leaked questions
 
-HackerRank uses a leak detection algorithm that automatically searches at regular intervals to identify leaked questions from the leak-protected skill sets in your tests. 
+HackerRank uses a leak detection algorithm that automatically searches at regular intervals to identify leaked questions from the leak-protected skill sets in your code.tests. 
 
 ## How leak detection works
 
@@ -92,11 +92,11 @@ To view leaked questions:
 
     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762409623753-image.png?Expires=253370764800&Signature=JiGdxD0ajc~a6yBamxML4lIxaM7GEpViifR2A85apNKfF-x~b5Tk~o3X3-emhwkLQMz4tzV3cnbFITSBnL~pR2tuyFhtvM6VpDFyD9-9gVriAn9MoBKo7m~jA6Z-olFVkP5dkHVtkEoDFvldvuWimUl1G4riQdw4TRLekcjpdoOTyy~xDpz3XxCoBKpQNbd6MHsEyQCOle5ntqlW~00oqZkpL9o-YAsfESfer6X27WrBi9pjxaKUI-8f0EAnC5kFmUtaI-CoU9H5jAQKFvLBNflQgrCHdWCNYh857bTStbofsEsRN8iudK-IdCgl2mHlqksELlZlT1ydu7MEshnEoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing tests with leaked questions
+# Viewing code.tests with leaked questions
 
-You can identify tests that contain one or more leaked questions directly from the test listing page, including tests in the draft stage.
+You can identify code.tests that contain one or more leaked questions directly from the test listing page, including code.tests in the draft stage.
 
-To view tests with leaked questions:
+To view code.tests with leaked questions:
 
 1.  Log in to your **HackerRank for Work** account using your credentials.
 
@@ -104,7 +104,7 @@ To view tests with leaked questions:
 
 3.  In the **Active Tests** tab, select the **Leaked Tests** checkbox under the **Filters** panel. An indicator appears next to each test that contains leaked questions.
 
-    ![leaked tests filters.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769345240249-leakedtestsfilters.gif?Expires=253370764800&Signature=slaa~cxWP~LESUYFTAxeyN07aGn7ISah6kXNpE8rHoSc4toQc1diRRnUkQkh1HgHtoMQhd3sLEyi~50f5kXItXqK8wEI1-kVxXUrraGQNGqChYQCkEUodBHD6WVSRgf20tKQ0lr2W19MGbsc1LfwKIDug8CrV8CJsZ7YJ5vdgVqqrO7u1Ujn9HGjjMFtN3C45XjNm6MqbYsPpXmmONxA9PJ~YJo0UFD0~SIzFrtTCynV~B45mSctlBsrN4zNJhePwC8Pyup5NU1ICgVY9DDHq444K-mYsRzw85eIpMwHsHZQntFuVwGHaGan1Vez-1yEVRJ-5v84sGiEojxfNmKa3g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![leaked code.tests filters.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769345240249-leakedtestsfilters.gif?Expires=253370764800&Signature=slaa~cxWP~LESUYFTAxeyN07aGn7ISah6kXNpE8rHoSc4toQc1diRRnUkQkh1HgHtoMQhd3sLEyi~50f5kXItXqK8wEI1-kVxXUrraGQNGqChYQCkEUodBHD6WVSRgf20tKQ0lr2W19MGbsc1LfwKIDug8CrV8CJsZ7YJ5vdgVqqrO7u1Ujn9HGjjMFtN3C45XjNm6MqbYsPpXmmONxA9PJ~YJo0UFD0~SIzFrtTCynV~B45mSctlBsrN4zNJhePwC8Pyup5NU1ICgVY9DDHq444K-mYsRzw85eIpMwHsHZQntFuVwGHaGan1Vez-1yEVRJ-5v84sGiEojxfNmKa3g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 4.  Hover over the indicator to view the number of leaked questions in the test.
 
@@ -116,13 +116,13 @@ To view tests with leaked questions:
 
 Take the following actions to maintain test integrity and minimize exposure:
 
-- **Avoid using leaked questions in new tests**: Enable the **Hide Leaked Questions** toggle when selecting questions during test creation.
+- **Avoid using leaked questions in new code.tests**: Enable the **Hide Leaked Questions** toggle when selecting questions during test creation.
 
 - **Replace leaked questions**: Use the **Replace Question** option to replace any leaked question with a similar non-leaked one. For more information, see [📄 Replace Leaked Question](/articles/2349070108).
 
-- **Monitor ongoing tests**: If a leaked question is included in an active test, use the [plagiarism detection](https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection) functionality to monitor submissions. Replace the question if required.
+- **Monitor ongoing code.tests**: If a leaked question is included in an active test, use the [plagiarism detection](https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection) functionality to monitor submissions. Replace the question if required.
 
-- **Adjust scoring for completed tests**: For completed tests, disregard the leaked question during evaluation to ensure fairness.
+- **Adjust scoring for completed code.tests**: For completed code.tests, disregard the leaked question during evaluation to ensure fairness.
 
 # Leak mitigation and takedown actions
 
@@ -132,7 +132,7 @@ To maintain content integrity, HackerRank takes the following measures:
 
 - **Library updates**: HackerRank runs leakage detection daily and updates the question library regularly with new question types and skills. For more information, see [📄 HackerRank Question Count Comparison by Subscription Plan](/articles/6095274436).
 
-- **Automatic replacement of leaked questions in tests:** If a test contains leaked questions, HackerRank automatically replaces them with similar questions for leakage-protected sections.
+- **Automatic replacement of leaked questions in code.tests:** If a test contains leaked questions, HackerRank automatically replaces them with similar questions for leakage-protected sections.
 
   ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769347446122-image.png?Expires=253370764800&Signature=CFLvzMvNdOVaCYTkMW74Jj-OPYxrMGH5gB3SxzpYfhBxfzrxTtFSmG7~VNiuDKUHjeljpupFKZOpa36c-tIBZibqPcNh8~ZGtV9QAdHkOywmyONc-FixJj7toctAeC50rUE4Wn~FRm0z9W4P775S0HHtbgOgOJpBe5hv6HBqv4W1kMP3IQaM0qR9EgqOpaLYsdjJa8jBcxvLsUad3V2tEmKP9ArF7~GgpniyM4WGMMmcfkc9AhQEMJhBsHtdrwgKbcfMYr5rGHytB4~j5qo-6mJMtIJLHROItbsXIHY2ukDlytc4e21h9Q0sEBSmdznMEoBVwQTHhc7FcBvfTp9pSA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

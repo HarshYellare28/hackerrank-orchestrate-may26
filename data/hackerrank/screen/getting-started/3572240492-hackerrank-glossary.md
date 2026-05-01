@@ -30,7 +30,7 @@ Here is a glossary of all the terms and definitions you need to know while using
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Recruiter </p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>A license type assigned to users who can create and edit tests, questions, and reports and send invites to candidates. Users with recruiter licenses who are a part of the enterprise plan can also use HackerRank Interview to create and conduct interviews.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>A license type assigned to users who can create and edit code.tests, questions, and reports and send invites to candidates. Users with recruiter licenses who are a part of the enterprise plan can also use HackerRank Interview to create and conduct interviews.<br />
 <br />
 Click [here](https://support.hackerrank.com/articles/9603546665-types-of-user-roles#recruiter-14) to learn more.</p></td>
 </tr>
@@ -55,7 +55,7 @@ Click [](https://support.hackerrank.com/articles/9611303302-introduction-to-team
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Company Admin </p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>This type of user has complete access to manage all the teams within the company, including all tests, questions, and interviews, and modifying company-level settings. A company admin usually has a recruiter or developer license.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>This type of user has complete access to manage all the teams within the company, including all code.tests, questions, and interviews, and modifying company-level settings. A company admin usually has a recruiter or developer license.<br />
 <br />
 Click [here](https://support.hackerrank.com/articles/9603546665-types-of-user-roles#company-admin-2) to learn more.</p></td>
 </tr>
@@ -111,7 +111,7 @@ Click [here](https://support.hackerrank.com/articles/8415416322-archiving-a-test
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 67px"><p>Starred Tests </p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 67px"><p>General </p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 67px"><p>You can use this feature to make a particular test appear at the top of your tests tab. This will help you find important tests quickly. </p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 67px"><p>You can use this feature to make a particular test appear at the top of your code.tests tab. This will help you find important code.tests quickly. </p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 112px"><p>Test Sections</p></td>
@@ -130,7 +130,7 @@ Click [here](https://support.hackerrank.com/hc/en-us/articles/115006380468-Locki
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 156px"><p>Try Test</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 156px"><p>General</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 156px"><p>A feature within the test that allows the Recruiters to perform a trial run of their tests before inviting candidates. During the trial, you can validate each test question by submitting the answer and viewing the results.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 156px"><p>A feature within the test that allows the Recruiters to perform a trial run of their code.tests before inviting candidates. During the trial, you can validate each test question by submitting the answer and viewing the results.<br />
 <br />
 Click [here](https://support.hackerrank.com/articles/1202456939-how-to-try-a-question-or-a-test) [](https://support.hackerrank.com/hc/en-us/articles/360011928914-How-to-try-a-Question-or-a-Test-) to learn more.</p></td>
 </tr>
@@ -160,7 +160,7 @@ Click [here](https://support.hackerrank.com/articles/2464685918-draft-mode-of-a-
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 89px"><p>Cutoff Score</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 89px"><p>Test Settings</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 89px"><p>A score is set to tests that are used to filter out unqualified candidates from the test. All candidates with scores greater than the cutoff score will automatically be marked qualified.</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 89px"><p>A score is set to code.tests that are used to filter out unqualified candidates from the test. All candidates with scores greater than the cutoff score will automatically be marked qualified.</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 67px"><p>Test Instructions</p></td>
@@ -177,7 +177,7 @@ Click [here](https://support.hackerrank.com/hc/en-us/articles/115006328228-Modif
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 179px"><p>Private URL</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 179px"><p>Test Settings</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 179px"><p>Tests that are password protected can be accessed by individuals who have the correct password to the test.<br />
-Creating these tests is useful when you want to control who can access the test.<br />
+Creating these code.tests is useful when you want to control who can access the test.<br />
 <br />
 Click [here](https://support.hackerrank.com/hc/en-us/articles/115006328228-Modifying-Test-Access-Settings#private-test-url) to learn more.<br />
 <br />
@@ -274,7 +274,7 @@ Click [here](https://support.hackerrank.com/hc/en-us/articles/360012069794-Test-
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 201px"><p>Median Time to Full Score</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 201px"><p>Test Insights</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 201px"><p>Indicates the median value from different test completion times. It considers only those tests in which candidates have achieved a full score. This median value serves as a benchmark correlation to separate test takers who achieved a full score in the shortest possible time.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 201px"><p>Indicates the median value from different test completion times. It considers only those code.tests in which candidates have achieved a full score. This median value serves as a benchmark correlation to separate test takers who achieved a full score in the shortest possible time.<br />
 <br />
 Click [here](https://support.hackerrank.com/hc/en-us/articles/360012069794-Test-Insights) to learn more.</p></td>
 </tr>
@@ -330,7 +330,7 @@ Click [here](https://support.hackerrank.com/hc/en-us/articles/360012069794-Test-
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 179px"><p>Assessment Quality</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 179px"><p>Test Health</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 179px"><p>You can find out how well your tests are helping in evaluating the candidates' strengths and weaknesses with the help of Assessment Quality. It is based on various inputs, from the design of the tests to candidates' experience in taking them.</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 179px"><p>You can find out how well your code.tests are helping in evaluating the candidates' strengths and weaknesses with the help of Assessment Quality. It is based on various inputs, from the design of the code.tests to candidates' experience in taking them.</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 89px"><p>Attempt Duration Distribution</p></td>
@@ -363,7 +363,7 @@ Click [here](https://support.hackerrank.com/hc/en-us/articles/360012069794-Test-
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 29.1429%; height: 179px"><p>Score Distribution</p></td>
 <td data-colspan="1" data-rowspan="1" style="width: 27.2857%; height: 179px"><p>Test Health</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 179px"><p>A bell curve of the U-shaped curve metric is based on the distribution of scores candidates receive on tests. Tests with a wide score spread that are not too easy or too hard are more likely to lead to a positive hiring outcome.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 43.4286%; height: 179px"><p>A bell curve of the U-shaped curve metric is based on the distribution of scores candidates receive on code.tests. Tests with a wide score spread that are not too easy or too hard are more likely to lead to a positive hiring outcome.<br />
 <br />
 Click [here](https://support.hackerrank.com/hc/en-us/articles/360012069794-Test-Insights) to learn more.</p></td>
 </tr>
@@ -461,11 +461,11 @@ Click [here](https://support.hackerrank.com/articles/1242592015-ending-an-interv
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>Candidate</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>Individuals who attempt or are invited to attempt tests or interviews on the HackerRank platform</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>Individuals who attempt or are invited to attempt code.tests or interviews on the HackerRank platform</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>Candidate Packet</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>One-stop solution for a candidate’s skills summary inside HackerRank. It hosts a collection of reports and scorecards of all the tests and interviews that a candidate has taken part in for a particular role.</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>One-stop solution for a candidate’s skills summary inside HackerRank. It hosts a collection of reports and scorecards of all the code.tests and interviews that a candidate has taken part in for a particular role.</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%; height: 22px"><p>Contest History</p></td>
@@ -487,7 +487,7 @@ Click [here](https://support.hackerrank.com/articles/3872148153-skills-on-hacker
 <td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Timeline<br />
 <br />
 </p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>List of events, including tests and interviews on HackerRank in which a candidate has participated historically, arranged chronologically, according to their occurrence. The timeline is a part of the Candidate Packet.</p></td>
+<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>List of events, including code.tests and interviews on HackerRank in which a candidate has participated historically, arranged chronologically, according to their occurrence. The timeline is a part of the Candidate Packet.</p></td>
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Verified Skills</p></td>
@@ -634,7 +634,7 @@ Click [here](https://support.hackerrank.com/articles/3255724462-question-insight
 </tr>
 <tr>
 <td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Test Usage Dashboard</p></td>
-<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Embedded Looker dashboards give you deeper insights into the various activities related to Tests performed from your HackerRank account. It helps you analyze which of your company's recruitment teams are being efficient and effective with conducting tests and the candidates’ responses to them. The Test Usage Dashboard is present inside the Insights tab of your HackerRank account, and only company admin users can access this dashboard.<br />
+<td data-colspan="1" data-rowspan="1" style="width: 50%"><p>Embedded Looker dashboards give you deeper insights into the various activities related to Tests performed from your HackerRank account. It helps you analyze which of your company's recruitment teams are being efficient and effective with conducting code.tests and the candidates’ responses to them. The Test Usage Dashboard is present inside the Insights tab of your HackerRank account, and only company admin users can access this dashboard.<br />
 <br />
 Click [here](https://support.hackerrank.com/articles/4945003466-account-insights#test-usage-dashboard-8) to learn more.</p></td>
 </tr>

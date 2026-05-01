@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Mar 30, 2026, 12:28 PM (Last updated 4 weeks ago)_
 
-The HackerRank Library provides ready-to-use questions for tests and interviews. It includes:
+The HackerRank Library provides ready-to-use questions for code.tests and interviews. It includes:
 
 - Questions curated and maintained by HackerRank.
 

@@ -1,8 +1,8 @@
 ---
-title: "Export Tests Data Prerequisites Exporting tests data"
-title_slug: "export-tests-data-prerequisites-exporting-tests-data"
-source_url: "https://support.hackerrank.com/articles/7081156839-exporting-tests-data"
-article_slug: "7081156839-exporting-tests-data"
+title: "Export Tests Data Prerequisites Exporting code.tests data"
+title_slug: "export-code.tests-data-prerequisites-exporting-code.tests-data"
+source_url: "https://support.hackerrank.com/articles/7081156839-exporting-code.tests-data"
+article_slug: "7081156839-exporting-code.tests-data"
 last_updated_exact: "Sep 3, 2025, 11:42 AM"
 last_updated_relative: "Last updated 8 months ago"
 breadcrumbs:
@@ -10,7 +10,7 @@ breadcrumbs:
   - "Managing Tests"
 ---
 
-# Export Tests Data Prerequisites Exporting tests data
+# Export Tests Data Prerequisites Exporting code.tests data
 
 _Last updated: Sep 3, 2025, 11:42 AM (Last updated 8 months ago)_
 
@@ -20,9 +20,9 @@ You can export test-level data as a CSV file that includes test details, test se
 
 You must have existing test(s) in your HackerRank account.
 
-# Exporting tests data
+# Exporting code.tests data
 
-To export tests data: 
+To export code.tests data: 
 
 1.  Log in to your **HackerRank for Work** account using your credentials.
 

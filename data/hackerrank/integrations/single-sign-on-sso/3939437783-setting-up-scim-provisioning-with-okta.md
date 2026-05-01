@@ -190,7 +190,7 @@ Provision a single user.
 
           1.  Recruiter
 
-              1.  Create tests, questions, and interviews.
+              1.  Create code.tests, questions, and interviews.
 
               2.  Access candidates.
 
@@ -198,7 +198,7 @@ Provision a single user.
 
           2.  Developer
 
-              1.  Create tests, questions, and interviews.
+              1.  Create code.tests, questions, and interviews.
 
               2.  Access candidates.
 
@@ -230,7 +230,7 @@ Provision a group of users.
 
       1.  Recruiter
 
-          1.  Create tests, questions, and interviews.
+          1.  Create code.tests, questions, and interviews.
 
           2.  Access candidates.
 
@@ -238,7 +238,7 @@ Provision a group of users.
 
       2.  Developer
 
-          1.  Create tests, questions, and interviews.
+          1.  Create code.tests, questions, and interviews.
 
           2.  Access candidates.
 
@@ -324,7 +324,7 @@ If you already have an existing instance of HackerRank, follow these steps to mi
 
 ### Push Groups
 
-To have access to tests and candidate reports, it is a best practice for users to be part of at least one team.
+To have access to code.tests and candidate reports, it is a best practice for users to be part of at least one team.
 
 Follow these steps to assign your users to a team within HackerRank for Work.
 
@@ -354,7 +354,7 @@ Follow these steps to assign your users to a team within HackerRank for Work.
 
 - All users are in one group.
 
-- If you want HackerRank users to be in one team and have equal access to all tests and candidates, push a single group that all users belong to. For example, *Everyone* or *HackerRank Users*.
+- If you want HackerRank users to be in one team and have equal access to all code.tests and candidates, push a single group that all users belong to. For example, *Everyone* or *HackerRank Users*.
 
 - The group will be pushed and only those users assigned through the **Assignments** tab will be added to the team *Everyone*.
 
@@ -376,7 +376,7 @@ There are various attributes that you need to configure when assigning or updati
 
   - Recruiter
 
-    - Create tests, questions, and interviews.
+    - Create code.tests, questions, and interviews.
 
     - Access candidates.
 
@@ -384,7 +384,7 @@ There are various attributes that you need to configure when assigning or updati
 
   - Developer
 
-    - Create tests, questions, and interviews.
+    - Create code.tests, questions, and interviews.
 
     - Access candidates.
 

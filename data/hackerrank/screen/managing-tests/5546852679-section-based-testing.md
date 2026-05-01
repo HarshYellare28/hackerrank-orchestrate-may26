@@ -1,6 +1,6 @@
 ---
 title: "Manage Sections in Tests Prerequisite Add a section to a test Add a code repository section to a test"
-title_slug: "manage-sections-in-tests-prerequisite-add-a-section-to-a-test-add-a-code-repository-section-to-a-test"
+title_slug: "manage-sections-in-code.tests-prerequisite-add-a-section-to-a-test-add-a-code-repository-section-to-a-test"
 source_url: "https://support.hackerrank.com/articles/5546852679-section-based-testing"
 article_slug: "5546852679-section-based-testing"
 last_updated_exact: "Oct 15, 2025, 4:07 PM"

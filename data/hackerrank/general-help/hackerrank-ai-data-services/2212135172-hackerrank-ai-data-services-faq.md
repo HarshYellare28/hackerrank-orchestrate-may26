@@ -62,9 +62,9 @@ Some non-personal data from the **Community** platform may be used to train AI m
 
 - Privacy protections are fully enforced in accordance with our policies.
 
-**Are my company's tests used for AI model testing?**
+**Are my company's code.tests used for AI model testing?**
 
-No. HackerRank creates entirely new tests and evaluation content specifically for model testing. Your company’s hiring tests, coding questions, and assessments are never used for testing or training models.
+No. HackerRank creates entirely new code.tests and evaluation content specifically for model testing. Your company’s hiring code.tests, coding questions, and assessments are never used for testing or training models.
 
 **Will AI models be trained on HackerRank’s hiring content?**
 

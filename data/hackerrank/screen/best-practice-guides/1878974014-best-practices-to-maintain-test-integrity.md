@@ -116,7 +116,7 @@ Shorten the login window to enter a test and keep the duration of login close to
 
 Over the past year, AI tools like ChatGPT have evolved rapidly with frequent upgrades and enhanced problem-solving capabilities. These tools are increasingly used by software engineering professionals, making AI-assisted code plagiarism a leading cause of plagiarism in coding assessments.
 
-Since the launch of our latest model, we have detected more instances of code plagiarism, as candidates are using AI tools more frequently in tests. The new model is well-equipped to capture these latest forms of code plagiarism using several [indicators](https://support.hackerrank.com/hc/en-us/articles/16146609166483-AI-Plagiarism-Detection#viewing-flagged-plagiarism-attempts), including references to AI tools.
+Since the launch of our latest model, we have detected more instances of code plagiarism, as candidates are using AI tools more frequently in code.tests. The new model is well-equipped to capture these latest forms of code plagiarism using several [indicators](https://support.hackerrank.com/hc/en-us/articles/16146609166483-AI-Plagiarism-Detection#viewing-flagged-plagiarism-attempts), including references to AI tools.
 
 **Note:** The [Standard Plagiarism Model - MOSS,](https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity) is available by default in your account if your organization cannot enable the AI plagiarism feature for hiring. Since this model has certain [limitations](https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity#plagiarism-indicators-in-reports), we recommend manually reviewing code playback for any flagged attempts.
 
@@ -124,7 +124,7 @@ Since the launch of our latest model, we have detected more instances of code pl
 
 - Communicate a zero-tolerance policy for plagiarism in the **test instructions**, stating that any copying will lead to disqualification.
 
-- Regularly review and update **tests** to ensure their integrity.
+- Regularly review and update **code.tests** to ensure their integrity.
 
 - If concerns about a candidate's test integrity remain, request an explanation of their approach in a [live interview](https://support.hackerrank.com/hc/en-us/articles/115007439768-Key-Interview-Features). During the interview, ask them to modify their submitted code to demonstrate their understanding.
 

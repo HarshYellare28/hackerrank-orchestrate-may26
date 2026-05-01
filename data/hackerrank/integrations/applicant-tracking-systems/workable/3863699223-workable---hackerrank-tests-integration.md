@@ -1,8 +1,8 @@
 ---
 title: "Workable - HackerRank Tests Integration"
-title_slug: "workable-hackerrank-tests-integration"
-source_url: "https://support.hackerrank.com/articles/3863699223-workable---hackerrank-tests-integration"
-article_slug: "3863699223-workable---hackerrank-tests-integration"
+title_slug: "workable-hackerrank-code.tests-integration"
+source_url: "https://support.hackerrank.com/articles/3863699223-workable---hackerrank-code.tests-integration"
+article_slug: "3863699223-workable---hackerrank-code.tests-integration"
 last_updated_exact: "Dec 28, 2024, 4:23 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:
@@ -269,9 +269,9 @@ Check [HackerRank - Workable Recruit documentation](https://help.workable.com/hc
 
 ### Assign Tests and Invite Candidates
 
-1.  Ensure the HackerRank tests are accessible and workable when sending test invites to candidates.
+1.  Ensure the HackerRank code.tests are accessible and workable when sending test invites to candidates.
 
-2.  Add any HackerRank Assessments to the relevant recruitment stages and send tests from a candidate profile.
+2.  Add any HackerRank Assessments to the relevant recruitment stages and send code.tests from a candidate profile.
 
 3.  After the candidate completes the assessment, the results appear on their Timeline.
 

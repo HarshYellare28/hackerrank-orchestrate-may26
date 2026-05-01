@@ -17,7 +17,7 @@ _Last updated: Dec 27, 2024, 6:08 AM (Last updated 1 year ago)_
 
 ## Overview
 
-HackerRank integrates with Prismforce for screening Tests. The integration between HackerRank and Prismforce allows hiring teams to access HackerRank test scores for candidate profiles from previously completed tests.
+HackerRank integrates with Prismforce for screening Tests. The integration between HackerRank and Prismforce allows hiring teams to access HackerRank test scores for candidate profiles from previously completed code.tests.
 
 ## Reaching Out for the Integration Help
 

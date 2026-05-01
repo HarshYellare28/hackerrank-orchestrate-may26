@@ -1,8 +1,8 @@
 ---
 title: "Zoho Recruit - Sending HackerRank Tests and Interviews"
-title_slug: "zoho-recruit-sending-hackerrank-tests-and-interviews"
-source_url: "https://support.hackerrank.com/articles/3696308525-zoho-recruit---sending-hackerrank-tests-and-interviews"
-article_slug: "3696308525-zoho-recruit---sending-hackerrank-tests-and-interviews"
+title_slug: "zoho-recruit-sending-hackerrank-code.tests-and-interviews"
+source_url: "https://support.hackerrank.com/articles/3696308525-zoho-recruit---sending-hackerrank-code.tests-and-interviews"
+article_slug: "3696308525-zoho-recruit---sending-hackerrank-code.tests-and-interviews"
 last_updated_exact: "Dec 28, 2024, 4:51 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:

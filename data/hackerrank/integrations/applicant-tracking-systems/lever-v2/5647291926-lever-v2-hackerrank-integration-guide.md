@@ -1,6 +1,6 @@
 ---
-title: "Lever V2 - HackerRank Integration Guide Prerequisites Integrating Lever V2 for HackerRank tests Integrating Lever V2 for HackerRank interviews"
-title_slug: "lever-v2-hackerrank-integration-guide-prerequisites-integrating-lever-v2-for-hackerrank-tests-integrating-lever-v2-for-hackerrank-interviews"
+title: "Lever V2 - HackerRank Integration Guide Prerequisites Integrating Lever V2 for HackerRank code.tests Integrating Lever V2 for HackerRank interviews"
+title_slug: "lever-v2-hackerrank-integration-guide-prerequisites-integrating-lever-v2-for-hackerrank-code.tests-integrating-lever-v2-for-hackerrank-interviews"
 source_url: "https://support.hackerrank.com/articles/5647291926-lever-v2-hackerrank-integration-guide"
 article_slug: "5647291926-lever-v2-hackerrank-integration-guide"
 last_updated_exact: "Mar 12, 2026, 3:22 PM"
@@ -11,11 +11,11 @@ breadcrumbs:
   - "Lever V2"
 ---
 
-# Lever V2 - HackerRank Integration Guide Prerequisites Integrating Lever V2 for HackerRank tests Integrating Lever V2 for HackerRank interviews
+# Lever V2 - HackerRank Integration Guide Prerequisites Integrating Lever V2 for HackerRank code.tests Integrating Lever V2 for HackerRank interviews
 
 _Last updated: Mar 12, 2026, 3:22 PM (Last updated 1 month ago)_
 
-HackerRank integrates with Lever V2 to allow you to manage tests and interviews directly within your existing recruitment workflow.
+HackerRank integrates with Lever V2 to allow you to manage code.tests and interviews directly within your existing recruitment workflow.
 
 With this integration, you can:
 
@@ -23,7 +23,7 @@ With this integration, you can:
 
 - Sync statuses, feedback, and scorecards automatically between Lever and HackerRank.
 
-- Cancel or update tests and interviews in Lever and see those changes instantly reflected in HackerRank.
+- Cancel or update code.tests and interviews in Lever and see those changes instantly reflected in HackerRank.
 
 **Note:** This version replaces the [📄 Lever HackerRank Integration](/articles/1538275190)and removes the need for manual webhook configurations or redirect-based setup.
 
@@ -39,9 +39,9 @@ Before you begin, ensure you meet the following requirements:
 
 - Your organization has an active Enterprise plan with HackerRank.
 
-# Integrating Lever V2 for HackerRank tests
+# Integrating Lever V2 for HackerRank code.tests
 
-To integrate Lever V2 with HackerRank for tests:
+To integrate Lever V2 with HackerRank for code.tests:
 
 ## Step 1: Generate an API token in HackerRank
 
@@ -81,7 +81,7 @@ This step authorizes Lever to connect with your HackerRank account.
 
 6.  Click **Verify Connection**. Lever displays the status as **Verified** after the connection succeeds.
 
-Your Lever account is now integrated with HackerRank to schedule tests.
+Your Lever account is now integrated with HackerRank to schedule code.tests.
 
 # Integrating Lever V2 for HackerRank interviews
 

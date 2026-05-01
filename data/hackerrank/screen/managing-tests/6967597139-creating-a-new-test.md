@@ -97,7 +97,7 @@ To create a test based on a specific role:
 
 ## Creating a custom test
 
-Custom tests let you design assessments that meet specific hiring needs. You can create a test from scratch to evaluate candidates for particular roles, skill levels, or experience. Use this option when you need a highly tailored assessment.
+Custom code.tests let you design assessments that meet specific hiring needs. You can create a test from scratch to evaluate candidates for particular roles, skill levels, or experience. Use this option when you need a highly tailored assessment.
 
 For example, if you want to hire a Quality Assurance Engineer with five years of experience and expertise in creating optimal test automation scripts, you can create a custom test with questions that assess the required skills and experience.
 

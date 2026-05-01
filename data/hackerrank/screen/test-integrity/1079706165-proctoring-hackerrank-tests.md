@@ -1,8 +1,8 @@
 ---
 title: "HackerRank Test Integrity Test Integrity Modes Additional integrity features Built-in integrity features"
 title_slug: "hackerrank-test-integrity-test-integrity-modes-additional-integrity-features-built-in-integrity-features"
-source_url: "https://support.hackerrank.com/articles/1079706165-proctoring-hackerrank-tests"
-article_slug: "1079706165-proctoring-hackerrank-tests"
+source_url: "https://support.hackerrank.com/articles/1079706165-proctoring-hackerrank-code.tests"
+article_slug: "1079706165-proctoring-hackerrank-code.tests"
 last_updated_exact: "Nov 5, 2025, 5:44 PM"
 last_updated_relative: "Last updated 6 months ago"
 breadcrumbs:
@@ -24,7 +24,7 @@ You can select from the following integrity modes based on your assessment requi
 
 ## Secure Mode
 
-Secure Mode runs tests in a controlled browser environment. It enforces full-screen mode, blocks copy and paste actions, prevents the use of multiple monitors, and alerts when candidates switch tabs.\
+Secure Mode runs code.tests in a controlled browser environment. It enforces full-screen mode, blocks copy and paste actions, prevents the use of multiple monitors, and alerts when candidates switch tabs.\
 For more information, see [📄 Secure Mode](/articles/2545360734).
 
 ## Proctor Mode (AI Add-on)

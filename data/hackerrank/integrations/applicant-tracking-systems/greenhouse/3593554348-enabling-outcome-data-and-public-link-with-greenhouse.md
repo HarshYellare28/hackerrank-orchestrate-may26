@@ -132,7 +132,7 @@ If you are a Greenhouse customer, you can unlock the offered stage by providing 
 
 - Refer to the[📄 Modifying Test Access Settings](/articles/8915306379)article to create a public test URL in case your test does not have one.
 
-Note: If you do not see any errors after enabling “Sync Outcome Data”, you will see the outcome data in the Test Health Dashboards for all your tests within 24-48 hours. Data refreshes once a day.
+Note: If you do not see any errors after enabling “Sync Outcome Data”, you will see the outcome data in the Test Health Dashboards for all your code.tests within 24-48 hours. Data refreshes once a day.
 
 ## Frequently Asked Questions
 
@@ -152,7 +152,7 @@ Note: If you do not see any errors after enabling “Sync Outcome Data”, you w
 
 4.  **How can I enable Public Link for a test?**\
     This document ensures that you enable the connection for successfully pushing candidate information inside Greenhouse.\
-    You can enable Public Link for specific tests from “Test Settings” by following this document:[📄 Modifying Test Access Settings](/articles/8915306379)
+    You can enable Public Link for specific code.tests from “Test Settings” by following this document:[📄 Modifying Test Access Settings](/articles/8915306379)
     \
 
 \

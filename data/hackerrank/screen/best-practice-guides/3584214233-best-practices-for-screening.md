@@ -17,13 +17,13 @@ _Last updated: Dec 13, 2024, 5:03 AM (Last updated 1 year ago)_
 ## Test Creation
 
 1.  **Certified Assessments\**
-    Use HackerRank’s [Certified Assessments](https://support.hackerrank.com/hc/en-us/articles/10294879213331-HackerRank-Certified-Assessments) for standardized tests tailored to different campuses or candidate batches. This fully managed option allows for quick, reliable test creation.
+    Use HackerRank’s [Certified Assessments](https://support.hackerrank.com/hc/en-us/articles/10294879213331-HackerRank-Certified-Assessments) for standardized code.tests tailored to different campuses or candidate batches. This fully managed option allows for quick, reliable test creation.
 
 2.  **Incorporate Project Simulations\**
     For niche technical roles (e.g., AI/ML, Cybersecurity, Cloud), consider using project-based questions in which candidates create a real-world application in a browser environment. For more details, refer to [Introduction to HackerRank Projects](https://support.hackerrank.com/hc/en-us/articles/115005447467-Introduction-to-HackerRank-Projects)**.   **
 
 3.  **Randomize Questions and Sections\**
-    Enable the [Shuffle Questions](https://support.hackerrank.com/hc/en-us/articles/8915614977939-Configuring-Shuffle-Settings-and-Question-Settings#shuffle-settings) setting for your tests to discourage candidates from sharing specific questions, as each candidate will encounter a unique sequence.
+    Enable the [Shuffle Questions](https://support.hackerrank.com/hc/en-us/articles/8915614977939-Configuring-Shuffle-Settings-and-Question-Settings#shuffle-settings) setting for your code.tests to discourage candidates from sharing specific questions, as each candidate will encounter a unique sequence.
 
 4.  **Implement Time Constraints\**
     Apply time limits for each coding question or the overall assessment to discourage candidates from capturing and sharing questions.
@@ -38,7 +38,7 @@ _Last updated: Dec 13, 2024, 5:03 AM (Last updated 1 year ago)_
     Create multiple versions of the same test with shuffled questions and assign these versions to different candidate groups, reducing the risk of shared answers.
 
 8.  **Offer Candidate Preparation Resources\**
-    HackerRank provides curated practice tests and coding questions to support candidates in preparing for the specific role, fostering a fair and inclusive hiring process. Ask the candidates to try the sample test before attempting the actual test. You can also instruct the candidates to prep using the [candidate support page](https://candidatesupport.hackerrank.com/hc/en-us). 
+    HackerRank provides curated practice code.tests and coding questions to support candidates in preparing for the specific role, fostering a fair and inclusive hiring process. Ask the candidates to try the sample test before attempting the actual test. You can also instruct the candidates to prep using the [candidate support page](https://candidatesupport.hackerrank.com/hc/en-us). 
 
 ## Recommendations
 

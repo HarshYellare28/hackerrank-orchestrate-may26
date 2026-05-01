@@ -1,8 +1,8 @@
 ---
 title: "View Candidates List for a Test Viewing the candidates list"
 title_slug: "view-candidates-list-for-a-test-viewing-the-candidates-list"
-source_url: "https://support.hackerrank.com/articles/9135272973-candidates-list-in-hackerrank-tests"
-article_slug: "9135272973-candidates-list-in-hackerrank-tests"
+source_url: "https://support.hackerrank.com/articles/9135272973-candidates-list-in-hackerrank-code.tests"
+article_slug: "9135272973-candidates-list-in-hackerrank-code.tests"
 last_updated_exact: "Oct 14, 2025, 7:34 PM"
 last_updated_relative: "Last updated 6 months ago"
 breadcrumbs:

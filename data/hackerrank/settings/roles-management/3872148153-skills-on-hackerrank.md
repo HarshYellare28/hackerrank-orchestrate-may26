@@ -18,7 +18,7 @@ HackerRank helps customers standardize their hiring process by providing them wi
 
 ## How Can Skills Help Companies?
 
-With skills, users on HackerRank can now use [Roles](https://support.hackerrank.com/articles/9675847328-getting-started-with-roles-management) to create Tests and Interviews. Each Role, in turn, has one or more skills mapped to it. Based on skills captured inside a role, the platform offers a seamless way to create tests using standard content and capture interviewers’ feedback on a structured scorecard.
+With skills, users on HackerRank can now use [Roles](https://support.hackerrank.com/articles/9675847328-getting-started-with-roles-management) to create Tests and Interviews. Each Role, in turn, has one or more skills mapped to it. Based on skills captured inside a role, the platform offers a seamless way to create code.tests using standard content and capture interviewers’ feedback on a structured scorecard.
 
 See [HackerRank's Skills Directory](https://www.hackerrank.com/skills-directory) to know more about the list of available skills on our platform.
 
@@ -26,7 +26,7 @@ See [HackerRank's Skills Directory](https://www.hackerrank.com/skills-directory)
 
 To get started with skill-based insights, you need to have two things in place.
 
-1.  Create tests using skill-based questions. Click [here](https://support.hackerrank.com/articles/7429771072-creating-a-test-based-on-a-specific-role) to know more. 
+1.  Create code.tests using skill-based questions. Click [here](https://support.hackerrank.com/articles/7429771072-creating-a-test-based-on-a-specific-role) to know more. 
 
 2.  Capture skill-based interviewer's feedback through Interview scorecard. Click [here](https://support.hackerrank.com/hc/en-us/articles/360048405234-Interview-Scorecards) to know more.
 

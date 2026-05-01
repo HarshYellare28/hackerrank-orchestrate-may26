@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Jan 28, 2026, 9:48 AM (Last updated 3 months ago)_
 
-Test variants allow you to create a single assessment that adapts to different candidate profiles. You can design multiple variants within the same assessment to personalize the evaluation based on roles, skills, or other criteria. This approach eliminates the need to manage separate tests, improves efficiency, and ensures candidates are assessed on the most relevant content.
+Test variants allow you to create a single assessment that adapts to different candidate profiles. You can design multiple variants within the same assessment to personalize the evaluation based on roles, skills, or other criteria. This approach eliminates the need to manage separate code.tests, improves efficiency, and ensures candidates are assessed on the most relevant content.
 
 ## Creating test variants
 
@@ -132,7 +132,7 @@ After a candidate completes their assigned variant, go to the **Candidates** tab
 
 Use the **Candidate Option** filter to filter candidates by variant.
 
-**Note:** For variant-based tests, you can add extra time at the section level for candidates. For more information, see [Adding extra time in variant-based tests](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests).
+**Note:** For variant-based code.tests, you can add extra time at the section level for candidates. For more information, see [Adding extra time in variant-based code.tests](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests).
 
 ## Additional note
 

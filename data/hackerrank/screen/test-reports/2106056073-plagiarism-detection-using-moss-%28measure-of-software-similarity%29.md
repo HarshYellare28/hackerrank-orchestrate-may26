@@ -18,7 +18,7 @@ Plagiarism in the hiring process compromises the integrity of evaluations, makin
 
 HackerRank employs two primary models to detect plagiarism, specifically in coding questions:
 
-1.  [MOSS (Measure of Software Similarity)](https://theory.stanford.edu/~aiken/moss/): This is enabled by default for all tests. The model compares the candidate code against others in our database. This method is effective in identifying plagiarism from external sources or copied test cases.
+1.  [MOSS (Measure of Software Similarity)](https://theory.stanford.edu/~aiken/moss/): This is enabled by default for all code.tests. The model compares the candidate code against others in our database. This method is effective in identifying plagiarism from external sources or copied test cases.
 
 2.  [AI Plagiarism Detection:](https://hackerrank-knowledge-base.help.usepylon.com/articles/8000786908-ai-plagiarism-detection) [](https://hackerrank-knowledge-base.help.usepylon.com/articles/8000786908-ai-plagiarism-detection) To detect sophisticated and AI-aided plagiarism attempts, HackerRank leverages an advanced AI-based model. This feature is an option that can be enabled if required. 
 
@@ -30,7 +30,7 @@ Moss tokenizes candidate code and compares these tokens to detect substantial ov
 
 Plagiarism detection is conducted for the same question across different candidates and versions of programming languages. The system flags a candidate’s recent submission based on behavioral signals against previous ones, considering overlapping attempt durations.
 
-MOSS plagiarism detection is turned on by default for all HackerRank tests. 
+MOSS plagiarism detection is turned on by default for all HackerRank code.tests. 
 
 ### Verifying Plagiarism in the Candidate Report
 

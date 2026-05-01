@@ -15,7 +15,7 @@ breadcrumbs:
 
 _Last updated: Dec 15, 2024, 10:53 AM (Last updated 1 year ago)_
 
-The HackerRank-Eightfold integration allows users to invite candidates to HackerRank tests and interviews directly from the Eightfold platform. After completing the tests or interviews, candidates’ scores and performance data are added to their Eightfold profiles. This article provides a step-by-step guide for configuring the integration.
+The HackerRank-Eightfold integration allows users to invite candidates to HackerRank code.tests and interviews directly from the Eightfold platform. After completing the code.tests or interviews, candidates’ scores and performance data are added to their Eightfold profiles. This article provides a step-by-step guide for configuring the integration.
 
 #### **Prerequisites**
 
@@ -25,7 +25,7 @@ To configure the integration, ensure the following:
 
 - **Admin Access**: Only users with Company Admin privileges can generate the API key required for integration.
 
-- **HackerRank Tests**: The tests must be created and published using the same Company Admin credentials for access in Eightfold.
+- **HackerRank Tests**: The code.tests must be created and published using the same Company Admin credentials for access in Eightfold.
 
 - **Eightfold Access**: You must have access to the Admin Console and App Configuration pages on the Eightfold platform.
 

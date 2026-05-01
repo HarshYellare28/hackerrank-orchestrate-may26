@@ -62,7 +62,7 @@ In simple terms, we flag candidates by looking at code similarity between candid
 
 5.  Tab and Copy Paste Proctoring and other Test Integrity Settings
 
-    - Today, Copy Paste tracking is enabled by default for all of your customer tests. This will deter candidates from pasting code into their assessment attempts. 
+    - Today, Copy Paste tracking is enabled by default for all of your customer code.tests. This will deter candidates from pasting code into their assessment attempts. 
 
       - Copy-Paste information (Copy-Paste Frequency) is available in the excel report as well as individual candidate reports ( Reviewer can view the lines of code copy-pasted by the candidate )
 
@@ -70,7 +70,7 @@ In simple terms, we flag candidates by looking at code similarity between candid
 
           - For more information about downloading an excel report, check out the [Downloading PDF and Excel Test Reports](https://support.hackerrank.com/hc/en-us/articles/360012776753-Downloading-PDF-and-Excel-Test-Reports) article.
 
-      2.  Use sections while creating tests and **add randomization** by allowing the system to **pick a set of different questions for each candidate**. Since each candidate may get different questions, it is difficult for the candidates to split the test questions among themselves and share answers. Refer here - [Section-based testing (Creating test sections and how to use them)](https://support.hackerrank.com/hc/en-us/articles/360000784408-Section-based-Testing-#creating-test-sections-and-how-to-use-them%C2%A0)
+      2.  Use sections while creating code.tests and **add randomization** by allowing the system to **pick a set of different questions for each candidate**. Since each candidate may get different questions, it is difficult for the candidates to split the test questions among themselves and share answers. Refer here - [Section-based testing (Creating test sections and how to use them)](https://support.hackerrank.com/hc/en-us/articles/360000784408-Section-based-Testing-#creating-test-sections-and-how-to-use-them%C2%A0)
 
       3.  Enable the **“shuffle questions”** option, which would add another layer of randomization to the ordering of questions as well so that candidates cannot rely on question numbers for getting the answers. Refer here - [Shuffle Questions and Question Points](https://support.hackerrank.com/hc/en-us/articles/115006328628-Modifying-Question-Settings-for-Tests#shuffle-question-and-question-points%C2%A0)
 
@@ -158,6 +158,6 @@ To effectively identify candidates who potentially have plagiarized and be able 
 
 ## **What other help can you get from HackerRank on this topic:**
 
-- Upon customer request, in selected cases, we can loop in the data teams to perform a complete analysis of the customer tests to see where they stand compared to our global average. 
+- Upon customer request, in selected cases, we can loop in the data teams to perform a complete analysis of the customer code.tests to see where they stand compared to our global average. 
 
 \

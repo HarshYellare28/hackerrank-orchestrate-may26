@@ -1,6 +1,6 @@
 ---
-title: "HTML/CSS/JavaScript Questions Creating an HTML/CSS/JavaScript question Candidate experience Scoring an HTML/CSS/JavaScript question in tests"
-title_slug: "htmlcssjavascript-questions-creating-an-htmlcssjavascript-question-candidate-experience-scoring-an-htmlcssjavascript-question-in-tests"
+title: "HTML/CSS/JavaScript Questions Creating an HTML/CSS/JavaScript question Candidate experience Scoring an HTML/CSS/JavaScript question in code.tests"
+title_slug: "htmlcssjavascript-questions-creating-an-htmlcssjavascript-question-candidate-experience-scoring-an-htmlcssjavascript-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/7771245202-html/css/javascript-questions"
 article_slug: "javascript-questions"
 last_updated_exact: "Mar 26, 2026, 4:56 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Programming Questions"
 ---
 
-# HTML/CSS/JavaScript Questions Creating an HTML/CSS/JavaScript question Candidate experience Scoring an HTML/CSS/JavaScript question in tests
+# HTML/CSS/JavaScript Questions Creating an HTML/CSS/JavaScript question Candidate experience Scoring an HTML/CSS/JavaScript question in code.tests
 
 _Last updated: Mar 26, 2026, 4:56 PM (Last updated 1 month ago)_
 
@@ -104,7 +104,7 @@ The candidate writes HTML, CSS, and JavaScript code based on the prompt and rend
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772444019542-image.png?Expires=253370764800&Signature=vndgs~h1KKs~Zj8VXcS8RxUf5Mf4TMot0s3T9B64z-xMc6EAG2xAL0Bj2AhP2-OsuKzZDExk-WzkYpOg3p7Eyi66adqga65nmcjjLbm2z0gsUV6IMDihcZ8U6mnyNe52QcNHdfVP8DGF8Lv50YDh4azCQ2IKk1WhxoXsglb7hFhKKbcLtxwB6QMgoHe2-DN3KZ90uDifQuuUifv7pp-F0Id5jE8lZhnEYsX-ovIrPESTLSaVrDOmnv1DUqpdrCdzoR7aw0PJLWd-rTLEixwApRn89x~x9WjPgPtkgmKFY7OlhwtBi0PFcD19xKKruSAUsMnH-8RUnNaa-QMv2BTdXg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring an HTML/CSS/JavaScript question in tests
+# Scoring an HTML/CSS/JavaScript question in code.tests
 
 HTML/CSS/JavaScript questions require manual evaluation because assessment focuses on visual output.
 

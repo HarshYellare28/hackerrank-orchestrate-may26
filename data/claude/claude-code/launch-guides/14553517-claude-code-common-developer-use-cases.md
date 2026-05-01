@@ -34,7 +34,7 @@ Use cases are ordered roughly by how early most developers encounter them. Selec
 **Example prompt:**
 
 ```
-&gt; the tests in tests/auth.test.ts are failing, can you figure out why and fix them
+&gt; the code.tests in code.tests/auth.test.ts are failing, can you figure out why and fix them
 ```
 
 **Expected result:** Claude Code reads the test file, traces the code path through the modules under test, identifies the mismatch, and proposes an edit. After you approve the change, it re-runs the test suite to confirm the fix.
@@ -91,17 +91,17 @@ Use cases are ordered roughly by how early most developers encounter them. Selec
 
 **Reference:** **[Permissions](https://code.claude.com/docs/en/permissions)**
 
-#### 6. Write tests for existing code
+#### 6. Write code.tests for existing code
 
-**When to use this:** A source file lacks coverage, or you need additional edge-case tests that match your project’s existing test conventions.
+**When to use this:** A source file lacks coverage, or you need additional edge-case code.tests that match your project’s existing test conventions.
 
 **Example prompt:**
 
 ```
-&gt; add tests for @src/billing/invoice.ts — cover the edge cases around partial refunds. match the style of the existing tests in tests/billing/
+&gt; add code.tests for @src/billing/invoice.ts — cover the edge cases around partial refunds. match the style of the existing code.tests in code.tests/billing/
 ```
 
-**Expected result:** Claude Code reads both the source file and the reference test directory, generates a new test file in the existing style, and runs it to confirm the tests pass. If obvious coverage gaps remain, it flags them and asks whether to address them.
+**Expected result:** Claude Code reads both the source file and the reference test directory, generates a new test file in the existing style, and runs it to confirm the code.tests pass. If obvious coverage gaps remain, it flags them and asks whether to address them.
 
 #### 7. Review a pull request
 
@@ -143,7 +143,7 @@ Use cases are ordered roughly by how early most developers encounter them. Selec
 &lt;table class="prompt"&gt; &lt;colgroup&gt; &lt;col style="width: 100%" /&gt; &lt;/colgroup&gt;<br>&lt;tbody&gt; &lt;tr class="odd"&gt; &lt;td&gt;&amp;gt; what's the top-priority issue assigned<br>to me?&lt;br /&gt; &amp;gt; go ahead and fix it&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
 ```
 
-**Expected result:** Claude Code queries the issue tracker, reads the ticket, locates the relevant code, proposes a fix, and runs the tests. The session ends with a reviewable diff and the context needed to close the ticket.
+**Expected result:** Claude Code queries the issue tracker, reads the ticket, locates the relevant code, proposes a fix, and runs the code.tests. The session ends with a reviewable diff and the context needed to close the ticket.
 
 **Reference:** **[MCP](https://code.claude.com/docs/en/mcp)**
 
@@ -154,7 +154,7 @@ Use cases are ordered roughly by how early most developers encounter them. Selec
 **Example prompt:**
 
 ```
-&gt; make me a /ship skill that runs the tests, runs the linter, looks at git diff, and drafts a conventional-commit message — then shows me the message without committing
+&gt; make me a /ship skill that runs the code.tests, runs the linter, looks at git diff, and drafts a conventional-commit message — then shows me the message without committing
 ```
 
 **Expected result:** Claude Code writes a `SKILL.md` file to `.claude/skills/ship/`. The `/ship` command is available immediately, with no restart required, and is shared with anyone who clones the repository. (The legacy `.claude/commands/` path is still supported, but skills are the recommended form.)

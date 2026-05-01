@@ -59,7 +59,7 @@ This article will guide you through the process of integrating your HackerRank a
 
 - You will be notified about the same on the HackerRank-SmartRecruiters configuration page.  
 
-Now that you have integrated SmartRecruiters with HackerRank, you can manage your tests and interviews inside the SmartRecruiters. Refer to the below article to learn how to manage tests and interviews inside SmartRecruiters. 
+Now that you have integrated SmartRecruiters with HackerRank, you can manage your code.tests and interviews inside the SmartRecruiters. Refer to the below article to learn how to manage code.tests and interviews inside SmartRecruiters. 
 
 - [📄 SmartRecruiters - HackerRank Integration User Guide](/articles/2880884436)
   \

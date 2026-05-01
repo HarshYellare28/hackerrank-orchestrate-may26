@@ -1,8 +1,8 @@
 ---
 title: "Question Types in HackerRank Supported question types"
 title_slug: "question-types-in-hackerrank-supported-question-types"
-source_url: "https://support.hackerrank.com/articles/2354192461-question-types-in-hackerrank-tests"
-article_slug: "2354192461-question-types-in-hackerrank-tests"
+source_url: "https://support.hackerrank.com/articles/2354192461-question-types-in-hackerrank-code.tests"
+article_slug: "2354192461-question-types-in-hackerrank-code.tests"
 last_updated_exact: "Apr 22, 2026, 3:08 PM"
 last_updated_relative: "Last updated 4 days ago"
 breadcrumbs:

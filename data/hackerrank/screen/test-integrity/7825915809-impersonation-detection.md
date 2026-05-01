@@ -28,7 +28,7 @@ HackerRank helps detect impersonation during a test and offers the following fea
 
 # Photo Identification
 
-The Photo Identification feature in **Test Integrity** settings is disabled by default for all the tests.
+The Photo Identification feature in **Test Integrity** settings is disabled by default for all the code.tests.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760447191895-image.png?Expires=253370764800&Signature=SjkYXU4~uWZtld9ugjVU3yAFr0rBESYH34hWE8ynMnim~qts76eIRF9nQKdXHmDX0g2pyawwcH2sWS80njaNWdxmUjcJ-DeFBF53EXYQJ81tw5yWLdacYlcu3oTBojrdX3gXhcPgiHC4CJYFqICMvbdnU28qLDVAiBredTy69TiEMoM6QDeBEKeSX-tyM6tEQ0LjZfaZH6jBNi9mLX7Lc5ENM~0BzQVywOMDrQIEepiIG0o67UmeZ1RXGBvTsjEPbvTyG5C~U9zhq0BFw7~vXr-Qb6NsBKRwAQpNRHByPz3uioq2R2tzY7D1EGlbBNuxAMtGzQgi~3Yf2PIFEnSDPg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -64,7 +64,7 @@ To view the photo:
 
 # Image Proctoring
 
-The **Image Proctoring** feature captures images of candidates at one-minute intervals during the test. By default, this feature is disabled. This feature within the **Test Integrity** settings is disabled by default for all the tests to monitor suspicious activity during the test. 
+The **Image Proctoring** feature captures images of candidates at one-minute intervals during the test. By default, this feature is disabled. This feature within the **Test Integrity** settings is disabled by default for all the code.tests to monitor suspicious activity during the test. 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760447211342-image.png?Expires=253370764800&Signature=ECnZkNxSsWor2zGI932Z-jOXrbwZc--I9DZTbfsAPUxa20ZsFaXFw0mDxMKtlQeWujndaPq1siPKk86J5~yN7Tr8XiIXIIrXz812uSVOIWqD0WS0hMozlX7MMnuc02vlhcZp0sQWDqSi75EMSiM35HBhzecLbteQ9lnfO~y3E8UUBgVHfEUNFFykgAofKLY~i7VEEwHJ8w4sJj9Wr-tuXHGFgDfKh~AA2SVb7Ljt0yVpe7EW-u56tlilrmkAroaE3P~CUUZJ2QRVFJKHniu30V2Jga8lGcDTKp49uzladW47dFi5ST6hjC3M8jQWMJ~iMaBFGhevS322vSiNxJj1eg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -92,7 +92,7 @@ To view the **Image Proctoring** results:
 
 You can detect if an external monitor is connected to the candidate's device during an assessment. This can help identify potential cheating, as the use of multiple monitors can be a significant factor in decision-making.
 
-This feature within the **Test Integrity** settings is disabled by default for all the tests.
+This feature within the **Test Integrity** settings is disabled by default for all the code.tests.
 
 ## Candidate Experience
 
@@ -136,7 +136,7 @@ To enable **Image Analysis**, turn on **Image Proctoring**. This will unlock the
 
 When **Image Analysis** is enabled, candidates are prompted to allow webcam access. Upon launching the test, the candidate must consent to the proctoring and webcam access.
 
-**Note:** Proctored tests are only supported on Chrome, Safari, Edge, and Firefox browsers.
+**Note:** Proctored code.tests are only supported on Chrome, Safari, Edge, and Firefox browsers.
 
 ## Reviewing Suspicious Activity
 

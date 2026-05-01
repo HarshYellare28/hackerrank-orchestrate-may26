@@ -17,7 +17,7 @@ _Last updated: Dec 15, 2024, 10:49 AM (Last updated 1 year ago)_
 
 HackerRank continuously updates [project stacks](https://candidatesupport.hackerrank.com/hc/en-us/articles/4402913877523-Execution-Environment#frontend-backend-full-stack-mobile-data-science-and-devops) to ensure library questions remain compatible with the latest technology. If you have created custom questions using an older stack, these questions will be flagged by HackerRank, indicating an upgrade is available. It is recommended that you upgrade the flagged questions to maintain a seamless test experience for the candidates.
 
-**Note:** You will notice this flag only when an older version of the question is present in one of your tests. 
+**Note:** You will notice this flag only when an older version of the question is present in one of your code.tests. 
 
 **Steps:**
 

@@ -1,8 +1,8 @@
 ---
 title: "AI-Assisted Tests"
-title_slug: "ai-assisted-tests"
-source_url: "https://support.hackerrank.com/articles/1152916770-ai-assisted-tests"
-article_slug: "1152916770-ai-assisted-tests"
+title_slug: "ai-assisted-code.tests"
+source_url: "https://support.hackerrank.com/articles/1152916770-ai-assisted-code.tests"
+article_slug: "1152916770-ai-assisted-code.tests"
 last_updated_exact: "Apr 22, 2026, 10:44 AM"
 last_updated_relative: "Last updated 4 days ago"
 breadcrumbs:
@@ -126,9 +126,9 @@ After the test is complete, the candidate report displays AI-specific interactio
 
 ## Frequently Asked Questions (FAQs)
 
-**Does the AI-Assisted Summary work in proctored tests?**
+**Does the AI-Assisted Summary work in proctored code.tests?**
 
-Yes. In proctored tests, the **Performance Summary** appears in the new reports interface.
+Yes. In proctored code.tests, the **Performance Summary** appears in the new reports interface.
 
 **Can I view the AI Fluency in older reports?**
 

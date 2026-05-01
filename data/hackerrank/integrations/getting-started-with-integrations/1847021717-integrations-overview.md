@@ -88,7 +88,7 @@ Scheduling\
 | **Application** | **Functionality** |
 | [Eightfold](https://support.hackerrank.com/articles/7924497743-eightfold---hackerrank-integration) | Send HackerRank test invites, schedule interviews, and review test scores, reports, and interview feedback within Eightfold. |
 | [Phenom People](https://support.hackerrank.com/articles/7288417717-phenom-people---hackerrank-integration-guide) | Send HackerRank test invites, and review test scores and reports within Phenom. |
-| [Prismforce](https://support.hackerrank.com/articles/5932438086-prismforce---hackerrank-integration-guide) | Access HackerRank test scores for candidate profiles from previously completed tests. |
+| [Prismforce](https://support.hackerrank.com/articles/5932438086-prismforce---hackerrank-integration-guide) | Access HackerRank test scores for candidate profiles from previously completed code.tests. |
 
 ## Single Sign-On
 
@@ -110,7 +110,7 @@ Scheduling\
 | **Application** | **Functionality** |
 | [Slack](https://support.hackerrank.com/articles/1480104967-slack---hackerrank-integration-guide) | Generate quick HackerRank interview links, and receive interview reports within Slack. |
 | [Splash](https://support.hackerrank.com/articles/1979161599-splash---hackerrank-integration-guide) | Send HackerRank test invites, and review test scores and reports within Splash. |
-| [Interview Vector](https://support.hackerrank.com/articles/6541817100-interview-vector---hackerrank-integration-guide) | Include HackerRank tests as part of your assessment process via Interview Vector. |
+| [Interview Vector](https://support.hackerrank.com/articles/6541817100-interview-vector---hackerrank-integration-guide) | Include HackerRank code.tests as part of your assessment process via Interview Vector. |
 
 **Note**: To learn about APIs, refer to the detailed [API documents.](https://www.hackerrank.com/work/apidocs#!/Introduction/options_intro_api)
 

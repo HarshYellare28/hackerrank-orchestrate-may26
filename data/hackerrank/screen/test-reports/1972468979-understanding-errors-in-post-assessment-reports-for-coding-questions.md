@@ -18,7 +18,7 @@ This guide has been developed to help you understand various errors and warnings
 
 ## No answer was submitted for this question. Showing compiled/saved versions
 
-- You will see this message if candidates never run their code or tests.
+- You will see this message if candidates never run their code or code.tests.
 
 - The system will treat it as if the candidate didn’t attempt the question.
 
@@ -28,7 +28,7 @@ This guide has been developed to help you understand various errors and warnings
 
 ## No code was submitted. The last compiled version is displayed to the user
 
-- You will see this message if a candidate has run their code or run tests but never hits submit on the question.
+- You will see this message if a candidate has run their code or run code.tests but never hits submit on the question.
 
 **Note:** When the test submission or the test timer expires, the system will run the latest version of the candidate’s code and use that to score the question.  
 

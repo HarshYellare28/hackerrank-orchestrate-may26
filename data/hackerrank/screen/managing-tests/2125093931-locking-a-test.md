@@ -78,7 +78,7 @@ To unlock a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779863498-image.png?Expires=253370764800&Signature=V6IK3~IbTWDTCj8LCeMYGA0bDBacP~JOUblNk6GrWVykBOMWzA-kOeUpDtJZKZBkX4KeMv~MpvPjbzt4ztWKCgr6xsHB0dW74OXGPhYa3CgTbgTO0RCEogq-RkBvSVHz09BkR2hsbcgAwq0W68hfdIo9d7JDMoA6XGnMtduyv5E4t-2ePhkUby9RGG-8zll8PgTAisLjJwU4ilzcC6RUhIc4hZg9xu5juIsYoeMdpaKUcanJQ~-O0~HyqR1JiqWfdqdTxK-Yrhp3du5-qGRVsz7elVxGpW09fD92C0hvhjeI3lRXpbcE7BF~b4rIC8LJZS4W-BwU7CMxjEf9MFI9wQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-- You can lock or unlock multiple tests at once. From the **Tests** tab, select the checkboxes next to the tests and choose the **Lock** or **Unlock** action.
+- You can lock or unlock multiple code.tests at once. From the **Tests** tab, select the checkboxes next to the code.tests and choose the **Lock** or **Unlock** action.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779937971-image.png?Expires=253370764800&Signature=MVJqOyFngoziSkC0XmWVAcMWwLjd7QrDDIbKjiRV2DyAFTJHUepoy2dpDg1jp6C8KflSfxTsajWuxpIN0kxv-Ot0HyESRj2T-LoxCFc08PjzizaK4PJx3~03eYYILvIoC1jCTkTb3oon2idTCg5BUzdVLVc3hh27HrPQU8sWnvcWFN~ZfamW2qaUGpBvronA6j2ax7nEu6F98Lx~MaKzatZ0od52hkwaSiPZcY4QspjR32bx9-lhIjC~JkjCr7Ng0cPV6DKZJBxx3LHY7CitlqAMy30FjDbasMWAKjSihlNgrE5SZRpe7SajgPRYPiKvRA~HcsmZP3AEVTlAON84Fw__&Key-Pair-Id=K3NV4LZ47N8M46)
 

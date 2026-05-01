@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Dec 26, 2024, 12:34 PM (Last updated 1 year ago)_
 
-The **Centralized Test Settings** page enables Company Admins to configure default test settings for the entire organization. By standardizing test rules and experiences upfront, you can save time and ensure consistency across all tests.
+The **Centralized Test Settings** page enables Company Admins to configure default test settings for the entire organization. By standardizing test rules and experiences upfront, you can save time and ensure consistency across all code.tests.
 
 **Tip**: For more details, refer to [Test Settings and Configuration](https://hackerrank-knowledge-base.help.usepylon.com/articles/6629491991-test-settings-and-configuration).
 
@@ -36,19 +36,19 @@ As a Company Admin, you can manage test settings in two ways:
 
 #### 1. Change Default Settings
 
-- Toggle switches to enable or disable default settings for newly created tests.
+- Toggle switches to enable or disable default settings for newly created code.tests.
 
 - Users can still override these defaults at the individual test level.
 
 #### 2. Lock Default Settings
 
-- Use the **lock icon** to enforce specific settings across all tests.
+- Use the **lock icon** to enforce specific settings across all code.tests.
 
 - Other users cannot modify locked settings, which will apply to every test in your organization.
 
 **Note**:
 
-**1. Unlocked defaults** apply only to new tests and do not retroactively affect existing ones.
+**1. Unlocked defaults** apply only to new code.tests and do not retroactively affect existing ones.
 
 **2. Locked defaults** override all test settings, ensuring organization-wide consistency.
 
@@ -129,7 +129,7 @@ Customize the test homepage with standardized instructions, disclaimers, and man
 
 #### Test Integrity Settings
 
-Control proctoring settings for all tests, such as enabling **Image Proctoring** or **AI Plagiarism Detection**.
+Control proctoring settings for all code.tests, such as enabling **Image Proctoring** or **AI Plagiarism Detection**.
 
 ##### Dependencies and Interdependencies
 

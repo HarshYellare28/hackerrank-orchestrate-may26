@@ -1,8 +1,8 @@
 ---
 title: "Workday - HackerRank Tests User Guide"
-title_slug: "workday-hackerrank-tests-user-guide"
-source_url: "https://support.hackerrank.com/articles/1999755553-workday---hackerrank-tests-user-guide"
-article_slug: "1999755553-workday---hackerrank-tests-user-guide"
+title_slug: "workday-hackerrank-code.tests-user-guide"
+source_url: "https://support.hackerrank.com/articles/1999755553-workday---hackerrank-code.tests-user-guide"
+article_slug: "1999755553-workday---hackerrank-code.tests-user-guide"
 last_updated_exact: "Dec 28, 2024, 4:25 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:

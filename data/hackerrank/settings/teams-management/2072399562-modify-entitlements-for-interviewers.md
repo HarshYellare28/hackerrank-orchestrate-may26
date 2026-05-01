@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Mar 12, 2026, 2:43 PM (Last updated 1 month ago)_
 
-You can modify interviewer entitlements to control access to tests, interviews, questions, and candidates.
+You can modify interviewer entitlements to control access to code.tests, interviews, questions, and candidates.
 
 # Prerequisite
 
@@ -120,7 +120,7 @@ You can manage the following entitlement categories for interviewers:
 
 ## Interview Templates entitlements
 
-![interviewer tests.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773215109750-interviewertests.png?Expires=253370764800&Signature=KXz4vEnGfiGXPxPU3dTtXF2KWxv4bl5x28Mn5N21grESmyCjgK1MG9LhCAd0NcXTpLZl2oMa4x3u9uxU~I2t-bKF2SD4g6yUBNoDw4uXm05tOYPskAZvjGosa8Gd8Xu8pd-HZeLEMas-6sH1~3T~Leuqr3yNt-IqzFHN3QOTgIHPDa3C5WYw3EEZNWoPAUIAcGUbcQSrXQ0wOToyB~uyGaRN11oT6k1Ey6Tl2IwVUiW~IacTQyOPRKOhtIllyQpv7FAxMI3P82lR8OmDrl9viaBjmRCvclDnnMVgR0e-lD2meAAij5ImTqu-AB8GZTN4cYzLlymRI8xhLbJFPhSkLg__&Key-Pair-Id=K3NV4LZ47N8M46)
+![interviewer code.tests.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773215109750-interviewertests.png?Expires=253370764800&Signature=KXz4vEnGfiGXPxPU3dTtXF2KWxv4bl5x28Mn5N21grESmyCjgK1MG9LhCAd0NcXTpLZl2oMa4x3u9uxU~I2t-bKF2SD4g6yUBNoDw4uXm05tOYPskAZvjGosa8Gd8Xu8pd-HZeLEMas-6sH1~3T~Leuqr3yNt-IqzFHN3QOTgIHPDa3C5WYw3EEZNWoPAUIAcGUbcQSrXQ0wOToyB~uyGaRN11oT6k1Ey6Tl2IwVUiW~IacTQyOPRKOhtIllyQpv7FAxMI3P82lR8OmDrl9viaBjmRCvclDnnMVgR0e-lD2meAAij5ImTqu-AB8GZTN4cYzLlymRI8xhLbJFPhSkLg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 - View Interview Templates: If toggled on, interviewers can:
 

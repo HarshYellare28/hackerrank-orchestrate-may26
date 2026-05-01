@@ -74,7 +74,7 @@ Below are some tips and best practices for creating university and early talent 
 
   - Multiple Choice: Candidates can choose one or more correct answers from the given list.
 
-HackerRank has a pre-built library of over 2,500 questions for over 20+ roles. Our predefined tests take the guesswork of what to include in these tests. Watch the video below to learn how to use one of our predefined tests. 
+HackerRank has a pre-built library of over 2,500 questions for over 20+ roles. Our predefined code.tests take the guesswork of what to include in these code.tests. Watch the video below to learn how to use one of our predefined code.tests. 
 
 <div class="iframe">
 
@@ -109,7 +109,7 @@ Recruiters will usually send out bulk invites to take the test you created in th
 
 #### Step 3: Analyze candidate performance trends.
 
-Once you have sent out your invitations and candidates have begun to submit tests, you will want to evaluate the candidate’s scores in order to analyze the Candidate performance trends. This step will help you understand which candidates to further evaluate for the initial phone screen with the recruiter. If the phone screen is a success, you will have the information needed to invite them in for a virtual onsite interview session.
+Once you have sent out your invitations and candidates have begun to submit code.tests, you will want to evaluate the candidate’s scores in order to analyze the Candidate performance trends. This step will help you understand which candidates to further evaluate for the initial phone screen with the recruiter. If the phone screen is a success, you will have the information needed to invite them in for a virtual onsite interview session.
 
 Watch the video below to see how HackerRank’s Screen platform makes sending invites as easy as a 3-step process.
 

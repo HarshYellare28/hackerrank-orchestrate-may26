@@ -61,7 +61,7 @@ A screenshot accompanied by a single line of context, or a brief before-and-afte
 
 The following are illustrations of tone and length rather than templates to copy verbatim.
 
-*Learned today that @-mentioning a directory works. I pointed it at `@src/components/` and asked which components were missing tests, and it surfaced two I had forgotten about.*
+*Learned today that @-mentioning a directory works. I pointed it at `@src/components/` and asked which components were missing code.tests, and it surfaced two I had forgotten about.*
 
 *I configured a Stop hook so I receive a desktop notification when a long task completes. I started a refactor, stepped away, and was notified when it finished. Configuration is in the thread.*
 
@@ -79,7 +79,7 @@ When a colleague asks how you accomplished something, the most useful response i
 
 **Colleague:** *How did you get it to find that race condition?*
 
-**Champion:** *I asked, “The test in @tests/scheduler.test.ts is flaky — figure out why,” and it traced two unjoined promises in the scheduler. Try the same phrasing on your test.*
+**Champion:** *I asked, “The test in @code.tests/scheduler.test.ts is flaky — figure out why,” and it traced two unjoined promises in the scheduler. Try the same phrasing on your test.*
 
 #### Point at the feature rather than the documentation
 

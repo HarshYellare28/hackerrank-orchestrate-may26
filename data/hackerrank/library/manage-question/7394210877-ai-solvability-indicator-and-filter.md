@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Jan 23, 2025, 12:54 AM (Last updated 1 year ago)_
 
-HackerRank automatically flags coding questions that artificial intelligence (AI) tools, such as ChatGPT, Gemini, etc. can solve in its library. To ensure transparency, HackerRank performs monthly automated analyses of its question library to simulate how AI tools would perform on these questions. This feature aims to inform users about AI-solvable questions, helping them design tests effectively, particularly where plagiarism might be a concern.
+HackerRank automatically flags coding questions that artificial intelligence (AI) tools, such as ChatGPT, Gemini, etc. can solve in its library. To ensure transparency, HackerRank performs monthly automated analyses of its question library to simulate how AI tools would perform on these questions. This feature aims to inform users about AI-solvable questions, helping them design code.tests effectively, particularly where plagiarism might be a concern.
 
 ## Key Benefits
 
@@ -36,7 +36,7 @@ HackerRank marks AI-solvable questions with an **AI Solvable = Yes** indicator.
 
 AI tools have evolved to solve certain coding problems efficiently. While their capabilities are improving, simpler questions with concise answers are more vulnerable to being solved correctly by these tools. HackerRank protects its customers by offering filters to avoid AI-solvable questions.
 
-When curating tests where plagiarism is a concern, you can additionally leverage HackerRank’s [](https://hackerrank-knowledge-base.help.usepylon.com/articles/7287334157-ai-plagiarism-detection) [AI-Powered Plagiarism Detection](https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection) [](https://hackerrank-knowledge-base.help.usepylon.com/articles/7287334157-ai-plagiarism-detection) features for further protection.
+When curating code.tests where plagiarism is a concern, you can additionally leverage HackerRank’s [](https://hackerrank-knowledge-base.help.usepylon.com/articles/7287334157-ai-plagiarism-detection) [AI-Powered Plagiarism Detection](https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection) [](https://hackerrank-knowledge-base.help.usepylon.com/articles/7287334157-ai-plagiarism-detection) features for further protection.
 
 ### Recommendations for Question Usage
 
@@ -45,7 +45,7 @@ When curating tests where plagiarism is a concern, you can additionally leverage
 | **Question Type** | **Susceptibility to AI** | **Indicator & Filter Availability** | **Recommendation** |
 | **MCQs** | High | No | Use to assess tertiary skills and basic knowledge and minimize evaluation time. |
 | **Sentence Completion** | Varies | No | Use for tertiary skills and basic knowledge. Limit usage for primary skill testing. |
-| **Coding, Database** | Medium | Yes | Ideal for testing coding proficiency. Avoid flagged questions in tests that are prone to plagiarism. |
+| **Coding, Database** | Medium | Yes | Ideal for testing coding proficiency. Avoid flagged questions in code.tests that are prone to plagiarism. |
 | **Backend, Frontend, Fullstack** | Low | No | Best for evaluating primary skills. These require extensive customization, making them less AI-solvable. |
 
 ### Scope of the AI-Solvability Filter

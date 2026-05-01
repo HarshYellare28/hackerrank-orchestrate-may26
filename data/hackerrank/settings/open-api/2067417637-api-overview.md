@@ -18,7 +18,7 @@ HackerRank offers robust APIs to automate test administration and result retriev
 
 ## Generating my API Token
 
-Each enterprise user with a **HackerRank for Work** account can use our APIs to generate a personal access token. These APIs help automate repetitive tasks, such as administering tests and fetching results.
+Each enterprise user with a **HackerRank for Work** account can use our APIs to generate a personal access token. These APIs help automate repetitive tasks, such as administering code.tests and fetching results.
 
 **Note**: This token is not intended to support ATS integrations. To obtain API keys for integrations with ATS platforms like Breezy, Lever, Greenhouse, or Jobvite, refer to the **ATS Integration** section in our knowledge base.
 
@@ -55,7 +55,7 @@ Here's an overview of our APIs and their capabilities:
 |  |  |
 |----|----|
 | **API Name** | **Notes on Use Cases** |
-| [Test API](https://www.hackerrank.com/work/apidocs#!/Tests/options_tests) | Most popular with our existing customers. The calls in this API allow you to perform repetitive tasks about the Tests module - like inviting candidates for a test, fetching candidate status, including detailed reports, viewing details about tests and the contained questions, etc. |
+| [Test API](https://www.hackerrank.com/work/apidocs#!/Tests/options_tests) | Most popular with our existing customers. The calls in this API allow you to perform repetitive tasks about the Tests module - like inviting candidates for a test, fetching candidate status, including detailed reports, viewing details about code.tests and the contained questions, etc. |
 | [Interviews API](https://www.hackerrank.com/work/apidocs#!/Interviews/get_x_api_v3_interviews_limit_limit_offset_offset) | Allow such actions as creating a new QuickPad, scheduling an interview, viewing all interviews, fetching reports, etc. |
 | [Users API](https://www.hackerrank.com/work/apidocs#!/Users/options_users) | Users endpoint is useful for creating new users programmatically, such as when integrating HackerRank with other systems or applications. |
 | [Teams API](https://www.hackerrank.com/work/apidocs#!/Teams/options_teams) | Teams endpoint allows you to create new teams automatically, which is helpful when organizing coding competitions or collaborative projects on HackerRank. |

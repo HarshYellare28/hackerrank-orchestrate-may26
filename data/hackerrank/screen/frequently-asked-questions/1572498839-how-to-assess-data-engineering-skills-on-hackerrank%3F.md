@@ -16,7 +16,7 @@ _Last updated: Dec 13, 2024, 5:08 AM (Last updated 1 year ago)_
 
 ## Overview
 
-This article describes about the HackerRank enabled capabilities to assess the candidate's Data Engineering skills. Data engineers are responsible for finding trends in data sets and developing algorithms to help make raw data more beneficial to the enterprise. At HackerRank, the Data Engineering skills can be assessed through pre-designed and custom-built tests that come with essential skills such as SQL, Apache Kafka, Hadoop, Couchbase, Apache Spark, Java, Scala, and so on. 
+This article describes about the HackerRank enabled capabilities to assess the candidate's Data Engineering skills. Data engineers are responsible for finding trends in data sets and developing algorithms to help make raw data more beneficial to the enterprise. At HackerRank, the Data Engineering skills can be assessed through pre-designed and custom-built code.tests that come with essential skills such as SQL, Apache Kafka, Hadoop, Couchbase, Apache Spark, Java, Scala, and so on. 
 
 **Note**: Validated by the [HackerRank's Skills Advisory Council](https://www.hackerrank.com/skills-directory/skills-advisory-council), HackerRank provides the [HackerRank Skills Directory](https://www.hackerrank.com/skills-directory), which clearly defines the competencies that can be leveraged to assess candidates for the Data Engineering role.\
 \

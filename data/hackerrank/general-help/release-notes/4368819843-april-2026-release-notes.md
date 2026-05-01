@@ -42,7 +42,7 @@ For more information, see [📄 AI-Assisted Tests](/articles/1152916770)and [AI 
 
 ## Unguarded AI Assistant (AI Add-On)
 
-You can now enable an **Unguarded AI Assistant** across coding, front-end, back-end, full-stack, data science, and code repository questions in tests.
+You can now enable an **Unguarded AI Assistant** across coding, front-end, back-end, full-stack, data science, and code repository questions in code.tests.
 
 The existing guarded AI assistant provides support for syntax, platform navigation, and conceptual guidance without generating complete solutions. The unguarded AI Assistant removes these restrictions and allows candidates to interact freely with the AI, similar to real-world AI coding tools. This helps you evaluate how candidates use AI in real-world development scenarios.
 
@@ -216,7 +216,7 @@ For more information, see [📄 Extend Test Duration for Candidates](/articles/4
 
 ### Show Password Option for Password-Protected Tests
 
-Candidates can now view the password while entering it for password-protected tests using the password show option (eye icon). This helps reduce login errors caused by mistyped passwords.
+Candidates can now view the password while entering it for password-protected code.tests using the password show option (eye icon). This helps reduce login errors caused by mistyped passwords.
 
 ![Show Password Option for Password-Protected Tests.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162443340-ShowPasswordOptionforPassword-ProtectedTests.gif?Expires=253370764800&Signature=qKhiGZurevQ3Dz~OUE1o4Tcj5wKr7gHXvR6BV6Xg5nr5BtCBmOtohL7v0kZ5amuE5HRbqCYtz9QS7k3Hw0897xQNqRR-Poc7cmcJDF9ZAbVUTMt664EomCSUCxTpeUmjYwyQ5Lw3PIRbxbPtf~0R~bhLJvUh-SZOgd8coS5ArVE~72PM4tetUFwrUZpfIFxjyQw3fvLw68FoDNHPCj3-Z03BoKHb0BAVyTsSBDNuy5qYILNv5oFe7FzZRdOgZhqNQJz5~w5QPrsXLsh0bHtEcfIAInLKY6lclwKyooDW6IT9yeT~j6SDIfN0RvRi7XfwlrPVZQz6IO0UFnDsmyNtyw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -280,7 +280,7 @@ For more information, see [📄 Centralized Interview Settings](/articles/924465
 
 ## Redesigned Interview Listing Page
 
-The candidate timeline has been redesigned to provide a clear view of each candidate’s activity, including invites, attempts, and interviews in one place. You can access test links, re-invite candidates, add time to tests, and view, share, or download reports directly from the timeline.
+The candidate timeline has been redesigned to provide a clear view of each candidate’s activity, including invites, attempts, and interviews in one place. You can access test links, re-invite candidates, add time to code.tests, and view, share, or download reports directly from the timeline.
 
 ![Redesigned Interview Listing Page.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162650423-RedesignedInterviewListingPage.gif?Expires=253370764800&Signature=U2ge006F4E~7-LaQEQMh90fNIQQVmRzP~7iX2tsBnGq1eOpRM4tzycfUAEPDAFBTAosA-pNHmC9N-haTzi-yJe9929RrubRdrHS~oobEH6oazyAcEsc3FjcGYv-jE6tZ36uYDfl~iVDl-TELsLikREnPevJSpMuK~L8sR4493FvslSfGgL3EliOJFU2JhgC-Fpjh8awpejyPZTXDl6r1iapx6uD3qSFN5yXyxRopmovlBi239AH3BsXBaW4s64GxeRw9ttAzVUAjeqlXw5dqM3nlrv7-WA6ydHlEOr3mHqLguyU-ufgDznqnDJDnGzjAbcugZC2b8NEcQ~0pLKU3LA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -513,7 +513,7 @@ For more information, see [📄 Greenhouse - Chakra Integration User Guide](/art
 
 ## Custom Certifications from HackerRank Tests
 
-You can now import tests from HackerRank for Work into SkillUp as certifications. This helps you drive bespoke learning and certification requirements for your organization. Admins can view available tests, select the required ones, and import them through a self-serve workflow. Once imported, these certifications behave like any other SkillUp certification.
+You can now import code.tests from HackerRank for Work into SkillUp as certifications. This helps you drive bespoke learning and certification requirements for your organization. Admins can view available code.tests, select the required ones, and import them through a self-serve workflow. Once imported, these certifications behave like any other SkillUp certification.
 
 ![Custom Certifications from HackerRank Tests.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162944841-CustomCertificationsfromHackerRankTests.gif?Expires=253370764800&Signature=uVanbc198gK5bX2l8DhwHhtzG9bf3AfkyGiRQITI4qDHkVX8Vx5~2lB1DTbbRA0i1y83NsnkILmntFXdbgy-0XS0nTSE6fDEOWhSiYiywgDWiIV-pYGxY7ckrwZIGi220velLs1UnKHJCjGsoYy4bToTqz8AUmxdZcBMmSNUT1slAfesmqAADsBOhhbuvb0YeLTiumOTqZM0201y2iG8tXmKWJf53fe~yaryAgB55w8ZjRbAN2W8TV9MCXabCv~kc5dipoaPnQu7pCCUUV2gFDH3nWG0AeQctSM5h2rShRMVikPkChN34pccXHsyA4mSNWp2eQlX9P7y4OR~ED5w~g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -567,17 +567,17 @@ You can continue to add candidates using existing import options, such as CSV up
 
 ### Global Candidates Page
 
-The global Candidates page is being deprecated. You can continue to search for candidates using the search bar or view candidates within specific tests from the Candidates tab.
+The global Candidates page is being deprecated. You can continue to search for candidates using the search bar or view candidates within specific code.tests from the Candidates tab.
 
 ### Candidate Prep Portal
 
 The Candidate Prep Portal is no longer available as part of the standardization of the candidate experience on the candidate site.
 
-Candidates now access pre-test information and start tests directly from the candidate site in a single, consistent flow before the assessment.
+Candidates now access pre-test information and start code.tests directly from the candidate site in a single, consistent flow before the assessment.
 
 ### Local IDE/Offline Test Flow
 
-The Local IDE (Offline) experience is no longer supported due to integrity concerns. Candidates are now required to complete assessments using the HackerRank IDE for both new and existing tests.
+The Local IDE (Offline) experience is no longer supported due to integrity concerns. Candidates are now required to complete assessments using the HackerRank IDE for both new and existing code.tests.
 
 ## Interviews
 

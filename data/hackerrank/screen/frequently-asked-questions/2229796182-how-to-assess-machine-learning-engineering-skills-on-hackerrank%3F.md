@@ -16,7 +16,7 @@ _Last updated: Dec 13, 2024, 5:08 AM (Last updated 1 year ago)_
 
 ## Overview
 
-This article talks about the HackerRank enabled capabilities to assess Machine Learning Engineering skills. **Machine learning engineers** are responsible for creating programs and algorithms that enable machines to take actions without being directed by combining software engineering and data analysis. At HackerRank, Machine Learning Engineering skills can be assessed through our pre-designed and custom-built tests with important skills such as Python, Applied Mathematics, Statistics, PyTorch, and TensorFlow. 
+This article talks about the HackerRank enabled capabilities to assess Machine Learning Engineering skills. **Machine learning engineers** are responsible for creating programs and algorithms that enable machines to take actions without being directed by combining software engineering and data analysis. At HackerRank, Machine Learning Engineering skills can be assessed through our pre-designed and custom-built code.tests with important skills such as Python, Applied Mathematics, Statistics, PyTorch, and TensorFlow. 
 
 **Note:** Before we proceed, please visit [here](https://www.hackerrank.com/skills-directory) to learn more about how we define the core competencies of the skills listed above. 
 

@@ -29,7 +29,7 @@ _Last updated: Oct 3, 2025, 5:59 PM (Last updated 7 months ago)_
 
 4.  **How can I check a candidate’s attempt using their email?**
 
-    On your home page, click the **Candidates** tab and search for the candidate by name or email ID. This search gives you the candidate's history, including a Skills summary, the timeline of events (tests and interviews attempted), and their public profile.
+    On your home page, click the **Candidates** tab and search for the candidate by name or email ID. This search gives you the candidate's history, including a Skills summary, the timeline of events (code.tests and interviews attempted), and their public profile.
 
 5.  **Why can I not send email invites to candidates for a test?**
 

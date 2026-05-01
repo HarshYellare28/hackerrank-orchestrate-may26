@@ -1,8 +1,8 @@
 ---
 title: "Configure Email Settings for Tests"
-title_slug: "configure-email-settings-for-tests"
-source_url: "https://support.hackerrank.com/articles/2564162886-modifying-email-settings-for-tests"
-article_slug: "2564162886-modifying-email-settings-for-tests"
+title_slug: "configure-email-settings-for-code.tests"
+source_url: "https://support.hackerrank.com/articles/2564162886-modifying-email-settings-for-code.tests"
+article_slug: "2564162886-modifying-email-settings-for-code.tests"
 last_updated_exact: "Oct 15, 2025, 6:12 PM"
 last_updated_relative: "Last updated 6 months ago"
 breadcrumbs:

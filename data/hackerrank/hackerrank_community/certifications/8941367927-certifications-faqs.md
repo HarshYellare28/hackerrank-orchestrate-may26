@@ -47,9 +47,9 @@ If you have not received your certificate, follow these steps:
 
 4.  Contact HackerRank support at [help@hackerrank.com](mailto:help@hackerrank.com) if your certificate is still missing.
 
-**Which skills certification tests allow only one attempt?**
+**Which skills certification code.tests allow only one attempt?**
 
-The following skills certification tests allow only one attempt:
+The following skills certification code.tests allow only one attempt:
 
 - Angular (Basic)
 
@@ -81,7 +81,7 @@ If you lose your internet connection, the test pauses automatically. When your c
 
 **Can I get the official solutions for my certification test to compare my results?**
 
-No. HackerRank does not share official solutions or questions from certification tests.
+No. HackerRank does not share official solutions or questions from certification code.tests.
 
 **Can I request a date change on my certificate?**
 

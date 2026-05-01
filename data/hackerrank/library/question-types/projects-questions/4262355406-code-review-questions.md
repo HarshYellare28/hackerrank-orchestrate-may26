@@ -1,6 +1,6 @@
 ---
-title: "Code Review Questions Creating a Code Review question Candidate experience Scoring a Code Review question in tests"
-title_slug: "code-review-questions-creating-a-code-review-question-candidate-experience-scoring-a-code-review-question-in-tests"
+title: "Code Review Questions Creating a Code Review question Candidate experience Scoring a Code Review question in code.tests"
+title_slug: "code-review-questions-creating-a-code-review-question-candidate-experience-scoring-a-code-review-question-in-code.tests"
 source_url: "https://support.hackerrank.com/articles/4262355406-code-review-questions"
 article_slug: "4262355406-code-review-questions"
 last_updated_exact: "Mar 26, 2026, 5:30 PM"
@@ -11,7 +11,7 @@ breadcrumbs:
   - "Projects Questions"
 ---
 
-# Code Review Questions Creating a Code Review question Candidate experience Scoring a Code Review question in tests
+# Code Review Questions Creating a Code Review question Candidate experience Scoring a Code Review question in code.tests
 
 _Last updated: Mar 26, 2026, 5:30 PM (Last updated 1 month ago)_
 
@@ -131,7 +131,7 @@ The system uses these comments as the basis for automated evaluation.
 
 ![candidate exp code review.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765965451065-candidateexpcodereview.png?Expires=253370764800&Signature=kByGCTo~k68ZhV~3-wPSV4Y6Wzs9gD5PdfpaHo3a21DJ4iqBBVQ27ZJxVjuUnZmpnpq-GIzt-M~7evqNQZd2OYmIbjaTRikLTYBEzBnzNBX0xWl3F-vzruAQLrPY6NF2RPiV60JKilsRmmw9dqyI2a3FlONOEoi1uGMCnXR-lx9Kvh7SKU4pKjK5PT1DX8nSc-I6g5FNXd3Et11Zf7fP7dwQrgCXPe4MS85UBxtsxzv8-iMoaDAfgLmWVBBpnMj-EWPyYfH72SxQEPcORKB~Wo79BwlgymKQKFusVJ6swq9YUEQN5udOV1tGgyM6lbvLvcsphIr-xuTlPm0b1LXHxA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Code Review question in tests
+# Scoring a Code Review question in code.tests
 
 You can score Code Review questions in two ways:
 

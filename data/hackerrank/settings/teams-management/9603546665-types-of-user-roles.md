@@ -34,7 +34,7 @@ Company admins hold the highest level of access and control within the HackerRa
 
 - **Team Management:** As a Company Admin, you can create, modify, and delete teams. You also have the power to assign Team Admins and manage team-specific settings.
 
-- **Access:** Company Admins can access all tests and interviews across the platform, regardless of which team created them. They also have complete access to questions, Interview templates, and candidate details on the platform.
+- **Access:** Company Admins can access all code.tests and interviews across the platform, regardless of which team created them. They also have complete access to questions, Interview templates, and candidate details on the platform.
 
 - **Setting Configuration:** Company Admins can configure all [company-wide settings](https://support.hackerrank.com/hc/en-us/sections/19074972214675-Company-Level-Admin-Settings), such as company name, brand settings, etc., within the HackerRank platform to align with the organization's needs and preferences.
 
@@ -42,7 +42,7 @@ Company admins hold the highest level of access and control within the HackerRa
 
 A developer role is intended for software developers or technical managers, allowing them to:
 
-- Create and edit questions, tests, and reports.
+- Create and edit questions, code.tests, and reports.
 
 - Use HackerRank Interview to conduct interviews (if on an enterprise plan).
 
@@ -58,13 +58,13 @@ The interviewer role provides limited access and focuses on the interview proces
 
 - View candidate reports shared with them.
 
-**Note:** Interviewers do not have access to tests.
+**Note:** Interviewers do not have access to code.tests.
 
 ## Recruiter
 
 A recruiter role grants full access to the platform, including the ability to:
 
-- Create and edit tests, questions, and reports.
+- Create and edit code.tests, questions, and reports.
 
 - Send invitations to candidates.
 

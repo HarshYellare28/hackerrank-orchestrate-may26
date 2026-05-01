@@ -60,7 +60,7 @@ Refer to [Introduction to HackerRank Interviews](https://support.hackerrank.com/
 
 ### No More Plagiarism Warning Pop-Ups
 
-Candidates will no longer experience pop-up warnings when attempting to copy-paste from an external source or switch tabs during a test, minimizing interruptions during the assessment. Although candidates will no longer see pop-up notifications during tests, integrity guidelines will be provided on the pre-test instruction page, and suspicious activity signals will continue to be reflected in the candidate report and data export.
+Candidates will no longer experience pop-up warnings when attempting to copy-paste from an external source or switch tabs during a test, minimizing interruptions during the assessment. Although candidates will no longer see pop-up notifications during code.tests, integrity guidelines will be provided on the pre-test instruction page, and suspicious activity signals will continue to be reflected in the candidate report and data export.
 
 Refer to [Proctoring HackerRank Tests](https://support.hackerrank.com/articles/1079706165-proctoring-hackerrank-tests#copy-paste-tracking-7) for more information.
 
@@ -177,7 +177,7 @@ Specific columns in the Test Data Download are reordered for ease of data consum
 
 ### Enhanced Test Listing Export
 
-The test listing export now includes a new column, "Total Leaked Questions," which displays the number of leaked questions in each test. This update lets you quickly identify which tests contain leaked questions and require question replacements when downloading the export.
+The test listing export now includes a new column, "Total Leaked Questions," which displays the number of leaked questions in each test. This update lets you quickly identify which code.tests contain leaked questions and require question replacements when downloading the export.
 
 ## **Integrations**
 
@@ -217,7 +217,7 @@ Refer to [Bulk User Management](https://support.hackerrank.com/articles/15081818
 
 ### Azure Hands-On Questions
 
-You can now assess candidates by adding Azure hands-on questions from the HackerRank library to your tests. With this new Cloud skill offering, candidates can complete tasks directly in the Azure Portal using a temporary account provided by HackerRank. For example, they might be asked to set up a Virtual Network and configure Network Security Groups or host a website using Azure Web Apps. Once completed, their work is automatically scored and logged in the test report.
+You can now assess candidates by adding Azure hands-on questions from the HackerRank library to your code.tests. With this new Cloud skill offering, candidates can complete tasks directly in the Azure Portal using a temporary account provided by HackerRank. For example, they might be asked to set up a Virtual Network and configure Network Security Groups or host a website using Azure Web Apps. Once completed, their work is automatically scored and logged in the test report.
 
 <img src="https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046042478-?Expires=253370764800&amp;Signature=lqBtlXp2RLhmDFAC8qmM8WAYjmD8kwoprhbLWfJ4Fd0mDMHcTHamAjOAED-gGl9itBvscMBQadryQR-gCA5pg4U4EsgtryeT8QsVBOTF-HIR3WHqZKnl5uPwJo1exrVLRvO0Fd7JgPQj451lXOwGsUQvL-h9z3VVEJakbbLP~ID0QIF3MoOJ5R-wUC9Q~n5PFMNIHhOL4-FrjRAhKn0~1RoNYFRIgwSTTxBTnVsFySqcUalqsDqN1DH5Ger2MQHbxSGLp~Yu1udmMphXyr4W~bnFRpTUTVTfALqmZgimJ-KU29bcfnF~f0etuTIRZbjSIua5sArvsNYUI6EgdXoQ3g__&amp;Key-Pair-Id=K3NV4LZ47N8M46" class="kb-image block" data-drag-handle="false" />
 

@@ -20,7 +20,7 @@ HackerRank for Work allows you to extend the test duration for candidates in two
 
 - [Add Extra Time](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#add-extra-time-17)
 
-This ensures that candidates have a fair opportunity to complete their tests, whether due to accessibility needs or unexpected technical issues.
+This ensures that candidates have a fair opportunity to complete their code.tests, whether due to accessibility needs or unexpected technical issues.
 
 # Add Time Accommodation
 
@@ -130,9 +130,9 @@ To add extra time for specific candidates:
 
 - Do not add time to a test that contains DevOps questions after it ends or after the candidate submits it. The system purges the virtual machine for DevOps questions upon submission, and added time does not restore access. To allow additional time, re-invite the candidate to take the test as a new attempt.
 
-## Adding extra time in variant-based tests
+## Adding extra time in variant-based code.tests
 
-For variant-based tests, you can add extra time at the section level for candidates.
+For variant-based code.tests, you can add extra time at the section level for candidates.
 
 To add extra time for specific candidates in a variant-based test:
 

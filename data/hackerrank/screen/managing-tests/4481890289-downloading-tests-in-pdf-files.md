@@ -1,8 +1,8 @@
 ---
 title: "Download Tests as PDF Prerequisites Downloading test as PDF"
-title_slug: "download-tests-as-pdf-prerequisites-downloading-test-as-pdf"
-source_url: "https://support.hackerrank.com/articles/4481890289-downloading-tests-in-pdf-files"
-article_slug: "4481890289-downloading-tests-in-pdf-files"
+title_slug: "download-code.tests-as-pdf-prerequisites-downloading-test-as-pdf"
+source_url: "https://support.hackerrank.com/articles/4481890289-downloading-code.tests-in-pdf-files"
+article_slug: "4481890289-downloading-code.tests-in-pdf-files"
 last_updated_exact: "Sep 1, 2025, 12:08 PM"
 last_updated_relative: "Last updated 8 months ago"
 breadcrumbs:

@@ -14,7 +14,7 @@ breadcrumbs:
 
 _Last updated: Nov 19, 2025, 7:52 PM (Last updated 5 months ago)_
 
-When you create questions or answer tests, you may encounter errors caused by blocked domains. The HackerRank platform notifies you of blocked domains in the IDE and identifies the ones you must safelist to ensure seamless interaction across various features.
+When you create questions or answer code.tests, you may encounter errors caused by blocked domains. The HackerRank platform notifies you of blocked domains in the IDE and identifies the ones you must safelist to ensure seamless interaction across various features.
 
 # Affected areas
 

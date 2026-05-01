@@ -1,8 +1,8 @@
 ---
 title: "Jazz - HackerRank Tests integration"
-title_slug: "jazz-hackerrank-tests-integration"
-source_url: "https://support.hackerrank.com/articles/5164370576-jazz---hackerrank-tests-integration"
-article_slug: "5164370576-jazz---hackerrank-tests-integration"
+title_slug: "jazz-hackerrank-code.tests-integration"
+source_url: "https://support.hackerrank.com/articles/5164370576-jazz---hackerrank-code.tests-integration"
+article_slug: "5164370576-jazz---hackerrank-code.tests-integration"
 last_updated_exact: "Jan 23, 2025, 4:08 AM"
 last_updated_relative: "Last updated 1 year ago"
 breadcrumbs:
@@ -17,7 +17,7 @@ _Last updated: Jan 23, 2025, 4:08 AM (Last updated 1 year ago)_
 
 ## Overview
 
-HackerRank integrates with Jazz, an Applicant Tracking System (ATS) previously known as *Resumator*. The integration enables recruiters to access HackerRank Tests directly within Jazz and invite their Candidates to attempt these tests. The Candidates' scores in these Tests are also updated in Jazz, allowing recruiters to select the best-performing Candidates for the further stages in the hiring process.
+HackerRank integrates with Jazz, an Applicant Tracking System (ATS) previously known as *Resumator*. The integration enables recruiters to access HackerRank Tests directly within Jazz and invite their Candidates to attempt these code.tests. The Candidates' scores in these Tests are also updated in Jazz, allowing recruiters to select the best-performing Candidates for the further stages in the hiring process.
 
 ## Tests Features
 
