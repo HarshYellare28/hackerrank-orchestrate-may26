@@ -97,7 +97,7 @@ python code/main.py \
   --company "Visa"
 ```
 
-Single-ticket mode prints JSON with the same fields as the output CSV:
+Single-ticket mode is useful for user-provided ad hoc questions and manual demos. It does not write `support_tickets/output.csv`; it prints JSON with the same fields as the output CSV:
 
 ```text
 status, product_area, response, justification, request_type
@@ -108,6 +108,65 @@ Use the dependency-free retriever fallback if Qdrant is unavailable:
 ```bash
 python code/main.py --retriever bm25
 ```
+
+## Additional Features
+
+### User Input Flow
+
+The challenge requires CSV input/output, but this agent also supports direct terminal questions:
+
+```bash
+python code/main.py \
+  --issue "I want to set up Claude LTI in Canvas for my course." \
+  --subject "Canvas LTI setup" \
+  --company "Claude"
+```
+
+The agent normalizes the input, runs the same retrieval/routing/risk pipeline as CSV mode, and prints one JSON prediction. The `--company` value can be `HackerRank`, `Claude`, `Visa`, `None`, or blank.
+
+### Support Document References
+
+When a grounded answer is generated, the agent appends a support-document reference inside the `response` field:
+
+```text
+Reference: https://...
+```
+
+This keeps the evaluator schema unchanged while giving a real user a link for more details.
+
+### Pluggable Retrieval
+
+The default retriever is Qdrant local. It persists a local index under:
+
+```text
+data/index/qdrant
+```
+
+Qdrant is used for the real support corpus and for a separate routing-hints collection. Routing hints help with semantic classification, but generated hints are never passed as answer evidence.
+
+BM25 is available as a dependency-free fallback:
+
+```bash
+python code/main.py --retriever bm25
+```
+
+### Risk and Escalation
+
+The agent includes deterministic gates for cases where retrieval alone is not enough:
+
+- admin-only user/account changes
+- broad outages and all-requests-failing bugs
+- fraud, stolen cards, blocked cards, and identity theft
+- assessment score and hiring-outcome disputes
+- security vulnerability and bug bounty reports
+- procurement/security questionnaire requests
+- unsafe local system commands
+- prompt injection and requests to reveal internal logic
+- harmless out-of-scope requests
+
+### Local LLM With Fallback
+
+Ollama is the recommended LLM path for reproducibility without paid credits. OpenAI is supported if an API key is available. With `SUPPORT_AGENT_ALLOW_HEURISTIC_FALLBACK=true`, the agent can still finish runs if the LLM provider is unavailable.
 
 ## High-Level Flow
 

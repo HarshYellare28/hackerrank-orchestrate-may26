@@ -69,11 +69,24 @@ python code/main.py \
   --company "Visa"
 ```
 
+This mode is for ad hoc user input. It does not write `support_tickets/output.csv`; it prints one JSON object with the same fields as the CSV output.
+
 BM25 fallback:
 
 ```bash
 python code/main.py --retriever bm25
 ```
+
+## Additional Features
+
+- **Interactive ticket mode:** Supports direct user-provided tickets through `--issue`, `--subject`, and `--company` without creating a CSV.
+- **Document references in responses:** Grounded replies include a `Reference: <support-doc-url>` inside the `response` text. This gives users a path to detailed docs without changing the required CSV schema.
+- **Qdrant local retrieval:** Uses local Qdrant sparse retrieval by default, so the agent can scale beyond the current small corpus without requiring a hosted vector database.
+- **BM25 fallback:** Keeps the agent runnable when Qdrant or FastEmbed dependencies are unavailable.
+- **Routing hints:** Maintains generated/default semantic routing hints separately from support evidence. Hints help classify domain/product/risk, but are never used as final grounding evidence.
+- **Risk and escalation gates:** Explicitly handles outages, fraud/stolen card cases, account/admin actions, score disputes, unsafe commands, prompt injection, security review, and unsupported cases.
+- **Ollama-first LLM config:** Runs locally with Ollama by default and supports OpenAI if API credits are available.
+- **Schema validation:** Final outputs are constrained to the required columns and allowed enum values.
 
 ## High-Level Flow
 
