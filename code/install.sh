@@ -6,9 +6,12 @@ python3 -m venv .venv
 python -m pip install --upgrade pip
 python -m pip install -r code/requirements.txt
 
-if [ ! -f .env ]; then
+if [ ! -f .env ] && [ -f .env.example ]; then
   cp .env.example .env
   echo "Created .env from .env.example."
+elif [ ! -f .env ] && [ -f code/.env.example ]; then
+  cp code/.env.example .env
+  echo "Created .env from code/.env.example."
 else
   echo ".env already exists; leaving it unchanged."
 fi

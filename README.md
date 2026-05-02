@@ -4,6 +4,8 @@ This repository contains a terminal-based multi-domain support agent for the Hac
 
 The main implementation is in `code/`.
 
+For submission, `code.zip` should contain the `code/` directory only. It is meant to be unzipped into the challenge repository root that already has `data/` and `support_tickets/`; the corpus and ticket CSVs are not bundled inside `code.zip`.
+
 ## Quickstart
 
 From the repository root:

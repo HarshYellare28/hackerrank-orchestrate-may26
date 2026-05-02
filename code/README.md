@@ -14,6 +14,17 @@ python code/check_ollama.py
 python code/main.py --retriever qdrant --rebuild-index
 ```
 
+If you are starting from `code.zip`, unzip it into the challenge repository root so the paths look like this:
+
+```text
+.
+├── code/
+├── data/
+└── support_tickets/
+```
+
+`code.zip` contains the agent implementation and setup files. It does not include the challenge corpus (`data/`) or ticket CSVs (`support_tickets/`), because those are provided by the base repository/evaluator.
+
 The default run reads:
 
 ```text
