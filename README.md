@@ -32,6 +32,8 @@ support_tickets/output.csv
 
 `code/install.sh` creates `.venv`, installs Python dependencies, and creates `.env` from `.env.example` if one does not already exist.
 
+Ollama is not a Python package, so it is not listed as a pip dependency. `code/setup_ollama.sh` installs Ollama when possible, then pulls the configured local model.
+
 Recommended local mode:
 
 ```bash

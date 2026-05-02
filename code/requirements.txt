@@ -1,3 +1,5 @@
+# Python dependencies only.
+# Ollama is a system runtime installed by `sh code/setup_ollama.sh`.
 python-dotenv==1.0.1
 qdrant-client[fastembed]==1.14.3
 openai==1.76.0

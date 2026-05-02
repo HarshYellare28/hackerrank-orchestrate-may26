@@ -34,7 +34,7 @@ support_tickets/output.csv
 
 `code/install.sh` creates `.venv`, installs Python dependencies from `code/requirements.txt`, and creates `.env` from `.env.example` if `.env` does not already exist.
 
-`code/setup_ollama.sh` pulls the default local model:
+Ollama is not installed through `requirements.txt` because it is a system runtime, not a Python package. `code/setup_ollama.sh` attempts to install Ollama on macOS with Homebrew or on Linux with Ollama's install script, then pulls the default local model:
 
 ```text
 qwen2.5:1.5b
